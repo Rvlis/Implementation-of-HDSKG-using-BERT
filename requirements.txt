@@ -1,0 +1,13 @@
+stanza==1.2
+stanza.install_corenlp()
+
+spacy==2.3.2
+neuralcoref==4.0
+en_core_web_md-2.3.*
+
+bs4 urllib3==1.25.11 for bug
+
+bert-tensorflow==1.0.1
+tensorflow=1.15.0
+scikit-learn
+pandas

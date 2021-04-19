@@ -1,0 +1,801 @@
+entity1,relation,entity2,merged_sentence,label
+direct implementation,defined by,recursive divide,direct implementation defined by recursive divide,F
+A subroutine,is to compute,function,a subroutine is to compute function,F
+purpose,is to compute,function,purpose is to compute function,F
+A subroutine,is called,a predicate,a subroutine is called a predicate,F
+purpose,is called,a predicate,purpose is called a predicate,F
+all subroutines,are called,predicates,all subroutines are called predicates,F
+all subroutines,determine,success,all subroutines determine success,F
+all subroutines,determine,failure,all subroutines determine failure,F
+all subroutines,are called,logic programming languages,all subroutines are called logic programming languages,F
+Function,has,a mathematical definition,function has a mathematical definition,F
+a mathematical definition,is important in,computer science,a mathematical definition is important in computer science,F
+a mathematical definition,is important in,statistics,a mathematical definition is important in statistics,F
+one argument Mathematical function,return,the same one value,one argument mathematical function return the same one value,F
+one argument Mathematical function,return,one argument Mathematical function,one argument mathematical function return one argument mathematical function,F
+question,pertains to,optimization,question pertains to optimization,F
+anything,deals with,capacity,anything deals with capacity,F
+anything,deals with,speed,anything deals with speed,F
+anything,consider using,this tag,anything consider using this tag,F
+Performance,is represented in,big O notation,performance is represented in big o notation,F
+an algorithm's resource requirements,change in,response,an algorithm's resource requirements change in response,F
+this tag,represent,system performance,this tag represent system performance,F
+latencies,don't follow,a normal distribution,latencies don't follow a normal distribution,F
+latencies,have,high upper limits,latencies have high upper limits,F
+Questions,be tagged with,the target framework,questions be tagged with the target framework,F
+the user,do,something,the user do something,F
+the user,click,a button,the user click a button,F
+a batch program,spends,a batch program,a batch program spends a batch program,F
+All visual elements,derive from,the Control class,all visual elements derive from the control class,F
+the Control class,has,docking support,the control class has docking support,F
+a control,rearrange,the Control class position,a control rearrange the control class position,F
+Active Accessibility support,helps,impaired users,active accessibility support helps impaired users,F
+Active Accessibility support,use,Windows Forms,active accessibility support use windows forms,F
+Windows Forms added Windows Forms,own,controls,windows forms added windows forms own controls,F
+own controls,are rendered using,using GDI,own controls are rendered using using gdi,F
+A data frame,contains,data,a data frame contains data,F
+the term,used in,MATLAB,the term used in matlab,F
+the term,used in,SQL,the term used in sql,F
+A data frame,contains,data,a data frame contains data,F
+table,used in,SQL,table used in sql,F
+table,used in,MATLAB,table used in matlab,F
+the term,used in,SQL,the term used in sql,F
+the term,used in,MATLAB,the term used in matlab,F
+each language,uses,this term,each language uses this term,F
+each language,are aimed at,the level,each language are aimed at the level,F
+Data frames,are one of,matrices,data frames are one of matrices,F
+indices,can be used for,alignment,indices can be used for alignment,F
+columns,are somewhat prioritized over,R,columns are somewhat prioritized over r,F
+columns,are somewhat prioritized over,an implementation perspective,columns are somewhat prioritized over an implementation perspective,F
+columns,are somewhat prioritized over,rows,columns are somewhat prioritized over rows,F
+DataFrames,can be constructed from,a wide array,dataframes can be constructed from a wide array,F
+Every column,has,the same length,every column has the same length,F
+each variable,can have,a different type,each variable can have a different type,F
+the first row,corresponds to,names,the first row corresponds to names,F
+the first row,corresponds to,the column,the first row corresponds to the column,F
+the first column,corresponds to,the row,the first column corresponds to the row,F
+These row,are treated as,information,these row are treated as information,F
+columns,are treated as,information,columns are treated as information,F
+the data,stored in,A DataFrame,the data stored in a dataframe,F
+Programming questions,should be tagged,the cross-platform version PowerShell Core,programming questions should be tagged the cross-platform version powershell core,F
+the cross-platform version PowerShell Core,should be tagged,the cross-platform version PowerShell Core,the cross-platform version powershell core should be tagged the cross-platform version powershell core,F
+Questions,should be asked on,Super User,questions should be asked on super user,F
+Questions,should be asked on,Server Fault,questions should be asked on server fault,F
+Questions,should be asked on,Super User,questions should be asked on super user,F
+Questions,should be asked on,Server Fault,questions should be asked on server fault,F
+an underlying scripting environment,run,scripts,an underlying scripting environment run scripts,F
+an underlying scripting environment,run,debugging environment,an underlying scripting environment run debugging environment,F
+an underlying scripting environment,run,line,an underlying scripting environment run line,F
+PowerShell,has,a language,powershell has a language,F
+the same kinds,work across,many domains,the same kinds work across many domains,F
+Date,Process,objects representing running processes,date process objects representing running processes,F
+objects representing running processes,can be piped to,other commands,objects representing running processes can be piped to other commands,F
+other commands,work with,process objects,other commands work with process objects,F
+Many commands,have,short aliases,many commands have short aliases,F
+PowerShell,manipulating,manipulating text,powershell manipulating manipulating text,F
+PowerShell,enhances,PowerShell,powershell enhances powershell,F
+objects,carry,type information,objects carry type information,F
+objects,carry,complex state,objects carry complex state,F
+comma separated arguments,separated,comma separated arguments,comma separated arguments separated comma separated arguments,F
+the problem,caused by,this issue,the problem caused by this issue,F
+James,are packaged,a single argument,james are packaged a single argument,F
+Bond,are packaged,a single argument,bond are packaged a single argument,F
+a single argument,is passed to,the first parameter,a single argument is passed to the first parameter,F
+the use,will catch,this type,the use will catch this type,F
+the use,will catch,PowerShell,the use will catch powershell,F
+a profile.ps1,defined inside,this folder,a profile.ps1 defined inside this folder,F
+The profile file,is used to define,certain commands,the profile file is used to define certain commands,F
+Common commands,might include adding,in,common commands might include adding in,F
+PSReadLine,replaces,the command line editing experience,psreadline replaces the command line editing experience,F
+Powertab,offers enhanced,tab expansion,powertab offers enhanced tab expansion,F
+members,have expressed,interest,members have expressed interest,F
+members,been added to,PowerShell,members been added to powershell,F
+members,haven't been added,PowerShell,members haven't been added powershell,F
+Questions,should be tagged,core,questions should be tagged core,F
+various toolboxes,extend,core capabilities,various toolboxes extend core capabilities,F
+programmers,must own,a valid software license,programmers must own a valid software license,F
+users,must own,a valid software license,users must own a valid software license,F
+programmers,must own,open source languages,programmers must own open source languages,F
+users,must own,open source languages,users must own open source languages,F
+A good API,develop,a program,a good api develop a program,F
+A programmer,puts,the building,a programmer puts the building,F
+An API,may include,specifications,an api may include specifications,F
+An API specification,can take,many forms,an api specification can take many forms,F
+Questions,recommend,an API,questions recommend an api,F
+Questions,recommend,documentation,questions recommend documentation,F
+Questions,recommend,site resource,questions recommend site resource,F
+the term,is used to refer,historical convention,the term is used to refer historical convention,F
+the apache tag,is associated,the Apache Server Project,the apache tag is associated the apache server project,F
+the Python language,adds,support,the python language adds support,F
+the Python language,adds,matrixes,the python language adds matrixes,F
+the Python language,adds,a large library,the python language adds a large library,F
+the Python language,adds,large multidimensional arrays,the python language adds large multidimensional arrays,F
+NumPy,contains among,other things,numpy contains among other things,F
+a software library,implements,transactional SQL database engine,a software library implements transactional sql database engine,F
+a software library,implements,transactional SQL database engine,a software library implements transactional sql database engine,F
+potential answerers,recreate,the database,potential answerers recreate the database,F
+solution proposals,are supported by,test output,solution proposals are supported by test output,F
+solution proposals,are supported by,test runs,solution proposals are supported by test runs,F
+Showing pictures,does not provide,the same benefits,showing pictures does not provide the same benefits,F
+a good way,is used to handle,the database,a good way is used to handle the database,F
+SQLite,is commonly used to store,data,sqlite is commonly used to store data,F
+the application program,communicates,no standalone processes,the application program communicates no standalone processes,F
+the application program,uses,SQLite's functionality,the application program uses sqlite's functionality,F
+the application program,uses,simple function calls,the application program uses simple function calls,F
+function,calls within,a single process,function calls within a single process,F
+SQLite,stores,the entire database,sqlite stores the entire database,F
+SQLite,stores,a single cross-platform file,sqlite stores a single cross-platform file,F
+Entity Framework,supports,change tracking,entity framework supports change tracking,F
+Entity Framework,supports,updates,entity framework supports updates,F
+Entity Framework,supports,schema migrations,entity framework supports schema migrations,F
+relational data using domain,using,specific objects,relational data using domain using specific objects,F
+Entity Framework,eliminates,the need,entity framework eliminates the need,F
+Entity Framework,supports,major RDBM products including SQL Server,entity framework supports major rdbm products including sql server,F
+Entity Framework,supports,Microsoft,entity framework supports microsoft,F
+new codebase,shares,many concepts,new codebase shares many concepts,F
+new codebase,shares,the classic framework,new codebase shares the classic framework,F
+new codebase,differs considerably in mapping,specific features,new codebase differs considerably in mapping specific features,F
+new codebase,differs considerably in mapping,mapping syntax,new codebase differs considerably in mapping mapping syntax,F
+new codebase,differs considerably in mapping,query translation,new codebase differs considerably in mapping query translation,F
+core,having,new codebase,core having new codebase,F
+core,came with,many breaking changes,core came with many breaking changes,F
+core,marking,the beginning,core marking the beginning,F
+versions,keep,track,versions keep track,F
+Selenium,provides,specific language,selenium provides specific language,F
+Selenium,write,tests,selenium write tests,F
+Test playback,is possible in,modern web browsers,test playback is possible in modern web browsers,F
+all RC users,will find,that Selenium,all rc users will find that selenium,F
+WebDriver users,will find,that Selenium,webdriver users will find that selenium,F
+the browser API,is provided by,the browser manufacturer,the browser api is provided by the browser manufacturer,F
+provided JavaScript libraries,would be injected into,the browser,provided javascript libraries would be injected into the browser,F
+Jason Huggins,was later joined by,testers,jason huggins was later joined by testers,F
+Jason Huggins,was later joined by,ThoughtWorks,jason huggins was later joined by thoughtworks,F
+Jason Huggins,was later joined by,other programmers,jason huggins was later joined by other programmers,F
+Selenium,can be downloaded,charge,selenium can be downloaded charge,F
+Selenium Recorder,was initially created by,the source code base,selenium recorder was initially created by the source code base,F
+developers,integrate,developers apps,developers integrate developers apps,F
+developers,integrate,social networking service,developers integrate social networking service,F
+Facebook,has,variety,facebook has variety,F
+this tag,is also NOT for,questions,this tag is also not for questions,F
+party developers,own,applications,party developers own applications,F
+party developers,own,services,party developers own services,F
+applications,access,data,applications access data,F
+services,access,data,services access data,F
+applications,access,Facebook,applications access facebook,F
+services,access,Facebook,services access facebook,F
+developers,integrate,developers applications,developers integrate developers applications,F
+developers,integrate,social networking serviceFacebook,developers integrate social networking servicefacebook,F
+Facebook Platform,offers,a set,facebook platform offers a set,F
+Applications,allowed to access,the graph,applications allowed to access the graph,F
+Facebook Platform,has evolved from enabling,May,facebook platform has evolved from enabling may,F
+Facebook Platform,has evolved from enabling,enabling development,facebook platform has evolved from enabling enabling development,F
+photos,can post to,wall,photos can post to wall,F
+Flutter,is used to develop,applications,flutter is used to develop applications,F
+Flutter applications,are written in,the Dart programming language,flutter applications are written in the dart programming language,F
+Flutter applications,can connect to,platform languages,flutter applications can connect to platform languages,F
+Flutter,is different than,other options,flutter is different than other options,F
+the OEM widgets,shipped with,the device,the oem widgets shipped with the device,F
+widgets,make for,beautiful apps,widgets make for beautiful apps,F
+Representational State Transfer,has increased in,the intrinsic de-coupling,representational state transfer has increased in the intrinsic de-coupling,F
+Representational State Transfer,has increased in,popularity,representational state transfer has increased in popularity,F
+an architectural style,uses,identification,an architectural style uses identification,F
+The term,was introduced,Roy Fielding,the term was introduced roy fielding,F
+RESTful api,is queried to find,information,restful api is queried to find information,F
+The term 'shell,refers to,a general class,the term 'shell refers to a general class,F
+solution,should be assumed,a specific tag,solution should be assumed a specific tag,F
+The term 'shell,refers to,a general class,the term 'shell refers to a general class,F
+rc samples,should be clear about,the version,rc samples should be clear about the version,F
+rc samples,should be clear about,the environment,rc samples should be clear about the environment,F
+Tcsh,comes originally as,a design improvement,tcsh comes originally as a design improvement,F
+terminal emulators,are used to access,graphical user mode,terminal emulators are used to access graphical user mode,F
+terminal emulators,are used to access,the original C shell,terminal emulators are used to access the original c shell,F
+LINQ,supports,two notations,linq supports two notations,F
+queries,are expressed in,dialects,queries are expressed in dialects,F
+queries,are expressed in,like language,queries are expressed in like language,F
+This query,would return,the name,this query would return the name,F
+All LINQ query operations,consist of,three distinct actions,all linq query operations consist of three distinct actions,F
+This query,would return,category,this query would return category,F
+This query,would return,a price,this query would return a price,F
+Other implementations,can be found on,the Internet,other implementations can be found on the internet,F
+LINQ,add,operators,linq add operators,F
+LINQ,add,the ones,linq add the ones,F
+statements,may be executed repeatedly until,programming,statements may be executed repeatedly until programming,F
+Entry,Controlled,loops,entry controlled loops,F
+A loop,checks,the condition,a loop checks the condition,F
+Exit,Controlled,loop,exit controlled loop,F
+A loop,can be categorized in,two different ways,a loop can be categorized in two different ways,F
+A loop,can be categorized in,A loop,a loop can be categorized in a loop,F
+A loop,checks for,the condition,a loop checks for the condition,F
+languages,provide,a subset,languages provide a subset,F
+loops,are,example,loops are example,F
+loops,are,Python,loops are python,F
+keyword,are,example,keyword are example,F
+keyword,are,Python,keyword are python,F
+two keywords,simplify,the task,two keywords simplify the task,F
+two keywords,are,some languages,two keywords are some languages,F
+The tag loops,can be used for,problems,the tag loops can be used for problems,F
+?kju?.ti?,used for developing,non-GUI programs,?kju?.ti? used for developing non-gui programs,F
+Nokia,decided to sell,One month,nokia decided to sell one month,F
+Nokia,decided to sell,Qt,nokia decided to sell qt,F
+Qt,is available under,four different licenses,qt is available under four different licenses,F
+The major version,indicates,API,the major version indicates api,F
+The major version,indicates,binary compatibility,the major version indicates binary compatibility,F
+questions,tagged specifically as,qt3,questions tagged specifically as qt3,F
+questions,tagged specifically as,qt4,questions tagged specifically as qt4,F
+questions,tagged specifically as,qt5,questions tagged specifically as qt5,F
+questions,tagged specifically as,qt6,questions tagged specifically as qt6,F
+the question,is related to,Qt 3.x,the question is related to qt 3.x,F
+the question,is related to,4.x,the question is related to 4.x,F
+the question,is related to,5.x,the question is related to 5.x,F
+the question,is related to,6.x,the question is related to 6.x,F
+Apple Inc.,are aiming for,quality,apple inc. are aiming for quality,F
+Apple Inc.,are aiming for,this tag,apple inc. are aiming for this tag,F
+Apple Inc.,do not wish to encourage,poor questions,apple inc. do not wish to encourage poor questions,F
+these tutorials,referenced in,the questions,these tutorials referenced in the questions,F
+these tutorials,referenced in,answers,these tutorials referenced in answers,F
+examples,referenced in,the questions,examples referenced in the questions,F
+examples,referenced in,answers,examples referenced in answers,F
+Pluralsight,has,three courses,pluralsight has three courses,F
+the author,#NAME?,a private tweet,the author #name? a private tweet,F
+the author,request,a week,the author request a week,F
+Voidrealm,released,a full free series,voidrealm released a full free series,F
+Voidrealm,released,beginners,voidrealm released beginners,F
+questions,don't relate to,a specific Apache Maven version,questions don't relate to a specific apache maven version,F
+a developer,comprehend,the complete state,a developer comprehend the complete state,F
+Systems,should assume,reasonable defaults,systems should assume reasonable defaults,F
+Systems,should assume,systems,systems should assume systems,F
+libraries,should assume,reasonable defaults,libraries should assume reasonable defaults,F
+libraries,should assume,systems,libraries should assume systems,F
+frameworks,should assume,reasonable defaults,frameworks should assume reasonable defaults,F
+frameworks,should assume,systems,frameworks should assume systems,F
+Apache Maven,attempts to deal,several areas,apache maven attempts to deal several areas,F
+a file,is referred to as,the POM file,a file is referred to as the pom file,F
+this tag,refer to,the Maven versions,this tag refer to the maven versions,F
+Questions,have,plugin,questions have plugin,F
+questions,have,profiles tag,questions have profiles tag,F
+questions,have,archetype tag,questions have archetype tag,F
+the standard Java SDK,is contained within,the package javax.swing,the standard java sdk is contained within the package javax.swing,F
+any access,should happen on,the Swing thread,any access should happen on the swing thread,F
+the official Android development environment,is based on,IntelliJ IDEA,the official android development environment is based on intellij idea,F
+Android Studio,is released in,August,android studio is released in august,F
+the table fields,delimited by,other delimiter character,the table fields delimited by other delimiter character,F
+the table fields,delimited by,rows,the table fields delimited by rows,F
+the table fields,delimited by,commas,the table fields delimited by commas,F
+the table fields,delimited by,tabs,the table fields delimited by tabs,F
+Newlines,can appear within,fields,newlines can appear within fields,F
+separator characters,can appear within,fields,separator characters can appear within fields,F
+other characters,can be used,semi-colons,other characters can be used semi-colons,F
+Information,is often stored in,CSV format,information is often stored in csv format,F
+Each row,is represented as,a list,each row is represented as a list,F
+Values,contain,the delimiter,values contain the delimiter,F
+Values,may be enclosed in,quotes,values may be enclosed in quotes,F
+Values,contain,a value,values contain a value,F
+The first row,contains,headers,the first row contains headers,F
+table's columns,describe,the meaning,table's columns describe the meaning,F
+header,describes,the corresponding data,header describes the corresponding data,F
+the first row,serves as,this example,the first row serves as this example,F
+the first row,serves as,header,the first row serves as header,F
+Each successive line,fit into,the first line,each successive line fit into the first line,F
+Each successive line,fit into,the same field,each successive line fit into the same field,F
+empty fields,held with,commas,empty fields held with commas,F
+Vue.js questions,be tagged with,vuejs3,vue.js questions be tagged with vuejs3,F
+Vue.js questions,be tagged with,this tag,vue.js questions be tagged with this tag,F
+Vue.js questions,be tagged with,vuejs2,vue.js questions be tagged with vuejs2,F
+Vue,embraces,the idea,vue embraces the idea,F
+changes,drive,changes,changes drive changes,F
+This idea,forms,the core,this idea forms the core,F
+Vue,includes,some notable changes,vue includes some notable changes,F
+Vue,includes,improvements,vue includes improvements,F
+Questions,should be tagged with,vuejs2,questions should be tagged with vuejs2,F
+Questions,should be tagged with,vuejs3,questions should be tagged with vuejs3,F
+The code,is often useful to share,runnable snippets,the code is often useful to share runnable snippets,F
+Stack Snippets,run,single file components,stack snippets run single file components,F
+individual units,are tested to determine,a method,individual units are tested to determine a method,F
+individual units,are fit for,use,individual units are fit for use,F
+individual units,are tested to determine,a method,individual units are tested to determine a method,F
+individual units,are fit for,use,individual units are fit for use,F
+Unit tests,are created by,the development process,unit tests are created by the development process,F
+Unit tests,are created by,programmers,unit tests are created by programmers,F
+Unit tests,are created by,white box testers,unit tests are created by white box testers,F
+Unit tests,are created by,the development process,unit tests are created by the development process,F
+Unit tests,are created by,programmers,unit tests are created by programmers,F
+Unit tests,are created by,white box testers,unit tests are created by white box testers,F
+each test case,is independent from,the others,each test case is independent from the others,F
+substitutes,assist testing,a module,substitutes assist testing a module,F
+these substitutes,known as,example,these substitutes known as example,F
+Test Doubles,can be used to isolate,dependencies,test doubles can be used to isolate dependencies,F
+code,meets,design,code meets design,F
+Unit tests,are typically written,software developers,unit tests are typically written software developers,F
+Unit testing,is closely related to,Test Driven Development,unit testing is closely related to test driven development,F
+The goal,is to isolate,each part,the goal is to isolate each part,F
+A unit test,provides,contract,a unit test provides contract,F
+Files,are available to,computer programs,files are available to computer programs,F
+Files,are usually based on,some kind,files are usually based on some kind,F
+storing information,is available to,a computer program,storing information is available to a computer program,F
+storing information,is usually based on,some kind,storing information is usually based on some kind,F
+A file,is durable in,the sense,a file is durable in the sense,F
+Computer files,can be considered as,the modern counterpart,computer files can be considered as the modern counterpart,F
+files,are organized in,modern computer architectures,files are organized in modern computer architectures,F
+files,are organized in,a tree structure,files are organized in a tree structure,F
+The computer files,contain,the data,the computer files contain the data,F
+many types,are also represented as,filesystems,many types are also represented as filesystems,F
+many types,are also represented as,systems,many types are also represented as systems,F
+many types,are also represented as,files,many types are also represented as files,F
+new objects,describes,behavior,new objects describes behavior,F
+new objects,describes,the common state,new objects describes the common state,F
+A class,represents,a noun,a class represents a noun,F
+a cohesive package,consists of,a particular kind,a cohesive package consists of a particular kind,F
+the data,is partitioned into,attributes,the data is partitioned into attributes,F
+the data,is partitioned into,an instance,the data is partitioned into an instance,F
+A class,have,runtime,a class have runtime,F
+Computer programs,model,aspects,computer programs model aspects,F
+classes,provide,natural way,classes provide natural way,F
+classes,create,such models,classes create such models,F
+Each class,represents,a noun,each class represents a noun,F
+the methods,represent,verbs,the methods represent verbs,F
+verbs,may apply to,that noun,verbs may apply to that noun,F
+various aspects,are modeled,example,various aspects are modeled example,F
+various aspects,using,such classes,various aspects using such classes,F
+An Invoice,may have,methods,an invoice may have methods,F
+the system,can model,aspects,the system can model aspects,F
+the system,can provide,users,the system can provide users,F
+the system,can provide,useful information,the system can provide useful information,F
+Classes,allow,a clear correspondence,classes allow a clear correspondence,F
+Classes,provide,some control,classes provide some control,F
+Classes,provide,challenging complexity,classes provide challenging complexity,F
+Classes,can accelerate,development,classes can accelerate development,F
+efficient class,reuse means that,addition,efficient class reuse means that addition,F
+Another reason,is to simplify,the relationships,another reason is to simplify the relationships,F
+GUI items,are similar to,windows,gui items are similar to windows,F
+GUI items,inherit,classes,gui items inherit classes,F
+GUI items,are similar to,windows,gui items are similar to windows,F
+the dialog class,is unique to,The programmer operation,the dialog class is unique to the programmer operation,F
+The programmer,needs only to add,code,the programmer needs only to add code,F
+level configuration file,used by,Apache web servers,level configuration file used by apache web servers,F
+this tag,has to say,questions,this tag has to say questions,F
+this tag,say about,questions,this tag say about questions,F
+specific level,overrides,level settings,specific level overrides level settings,F
+specific level,must be enabled in,level configuration,specific level must be enabled in level configuration,F
+URL redirection using mod_rewrite,is used by,many sites,url redirection using mod_rewrite is used by many sites,F
+The Apache documentation,has,further information,the apache documentation has further information,F
+The programming languages,can be used with,TensorFlow API,the programming languages can be used with tensorflow api,F
+a c++ API,adding,new operation kernels,a c++ api adding new operation kernels,F
+Other languages,can invoke,TensorFlow using TensorFlow,other languages can invoke tensorflow using tensorflow,F
+TensorFlow,achieves,TensorFlow performance,tensorflow achieves tensorflow performance,F
+TensorFlow,achieves,parallelizing execution,tensorflow achieves parallelizing execution,F
+The kernel,is implemented in,c++,the kernel is implemented in c++,F
+The kernel,using,efficient libraries,the kernel using efficient libraries,F
+algorithmic questions,submit,questions,algorithmic questions submit questions,F
+algorithmic questions,submit,Stack Overflow,algorithmic questions submit stack overflow,F
+algorithmic questions,submit,help,algorithmic questions submit help,F
+algorithmic questions,submit,support,algorithmic questions submit support,F
+TensorFlow,discuss,mailing list,tensorflow discuss mailing list,F
+mailing list,is intended for,general discussions,mailing list is intended for general discussions,F
+TensorFlow End Users,was originally developed,Linux systems,tensorflow end users was originally developed linux systems,F
+TensorFlow End Users,has been ported to,other operating systems including Microsoft Windows,tensorflow end users has been ported to other operating systems including microsoft windows,F
+The TensorFlow community,tends to favor,support,the tensorflow community tends to favor support,F
+the AMD Radeon product line,is improving,improving NVIDIA support,the amd radeon product line is improving improving nvidia support,F
+common brand,used in,a TensorFlow workstation,common brand used in a tensorflow workstation,F
+any recommendations,become out of,date,any recommendations become out of date,F
+any recommendations,become out of,the continuing improvements,any recommendations become out of the continuing improvements,F
+Ubuntu 64 bit Linux,be using,using 16.x,ubuntu 64 bit linux be using using 16.x,F
+Ubuntu 64 bit Linux,be using,using 16.x,ubuntu 64 bit linux be using using 16.x,F
+people,be using,using 16.x,people be using using 16.x,F
+GPU enabled GPU,enabled,later series,gpu enabled gpu enabled later series,F
+GPU enabled GPU,enabled,memory,gpu enabled gpu enabled memory,F
+much data,is being processed,GitHub,much data is being processed github,F
+much data,is being processed,Neural Networks,much data is being processed neural networks,F
+TensorFlow,is not known to,Python,tensorflow is not known to python,F
+the framework,is built,a set,the framework is built a set,F
+This tag,be used for,questions,this tag be used for questions,F
+web,built on,a catalog,web built on a catalog,F
+applications,built on,a catalog,applications built on a catalog,F
+Symfony,aims to speed,the creation,symfony aims to speed the creation,F
+a low performance overhead,used with,a bytecode cache,a low performance overhead used with a bytecode cache,F
+everything,can be customized,the directory structure,everything can be customized the directory structure,F
+Symfony,is bundled with,additional tools,symfony is bundled with additional tools,F
+This tag,should be used for,generic Symfony questions,this tag should be used for generic symfony questions,F
+the question,is related to,a specific version,the question is related to a specific version,F
+stable version,can be found on,the roadmap page,stable version can be found on the roadmap page,F
+Symfony,maintains,releases,symfony maintains releases,F
+releases,are maintained for,several years,releases are maintained for several years,F
+Vue.js,is maintained on,Github,vue.js is maintained on github,T
+Vue.js,created by,Evan You,vue.js created by evan you,T
+Vue,is also perfectly capable of powering,Page Applications,vue is also perfectly capable of powering page applications,T
+CMake,generates,several integrated development environments,cmake generates several integrated development environments,T
+CMake,generates,several integrated development environments,cmake generates several integrated development environments,T
+CMake,is often used along with,ctest,cmake is often used along with ctest,T
+CMake,is often used along with,cdash,cmake is often used along with cdash,T
+CMake,is often used along with,cpack,cmake is often used along with cpack,T
+Rust,aims to achieve,cost abstractions,rust aims to achieve cost abstractions,T
+Rust,allows,precise control,rust allows precise control,T
+Rust,commits to,stability,rust commits to stability,T
+Rust,supports,a mixture,rust supports a mixture,T
+Rust,supports,generic programming,rust supports generic programming,T
+Rust,is also capable of creating,creating bindings,rust is also capable of creating creating bindings,T
+TCP,is referred to as,protocol,tcp is referred to as protocol,T
+TCP,fits into,Internet protocol suite layers,tcp fits into internet protocol suite layers,T
+a javafx Node,displays,WebEngine content,a javafx node displays webengine content,T
+Backbone.js,gives,structure,backbone.js gives structure,T
+Backbone.js,gives,collections,backbone.js gives collections,T
+Backbone.js,gives,views,backbone.js gives views,T
+Backbone.js,gives,web applications,backbone.js gives web applications,T
+Neo4j,maintains,a public Trello Board,neo4j maintains a public trello board,T
+Neo4j,maintains,feature ideas,neo4j maintains feature ideas,T
+Neo4j,maintains,future development directions,neo4j maintains future development directions,T
+Redis,supports,data structures,redis supports data structures,T
+HLLs,can be added with,items,hlls can be added with items,T
+HLLs,counted using,PFCOUNT commands,hlls counted using pfcount commands,T
+Redis,has,an impressive ecosystem,redis has an impressive ecosystem,T
+RDB,loses created,snapshot,rdb loses created snapshot,T
+Windows,introduced,the Universal Windows Platform,windows introduced the universal windows platform,T
+AppContainers,use,security model,appcontainers use security model,T
+AppContainers,use,the user's location,appcontainers use the user's location,T
+AppContainers,request,additional access,appcontainers request additional access,T
+Win32 apps,do not typically run inside,an AppContainer,win32 apps do not typically run inside an appcontainer,T
+XAML,uses,a declarative XML dialect,xaml uses a declarative xml dialect,T
+XAML,use,modern inputs,xaml use modern inputs,T
+UWP APIs,are available on,all Windows devices,uwp apis are available on all windows devices,T
+UWP APIs,are available to,Win32,uwp apis are available to win32,T
+UWP APIs,are available to,Win32 apps,uwp apis are available to win32 apps,T
+Win32 apps,can access,any existing Windows API,win32 apps can access any existing windows api,T
+Win32 apps,can access,feature,win32 apps can access feature,T
+Win32 apps,work on,Desktop Windows devices,win32 apps work on desktop windows devices,T
+UWP apps,can be distributed via,the Microsoft Store,uwp apps can be distributed via the microsoft store,T
+UWP apps,loaded onto,traditional deployment mechanisms,uwp apps loaded onto traditional deployment mechanisms,T
+Toolbars,can be used to display,sortable column headers,toolbars can be used to display sortable column headers,T
+Toolbars,can be used to display,paging information,toolbars can be used to display paging information,T
+Toolbars,can be used to display,filter controls,toolbars can be used to display filter controls,T
+Data table,provides,own markup,data table provides own markup,T
+Data table,provides,an html table,data table provides an html table,T
+Docker,works well for,host Docker installations,docker works well for host docker installations,T
+Hive,facilitates,easy data summarization,hive facilitates easy data summarization,T
+Apache Hive,allows,traditional map,apache hive allows traditional map,T
+Apache Hive,promise,low latencies,apache hive promise low latencies,T
+Azure Repos,provides,unlimited private Git,azure repos provides unlimited private git,T
+Azure Boards,provides,agile planning,azure boards provides agile planning,T
+Azure DevOps,provided by,Microsoft,azure devops provided by microsoft,T
+Azure DevOps,includes,Open source projects,azure devops includes open source projects,T
+Windows Phone,deprecated,software development platform,windows phone deprecated software development platform,T
+Windows Phone,deprecated,mobile operating system,windows phone deprecated mobile operating system,T
+Microsoft,deprecated,software development platform,microsoft deprecated software development platform,T
+Microsoft,deprecated,mobile operating system,microsoft deprecated mobile operating system,T
+Async NuGet package,is much improved from,a straight callback style,async nuget package is much improved from a straight callback style,T
+Async NuGet package,is licensed for,production code,async nuget package is licensed for production code,T
+Apache Solr,providing distributed,index replication,apache solr providing distributed index replication,T
+Apache Solr,powers,navigation features,apache solr powers navigation features,T
+Apache Solr,has,json APIs,apache solr has json apis,T
+Apache Solr,uses,text indexing,apache solr uses text indexing,T
+Apache Solr,has,an extensive plugin architecture,apache solr has an extensive plugin architecture,T
+Apache Solr,can be accessed via,HTTP,apache solr can be accessed via http,T
+Apache Solr,can be accessed via,numerous client libraries,apache solr can be accessed via numerous client libraries,T
+Apache Solr,can be accessed via,HTTP,apache solr can be accessed via http,T
+Apache Solr,can be accessed via,numerous client libraries,apache solr can be accessed via numerous client libraries,T
+Visual Studio,includes,cross-platform development support,visual studio includes cross-platform development support,T
+Visual Studio,includes,debugger1,visual studio includes debugger1,T
+Visual Studio,includes,improvements,visual studio includes improvements,T
+Visual Studio,is followed by,studio,visual studio is followed by studio,T
+SSIS,is used to perform,ETL operations,ssis is used to perform etl operations,T
+SSIS,can extract,data,ssis can extract data,T
+SSIS,can extract,a wide variety,ssis can extract a wide variety,T
+ETL,stands for,E xtract,etl stands for e xtract,T
+ETL,stands for,T ransform,etl stands for t ransform,T
+ETL,stands for,L oad,etl stands for l oad,T
+Color,derives from,the spectrum,color derives from the spectrum,T
+Colors,may be specified as,an RGB triplet,colors may be specified as an rgb triplet,T
+Microsoft Outlook,includes,an e-mail client,microsoft outlook includes an e-mail client,T
+Microsoft Outlook,includes,calendar,microsoft outlook includes calendar,T
+Microsoft Outlook,includes,other personal information organization tools,microsoft outlook includes other personal information organization tools,T
+PrimeFaces,supports,the jQuery UI ThemeRoller CSS framework,primefaces supports the jquery ui themeroller css framework,T
+PrimeFaces,supports,FontAwesome icon set,primefaces supports fontawesome icon set,T
+PrimeFaces,supports,the jQuery UI ThemeRoller CSS framework,primefaces supports the jquery ui themeroller css framework,T
+PrimeFaces,supports,FontAwesome icon set,primefaces supports fontawesome icon set,T
+Lua,has,automatic garbage collection,lua has automatic garbage collection,T
+Lua,runs by interpreting,interpreting bytecode,lua runs by interpreting interpreting bytecode,T
+the main reasons Lua,is widely used by,the machine learning community,the main reasons lua is widely used by the machine learning community,T
+the main reasons Lua,is widely used by,the main reasons Lua,the main reasons lua is widely used by the main reasons lua,T
+Lua,is often referred to as,extensible extension language,lua is often referred to as extensible extension language,T
+Lua,combines,simple procedural syntax,lua combines simple procedural syntax,T
+Lua,has,automatic memory management,lua has automatic memory management,T
+Lua,runs by interpreting,virtual machine,lua runs by interpreting virtual machine,T
+Lua,runs by interpreting,interpreting bytecode,lua runs by interpreting interpreting bytecode,T
+Redux,defines,a predictable state container,redux defines a predictable state container,T
+XML,is converted to,an internal binary data type,xml is converted to an internal binary data type,T
+SQL Server,allows,a database server,sql server allows a database server,T
+Socket,blurring,the differences,socket blurring the differences,T
+Socket,supports,multiple transports,socket supports multiple transports,T
+a JavaScript library,allows for,easy programmatic communication,a javascript library allows for easy programmatic communication,T
+Swift 3 goals,can be viewed on,the Swift Programming Language Evolution repository,swift 3 goals can be viewed on the swift programming language evolution repository,T
+Authentication,is different than,Authorization,authentication is different than authorization,T
+Authentication,allow,access,authentication allow access,T
+Authentication,happen together to verify,identity,authentication happen together to verify identity,T
+authorization,happen together to verify,identity,authorization happen together to verify identity,T
+the Windows NT kernel,found in,Windows,the windows nt kernel found in windows,T
+Microsoft Word,features,editing tools,microsoft word features editing tools,T
+Microsoft Word,was first released in,the name Multi-Tool Word,microsoft word was first released in the name multi-tool word,T
+word,is also sold as,a standalone product,word is also sold as a standalone product,T
+VBScript,is generally used for,intranet web applications,vbscript is generally used for intranet web applications,T
+VBScript,has,much common syntax,vbscript has much common syntax,T
+CScript VBScript,can be executed,GUI mode,cscript vbscript can be executed gui mode,T
+Django,views,control rendering,django views control rendering,T
+Django,views,control rendering,django views control rendering,T
+Apache Cassandra,brings,systems technologies,apache cassandra brings systems technologies,T
+Apache Cassandra,provides,data model,apache cassandra provides data model,T
+Apache Cassandra,provides,BigTable,apache cassandra provides bigtable,T
+Apache Cassandra's ColumnFamily data model,offers,strong support,apache cassandra's columnfamily data model offers strong support,T
+Apache Cassandra's ColumnFamily data model,offers,the convenience,apache cassandra's columnfamily data model offers the convenience,T
+Apache Cassandra's ColumnFamily data model,offers,the performance,apache cassandra's columnfamily data model offers the performance,T
+SciPy,includes,algorithms,scipy includes algorithms,T
+SciPy,includes,tools,scipy includes tools,T
+SciPy,is closely related to,NumPy,scipy is closely related to numpy,T
+SciPy,depends on,many NumPy functions,scipy depends on many numpy functions,T
+SciPy,is currently distributed under,the BSD license,scipy is currently distributed under the bsd license,T
+Network structure,inspired by,simplified models,network structure inspired by simplified models,T
+Neural networks,can be used to solve,optimization problems,neural networks can be used to solve optimization problems,T
+Neural networks,can be used to solve,approximation problems,neural networks can be used to solve approximation problems,T
+Neural networks,classify,patterns,neural networks classify patterns,T
+Neural networks,have,many practical applications,neural networks have many practical applications,T
+GNU Backgammon A,used,used network topology,gnu backgammon a used used network topology,T
+GNU Backgammon A,used,unsupervised learning,gnu backgammon a used unsupervised learning,T
+JAR file,contains,MANIFEST.MF,jar file contains manifest.mf,T
+JAR files,be signed with,a certificate,jar files be signed with a certificate,T
+JAR files,prevent,unathorized modification,jar files prevent unathorized modification,T
+Android devices,receive,push notifications,android devices receive push notifications,T
+Android devices,receive,the Google Cloud Messaging,android devices receive the google cloud messaging,T
+Android devices,used,the Cloud,android devices used the cloud,T
+Android devices,used,Device Messaging,android devices used device messaging,T
+Windows Phone apps,receive,push notifications,windows phone apps receive push notifications,T
+Windows Phone apps,receive,MPNS,windows phone apps receive mpns,T
+Windows Phone apps,receive,WNS,windows phone apps receive wns,T
+Pip,Installs,Packages,pip installs packages,T
+The Arduino Uno,has,a reset button,the arduino uno has a reset button,T
+The Arduino Uno,has,a USB connection,the arduino uno has a usb connection,T
+The Arduino Uno,has,a power jack,the arduino uno has a power jack,T
+The Arduino Uno,has,6 analog inputs,the arduino uno has 6 analog inputs,T
+The Arduino Uno,has,output pins,the arduino uno has output pins,T
+The Arduino Uno,has,an ICSP header,the arduino uno has an icsp header,T
+The Arduino Uno,has,ceramic resonator,the arduino uno has ceramic resonator,T
+The Arduino Uno,connect,the microcontroller,the arduino uno connect the microcontroller,T
+The Arduino Uno,connect,the microcontroller,the arduino uno connect the microcontroller,T
+HTML,can be turned into,DSL,html can be turned into dsl,T
+Three.js scripts,may be used in,conjunction,three.js scripts may be used in conjunction,T
+Three.js,allows,the creation,three.js allows the creation,T
+Three.js,includes,the following features,three.js includes the following features,T
+Stats.js,runs in,all browsers,stats.js runs in all browsers,T
+a hyperlink,referred to as,HTML documents,a hyperlink referred to as html documents,T
+Using Markdown,is simplified to,LaTeX documents,using markdown is simplified to latex documents,T
+Apache Spark SQL,can be used to retrieve,data,apache spark sql can be used to retrieve data,T
+Apache Spark SQL,provides,a programming abstraction,apache spark sql provides a programming abstraction,T
+Apache Spark SQL,act as,Apache Spark SQL query engine,apache spark sql act as apache spark sql query engine,T
+GNU Emacs,was re-written using,using C,gnu emacs was re-written using using c,T
+GNU Emacs,was re-written using,GNU Emacs Lisp,gnu emacs was re-written using gnu emacs lisp,T
+GNU Emacs,provide,an extendable interface,gnu emacs provide an extendable interface,T
+GNU Emacs,provide,portability,gnu emacs provide portability,T
+GNU Emacs,provides,sensitive editing modes,gnu emacs provides sensitive editing modes,T
+GNU Emacs,provides,syntax coloring,gnu emacs provides syntax coloring,T
+GNU Emacs,has,extensive packaging support,gnu emacs has extensive packaging support,T
+GNU Emacs,has,package.el package,gnu emacs has package.el package,T
+Stack Overflow,may be suitable for,Emacs Stack Exchange,stack overflow may be suitable for emacs stack exchange,T
+Play,is based on,friendly architecture,play is based on friendly architecture,T
+SwiftUI,provides,views,swiftui provides views,T
+SwiftUI,provides,controls,swiftui provides controls,T
+SwiftUI,provides,layout structures,swiftui provides layout structures,T
+SwiftUI,provides,app's user interface,swiftui provides app's user interface,T
+SwiftUI,integrates with,imperative AppKit,swiftui integrates with imperative appkit,T
+SwiftUI,integrates with,UIKit,swiftui integrates with uikit,T
+SwiftUI,integrates with,WatchKit frameworks,swiftui integrates with watchkit frameworks,T
+An NSView,can embed,a SwiftUI View,an nsview can embed a swiftui view,T
+UIView,can embed,a SwiftUI View,uiview can embed a swiftui view,T
+SwiftUI,supports,live previews,swiftui supports live previews,T
+SwiftUI,supports,dynamic replacement,swiftui supports dynamic replacement,T
+SwiftUI,supports,live previews,swiftui supports live previews,T
+SwiftUI,supports,dynamic replacement,swiftui supports dynamic replacement,T
+SwiftUI,supports,macOS,swiftui supports macos,T
+SwiftUI,supports,Xcode,swiftui supports xcode,T
+SwiftUI,supports,macOS,swiftui supports macos,T
+SwiftUI,supports,Xcode,swiftui supports xcode,T
+Red Hat Ansible,uses,SSH,red hat ansible uses ssh,T
+Red Hat Ansible,is written in,Python,red hat ansible is written in python,T
+Red Hat Ansible,can be extended in,any language,red hat ansible can be extended in any language,T
+Red Hat Ansible,uses,SSH,red hat ansible uses ssh,T
+Red Hat Ansible,uses,Python,red hat ansible uses python,T
+Red Hat Ansible,can be extended in,any language,red hat ansible can be extended in any language,T
+Red Hat Ansible capabilities,cover,Infrastructure,red hat ansible capabilities cover infrastructure,T
+Ansible Tower,can centralize,IT infrastructure,ansible tower can centralize it infrastructure,T
+Ansible Tower,can centralize,notifications,ansible tower can centralize notifications,T
+Ansible Tower,can centralize,a visual dashboard,ansible tower can centralize a visual dashboard,T
+Ansible Tower,can centralize,graphical inventory management,ansible tower can centralize graphical inventory management,T
+Ansible Tower,can centralize,access control,ansible tower can centralize access control,T
+Ansible Tower,can centralize,job scheduling,ansible tower can centralize job scheduling,T
+Tag wikis,contain,an overview,tag wikis contain an overview,T
+Tag wikis,contain,guidelines,tag wikis contain guidelines,T
+Functions,take,arguments,functions take arguments,T
+Functions,return,results,functions return results,T
+Functions,don't mutate,state,functions don't mutate state,T
+Clojure,provides,access,clojure provides access,T
+Yii,is heavily inspired by,Ruby,yii is heavily inspired by ruby,T
+Yii,is heavily inspired by,Rails,yii is heavily inspired by rails,T
+Yii,prefers,lazy loading,yii prefers lazy loading,T
+Yii,can perform,eager loading,yii can perform eager loading,T
+Yii's behavior system,allows for,multiple inheritance,yii's behavior system allows for multiple inheritance,T
+Yii's behavior system,allows for,the mixin pattern,yii's behavior system allows for the mixin pattern,T
+yii2,was released on,October 12nd,yii2 was released on october 12nd,T
+Google BigQuery,provides,write pipelines,google bigquery provides write pipelines,T
+Google BigQuery,enables,data analytics,google bigquery enables data analytics,T
+Firebase Authentication,provides,UI libraries,firebase authentication provides ui libraries,T
+Firebase Authentication,provides,backend services,firebase authentication provides backend services,T
+Firebase Authentication,provides,use SDKs,firebase authentication provides use sdks,T
+The Jupyter Notebook,supports,many different languages,the jupyter notebook supports many different languages,T
+The Jupyter Notebook,supports,interactive shells,the jupyter notebook supports interactive shells,T
+The Jupyter Notebook,supports,Python,the jupyter notebook supports python,T
+The Jupyter Notebook,supports,IPython,the jupyter notebook supports ipython,T
+The Jupyter Notebook,supports,The Jupyter Notebook predecessor IPython Notebook,the jupyter notebook supports the jupyter notebook predecessor ipython notebook,T
+The Jupyter Notebook,provides,a frontend,the jupyter notebook provides a frontend,T
+The Jupyter Notebook,provides,interactive shells,the jupyter notebook provides interactive shells,T
+The Jupyter Notebook,supports,40 different languages including python,the jupyter notebook supports 40 different languages including python,T
+Each Jupyter Notebook document,may contain,executable code blocks,each jupyter notebook document may contain executable code blocks,T
+Each Jupyter Notebook document,may contain,outputs,each jupyter notebook document may contain outputs,T
+Each Jupyter Notebook document,may contain,Markdown text,each jupyter notebook document may contain markdown text,T
+Kendo UI,is comprised of,an open source Core,kendo ui is comprised of an open source core,T
+Scripting,feeding,an interpreter,scripting feeding an interpreter,T
+Powershell,has been extended to,multiple platforms,powershell has been extended to multiple platforms,T
+Scripting languages,are traditionally used for,software installation,scripting languages are traditionally used for software installation,T
+Scripting languages,are traditionally used for,common system administration tasks,scripting languages are traditionally used for common system administration tasks,T
+Cron,is commonly used to automate,system maintenance,cron is commonly used to automate system maintenance,T
+Cron,is commonly used to automate,administration,cron is commonly used to automate administration,T
+Cron,can run,any command,cron can run any command,T
+ssh,asks for,a password,ssh asks for a password,T
+URLs,are used to provide,looking links,urls are used to provide looking links,T
+Mozilla,has implemented,"the <img?srcset=\\"\\"> attribute","mozilla has implemented the <img?srcset=\\"\\"> attribute",T
+Mozilla,has implemented,the <picture> element,mozilla has implemented the <picture> element,T
+A Java compiler,generates,class files containing Java,a java compiler generates class files containing java,T
+Xamarin,comprises,a plugin,xamarin comprises a plugin,T
+Xamarin,comprises,an IDE,xamarin comprises an ide,T
+Xamarin,comprises,libraries,xamarin comprises libraries,T
+Xamarin,implements,a hybrid approach,xamarin implements a hybrid approach,T
+Scrapy,can be used for,testing,scrapy can be used for testing,T
+Scrapy,can be used for,data mining,scrapy can be used for data mining,T
+Scrapy,can be used for,testing,scrapy can be used for testing,T
+Scrapy,can be used for,data mining,scrapy can be used for data mining,T
+Scrapy,was born at,e-commerce company Mydeco,scrapy was born at e-commerce company mydeco,T
+phpMyAdmin,written in,PHP,phpmyadmin written in php,T
+MySQL administration tool,written in,PHP,mysql administration tool written in php,T
+MySQL administration tool,written in,PHP,mysql administration tool written in php,T
+phpMyAdmin,handle,MySQL,phpmyadmin handle mysql,T
+3D graphics,involve,matrix manipulation,3d graphics involve matrix manipulation,T
+3D graphics,involve,vector mathematics,3d graphics involve vector mathematics,T
+Bitmaps,are mostly used to encode,graphic data,bitmaps are mostly used to encode graphic data,T
+Bitmaps,are mostly used to encode,images,bitmaps are mostly used to encode images,T
+Java,was originally designed for,testing Web Applications,java was originally designed for testing web applications,T
+Apache JMeter,may be used to test,performance,apache jmeter may be used to test performance,T
+HTTP client,can be used in,end application,http client can be used in end application,T
+HTTP client,can be used in,Node.js,http client can be used in node.js,T
+HTTP client,can be used in,end application,http client can be used in end application,T
+HTTP client,can be used in,Node.js,http client can be used in node.js,T
+Apache Ant,is used to build,Java applications,apache ant is used to build java applications,T
+Apache Ant,be used effectively to build,non-Java software,apache ant be used effectively to build non-java software,T
+The Raspberry Pi,requires,an OS,the raspberry pi requires an os,T
+Jest,provides automated,mock creation,jest provides automated mock creation,T
+Jest,provides automated,a jsdom environment,jest provides automated a jsdom environment,T
+PyQt,runs on,all platforms,pyqt runs on all platforms,T
+The QtCore module,contains,non-GUI classes,the qtcore module contains non-gui classes,T
+The QtCore module,includes,independent abstractions,the qtcore module includes independent abstractions,T
+The QtCore module,is based on,the C++ port,the qtcore module is based on the c++ port,T
+The QtCore module,implements,a web browser engine,the qtcore module implements a web browser engine,T
+The QtCore module,is installed as,dbus.mainloop.qt,the qtcore module is installed as dbus.mainloop.qt,T
+iOS,includes,user interface,ios includes user interface,T
+grep,uses,regular expressions,grep uses regular expressions,T
+grep,is commonly used as,pipelines,grep is commonly used as pipelines,T
+grep,is commonly used as,a filter,grep is commonly used as a filter,T
+grep,match,text,grep match text,T
+grep,was originally developed for,the Unix operating system,grep was originally developed for the unix operating system,T
+JBoss Application Server,provides,the full range,jboss application server provides the full range,T
+LINQ,maps,the data model,linq maps the data model,T
+LINQ,maps,an object model,linq maps an object model,T
+LINQ,translates,SQL,linq translates sql,T
+LINQ,translates,queries,linq translates queries,T
+The x86 family,includes,64 architectures,the x86 family includes 64 architectures,T
+a legacy BIOS int 10h bootloader,loads,kernel,a legacy bios int 10h bootloader loads kernel,T
+a legacy BIOS int 10h bootloader,calls,main function,a legacy bios int 10h bootloader calls main function,T
+a legacy BIOS int 10h bootloader,calls,protected mode,a legacy bios int 10h bootloader calls protected mode,T
+MASM,ignores,brackets,masm ignores brackets,T
+MASM,ignores,symbolic immediates,masm ignores symbolic immediates,T
+LEA,can be used with,LEA eax,lea can be used with lea eax,T
+LEA,can be used with,garbage,lea can be used with garbage,T
+LEA,can be used with,high bits,lea can be used with high bits,T
+the C++,mentions,Standard Template Library,the c++ mentions standard template library,T
+Lisp,uses,nil,lisp uses nil,T
+Lisp,mean,the empty list,lisp mean the empty list,T
+Lisp,mean,the boolean value,lisp mean the boolean value,T
+C.A.R. Hoare,described,dollar mistake,c.a.r. hoare described dollar mistake,T
+NUL,is used to mark,C,nul is used to mark c,T
+NUL,is used to mark,the end,nul is used to mark the end,T
+AD networks,can vary from,many different network domains,ad networks can vary from many different network domains,T
+AD networks,can vary from,large server farms,ad networks can vary from large server farms,T
+JSON binding solutions,include,Google Gson,json binding solutions include google gson,T
+JSON binding solutions,include,svenson,json binding solutions include svenson,T
+JSON binding solutions,include,FastJSON,json binding solutions include fastjson,T
+GraphQL,provides,understandable description,graphql provides understandable description,T
+MVC web application,map,an arbitrary URL,mvc web application map an arbitrary url,T
+OpenSSL,is maintained by,the OpenSSL Project,openssl is maintained by the openssl project,T
+multi-platform ORM,developed by,Microsoft,multi-platform orm developed by microsoft,T
+OpenGL,is managed by,the Khronos Group,opengl is managed by the khronos group,T
+a virtual camera system,provides,virtual worlds,a virtual camera system provides virtual worlds,T
+a virtual camera system,aims at controlling,3D video games,a virtual camera system aims at controlling 3d video games,T
+XSD,refers to,a document,xsd refers to a document,T
+W3C,has adopted,XSD,w3c has adopted xsd,T
+W3C,has adopted,acronym,w3c has adopted acronym,T
+PyCharm,is developed by,JetBrains,pycharm is developed by jetbrains,T
+PyCharm,is developed by,Windows,pycharm is developed by windows,T
+PyCharm,is developed by,Mac OS X,pycharm is developed by mac os x,T
+PyCharm,is developed by,Linux,pycharm is developed by linux,T
+The SAS System,includes,GUI,the sas system includes gui,T
+addition SAS,has,ODS,addition sas has ods,T
+SAS,includes,a macro language,sas includes a macro language,T
+SAS,improve,readability,sas improve readability,T
+MongoDB,does not support,SQL,mongodb does not support sql,T
+MongoDB,does not support,relational databases,mongodb does not support relational databases,T
+the MongoDB Query Language,uses,JSON,the mongodb query language uses json,T
+the MongoDB Query Language,uses,the mongo shell,the mongodb query language uses the mongo shell,T
+the MongoDB Query Language,uses,BSON,the mongodb query language uses bson,T
+MongoDB,has,a rich query language,mongodb has a rich query language,T
+MongoDB,includes,a Database Profiler,mongodb includes a database profiler,T
+jQuery plugins,could be found in,npm,jquery plugins could be found in npm,T
+the Android SDK,lets,critical portions,the android sdk lets critical portions,T
+the Android SDK,lets,native code,the android sdk lets native code,T
+the Android SDK,lets,port existing libraries,the android sdk lets port existing libraries,T
+Android NDK applications,include,Java code,android ndk applications include java code,T
+Android NDK applications,include,assembly code,android ndk applications include assembly code,T
+Android NDK applications,include,resource files,android ndk applications include resource files,T
+Android NDK applications,include,c,android ndk applications include c,T
+CUDA,provides,an interface,cuda provides an interface,T
+CUDA,provides,libraries,cuda provides libraries,T
+CUDA,provides,APIs,cuda provides apis,T
+CUDA,provides,APIs,cuda provides apis,T
+SpriteKit,uses,a traditional rendering loop,spritekit uses a traditional rendering loop,T
+SpriteKit,is available on,watchOS,spritekit is available on watchos,T
+SpriteKit,is available on,iOS,spritekit is available on ios,T
+SpriteKit,is available on,macOS,spritekit is available on macos,T
+SpriteKit,is available on,tvOS,spritekit is available on tvos,T
+SpriteKit,uses,the graphics hardware,spritekit uses the graphics hardware,T
+SpriteKit,uses,composite 2D images,spritekit uses composite 2d images,T
+SpriteKit,supports,a rich rendering infrastructure,spritekit supports a rich rendering infrastructure,T
+Gulp,uses,streams,gulp uses streams,T
+Gulp,uses,over-configuration,gulp uses over-configuration,T
+Gulp,uses,intuitive build process,gulp uses intuitive build process,T
+Gulp,can automate,common tasks,gulp can automate common tasks,T
+Gulp,can automate,development process,gulp can automate development process,T
+Gulp,uses,the streams,gulp uses the streams,T
+Jasmine,has,no external dependencies,jasmine has no external dependencies,T
+Jasmine,does not require,a DOM,jasmine does not require a dom,T
+Anaconda,optimized for,Python,anaconda optimized for python,T
+Anaconda,includes,environment manager,anaconda includes environment manager,T
+MFC,offers,classes,mfc offers classes,T
+MFC,offers,templates,mfc offers templates,T
+MFC,provides,models,mfc provides models,T
+MFC,provides,the application,mfc provides the application,T
+MFC,uses,a single inheritance model,mfc uses a single inheritance model,T
+MFC classes,are identified by,the prefix CMFC,mfc classes are identified by the prefix cmfc,T
+MFC classes,are identified by,CMFCPropertyPage,mfc classes are identified by cmfcpropertypage,T
+MFC classes,are identified by,the prefix CMFC,mfc classes are identified by the prefix cmfc,T
+MFC classes,are identified by,CMFCPropertyPage,mfc classes are identified by cmfcpropertypage,T
+MFC classes,are identified by,the prefix CMFC,mfc classes are identified by the prefix cmfc,T
+MFC classes,are identified by,CMFCPropertyPage,mfc classes are identified by cmfcpropertypage,T
+all MFC classes,inherit from,CObject,all mfc classes inherit from cobject,T
+Prolog,supports,non-deterministic programming,prolog supports non-deterministic programming,T
+Prolog,supports,chronological backtracking,prolog supports chronological backtracking,T
+Prolog,is used for,reasoning,prolog is used for reasoning,T
+Prolog,is used for,deductive databases,prolog is used for deductive databases,T
+Prolog,is used for,planning,prolog is used for planning,T
+Prolog,is used for,scheduling tasks,prolog is used for scheduling tasks,T
+Prolog,is often used to introduce,the declarative paradigm,prolog is often used to introduce the declarative paradigm,T
+Electron,is based upon,Node.js,electron is based upon node.js,T
+Electron,is based upon,Chromium,electron is based upon chromium,T
+JWT,is used by,the OpenID Connect authenticatication standard,jwt is used by the openid connect authenticatication standard,T
+Linux,provides,C language bindings,linux provides c language bindings,T
+The Android Gradle Plugin,was introduced at,Google IO,the android gradle plugin was introduced at google io,T
+CentOS,is based on,Community Enterprise Operating System,centos is based on community enterprise operating system,T
+XAMPP,is compatible with,Windows,xampp is compatible with windows,T
+XAMPP,is compatible with,Linux,xampp is compatible with linux,T
+XAMPP,is compatible with,Mac,xampp is compatible with mac,T
+XAMPP,is compatible with,Solaris,xampp is compatible with solaris,T

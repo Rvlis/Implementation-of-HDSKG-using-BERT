@@ -1,0 +1,1 @@
+neo4j-admin.bat import --id-type=STRING --nodes=entity="E:\AAAWorkSpace\HDSKG\csvs\entity_csv.csv" --relationships E:\AAAWorkSpace\HDSKG\csvs\relation_csv.csv

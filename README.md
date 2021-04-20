@@ -10,6 +10,8 @@
 __TODO__
 
 ## Test Bert Model
+Compared with previous __0.76__, accuracy is improved to __0.82__. 
+The checkpoint file will be uploaded soon.
 __TODO__
 
 ## Knowledge Graph

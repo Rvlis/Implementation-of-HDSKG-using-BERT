@@ -80,3 +80,1377 @@ Jetty 8.x,have reached,open source support
 a bare mininum,use,different data storage technologies
 a bare mininum,may be written in,different programming languages
 DevExpress,sells,presentation controls
+the tab key,is used to move,convention
+JavaScript,be run outside of,the browser
+JavaScript,runs on,every operating system
+The Mozilla Developer Network,contains,quality documentation
+JavaScript,Cascading,Cascading Style Sheets
+The Mozilla Developer Network,is also used in,environments
+The Mozilla Developer Network,was developed under,the name Mocha
+modern browsers,implement,JavaScript
+scripts,run in,a sandbox
+The Java language,derives much of,C
+The Java language,derives much of,C++
+Java applications,are typically compiled to,bytecode
+The JVM,compiles,code
+The JVM,optimize,performance
+The JVM,manages,memory
+Java,supports,Native Interface
+Java,is designed to have,few implementation dependencies
+Java,was originally developed by,James Gosling
+Java,was originally developed by,Sun Microsystems
+Sun Microsystems,merged with,Oracle Corporation
+Java,was released in,a core component
+Java,was started as,a project
+computing systems,have installed,running Java programs
+Java,is compiled into,bytecode
+bytecode,is then compiled by,native machine code
+bytecode,is then compiled by,the JVM
+Java SE,will be released,every six months
+java code,need,a java installer package supplier
+Java,comes in,LTS
+Java,comes in,non-LTS versions
+Java programs,increase,readability
+Java source code,is compiled to,an intermediate form
+an intermediate form,can be executed with,the java command
+Python,incorporates,dynamic data types
+Python,incorporates,modules
+Python,incorporates,classes
+Python,incorporates,exceptions
+Python,incorporates,dynamic typing
+Python,combines,remarkable power
+Python,combines,clear syntax
+Python,has interfaces to,many system calls
+Python,has interfaces to,libraries
+Python,has interfaces to,various window systems
+Python,has interfaces to,many system calls
+Python,has interfaces to,libraries
+Python,has interfaces to,various window systems
+Python,is extensible in,c
+Python,is extensible in,c++
+Python,is also usable as,an extension language
+Python,runs on,many Unix variants
+Python,was originally created by,Guido van Rossum
+Python,supports,multiple programming paradigms
+Python,features,dynamic type system
+Python,features,automatic memory management
+Python,is often used as,other dynamic languages
+Python,is often used as,a scripting language
+Python interpreters,are available for,many operating systems
+Python,comes with,a basic IDE called IDLE
+easy_install,installing,installing dependencies
+easy_install,was notable at,the time
+A simple Python library,uses,C APIs
+Scrapy,can be used for,testing
+Scrapy,can be used for,data mining
+Beautiful Soup,is available for,Python
+Beautiful Soup,is available for,Python
+Flask,provides,monolithic structure
+Flask,does not enforce,dependencies
+Tornado,can scale to,open connections
+web framework,build,web applications
+the emerging WSGI standard,allows,extensive re-use
+TurboGears,was created in,Kevin Dangoor
+Falcon,encourages,architectural style
+Kivy,supports,multiple platforms
+Kivy,comes with over,20 widgets
+PyQT,is available for,Sharp Zaurus
+PyQT,is available for,Linux
+PyQT,is available for,Windows
+PyQT,is available for,Mac OS X
+Tkinter,is commonly bundled with,Python
+Tkinter,is popular for,graphical user interface
+SciPy,includes,algorithms
+SciPy,includes,tools
+SciPy,is closely related to,NumPy
+SciPy,depends on,many NumPy functions
+matplotlib,provides,API
+matplotlib,provides,applications
+Pandas,integrates,matplotlib's plotting capabilities
+Pandas,integrates,many other libraries' features
+Pandas,integrates,NumPy's matrix operations
+Theano,features,automatic differentiation
+Theano,supports,training
+Theano,supports,testing
+Cython,makes,writing C extensions
+The original PHP project,invented by,Rasmus Lerdorf
+3v4l,act like,jsfiddle
+PHP Sandbox,act like,jsfiddle
+codepad,act like,jsfiddle
+The PEAR repository,contains,classes
+The PEAR repository,is also possible to download,the documentation
+PHP,is often paired with,relational database
+PHP,includes,great database support
+PECL extensions,offer,NoSQL
+Packagist,contain many of,popular PHP libraries
+Android,is designed primarily for,mobile devices
+Google,has further developed,Android TV
+Google,has further developed,televisions
+butterknife otto picassogreendao Android Developers,Contains,the SDK downloads
+butterknife otto picassogreendao Android Developers,Contains,documentation
+butterknife otto picassogreendao Android Developers,Contains,class reference
+butterknife otto picassogreendao Android Developers,Contains,tutorials
+Android Open Source Project,Contains,all necessary information
+Google developer conference,Contains,videos
+Google developer conference,Contains,slides
+Google developer conference,Contains,videos
+Google developer conference,Contains,slides
+Android,be found on,the Android Developer site
+HTML,was invented by,Lee
+HTML Tags,were first publicly mentioned by,Lee
+HTML Tags,borrowed,documentation standard
+HTML elements,form,the building blocks
+HTML,allows,images
+HTML,allows,objects
+HTML,can be used to create,interactive forms
+HTML,create,structured documents
+HTML,can embed,scripts
+HTML standards,are maintained by,Wide Web Consortium
+HTML markups,are designed,CSS
+jQuery,simplifies,HTML document traversal
+jQuery,simplifies,manipulation
+jQuery,simplifies,event handling
+jQuery,simplifies,animation
+jQuery,simplifies,AJAX
+jQuery,supports,Internet Explorer version
+jQuery,supports,mobile browser
+C++,was developed in,the early 1980s
+C++,was developed in,Bjarne Stroustrup
+C++ improved type,improved,safety
+C++ Compiler,optimized,numerical computations
+the C++ Committee,published,the first international standard
+adding coroutines GCC C++20 language support,add,command line parameter
+Clang C++20 language support,add,command line parameter
+The visual presentation,was originally defined by,HTML attributes
+Complex selectors,can be created by joining,multiple simple ones
+OS,is one of,IBM's operating systems
+OS,is one of,IBM's operating systems
+OS X,is based on,OS foundation
+Each iOS application,own,secure sandbox
+an iOS application,can have,extensions
+iOS,is optimized for,graphics
+iOS,is optimized for,processor
+iOS,is optimized for,memory constraints
+Interface control elements,consist of,sliders
+Interface control elements,consist of,switches
+Interface control elements,consist of,buttons
+Interaction,includes,gestures
+Internal accelerometers,can be used by,applications
+gyroscopes,can be used by,applications
+Internal accelerometers,rotating,three dimensions
+CocoaPods,includes,ten thousand libraries
+CocoaPods,help,programmers scale projects
+CocoaPods,does not store,a central list
+MySQL source code,is available under,the GNU
+MySQL,offers,standard database driver connectivity
+standard SQL,is based on,relational algebra
+DDL,is used to create,tables
+DDL,is used to create,constraints
+DML,is used to modify,data
+vendors,have implemented,dialects
+vendors,provide,functionality
+Oracle,use,standard SQL
+PostgreSQL,use,standard SQL
+Microsoft SQL Server,uses,SQL
+R,was created by,Ross Ihaka
+R,was created by,Robert Gentleman
+R,is now developed by,the R Development Core Team
+The R environment,is easily extended through,the Comprehensive R Archive Network
+The R environment,is easily extended through,a packaging system
+O runtime,uses,Google's V8 JavaScript engine
+O runtime,uses,libuv library
+Node.js,is often used for developing,developing applications
+Node.js,supports,the CommonJS standard
+ASP.NET,is built on,the Common Language Runtime
+ASP.NET,uses,a WebForms style
+ASP.NET,includes,own controls library
+HTML helper methods,blend,HTML markup
+C,is distinct from,C++
+The C programming language,was based on,CPL.
+The C programming language,was based on,programming languages B
+The C programming language,was based on,BCPL
+The C language,are standardized as,IEC
+C,was designed for implementing,implementing system software
+A draft version N2176,is also widely used for developing,portable application software
+C,has greatly influenced,many other popular programming languages
+assembly language,was designed to encourage,level capabilities
+assembly language,was designed to encourage,cross-platform programming
+C program,can be compiled for,wide variety
+assembly language,has become available on,microcontrollers
+Ruby,follows,the popular MVC framework model
+Ruby,is known for,Rails
+the MVC Architectural Design Pattern,separates,web applications
+Ruby,is based on,the MVC Architectural Design Pattern
+JSON,using,a JSON validator
+JSON,uses,conventions
+JSON,is defined by,RFC
+Microsoft SQL Server,originated from,Microsoft SQL Server 4.x codebase
+Standard components,include,schedulers
+Standard components,include,database language
+Standard components,include,replication
+Standard components,include,storage server
+Standard components,include,developer tools
+Standard components,include,ETL tools
+SQL Server Express,has reduced,engine performance
+SQL Server Express,has reduced,capacity
+SQL Server Express,is focused on,runs
+SQL Server Express,is focused on,an NT service
+SQL Server Express,is focused on,small deployments
+SQL Server Compact Edition,focused on,small installations
+SQL Server Compact Edition,focused on,desktop applications
+Microsoft,offers,a comparison table
+React,has since been made,open source
+a virtual DOM diff implementation,render on,the server using node.js
+reactive data flow using props,reduce,boilerplate
+Swift,distributed as,open source
+Swift,promises to modernize,the developer experience
+Swift applications,compile into,standard binaries
+Swift applications,can be run on,OS X
+Swift,was introduced by,Apple
+Swift,was introduced by,WWDC
+Swift,was introduced by,Apple
+Swift,was introduced by,WWDC
+Swift,will come to,non-Apple platforms
+Swift,was introduced by,Apple
+Swift,was introduced by,WWDC
+Swift,was introduced by,Apple
+Swift,was introduced by,WWDC
+Swift,was introduced with,Xcode
+Swift,was introduced with,Xcode
+Swift,was introduced with,Xcode
+Swift,was introduced with,Xcode
+C,was created primarily by,the early 1980s
+C,was created primarily by,company Stepstone
+C,was created primarily by,Brad Cox
+C,was created primarily by,Tom Love
+C,inherits,primitive types
+C,adds,defining classes
+C,adds,object literals
+C,derives,C object syntax
+C,derives,Smalltalk
+Python,features,simplifications
+Python,features,improvements
+Python,is strongly recommended for,any new development
+Django,is designed to reduce,the effort
+Django,is designed to reduce,redundancy
+Django,follows,architectural pattern
+AngularJS,is used internally by,Google
+AngularJS,is used internally by,applications
+Pipes,are used for transforming,transforming values
+Pipes,are used for transforming,one form
+Angular versioning,follows,Semantic Versioning principles
+General help regarding MS Excel,is available at,Super User
+MS Excel,features,Visual Basic
+Regular expressions,provide,a declarative language
+Regular expressions,are commonly used for,string validation
+Regular expressions,are commonly used for,transformation
+the canonical post,contains,links
+Regular expressions,are available in,programming languages
+Regular expressions,are available in,dialects
+Regular expressions,are available in,processing tools
+BRE,will need,backslashes
+Regular expressions,are useful in,a wide variety
+Google,offers,re2
+Google,does not backtrack,linear runtime growth
+Native iOS applications,are written in,C
+Native iOS applications,are written in,Swift
+Native iOS applications,are written in,C
+Native iOS applications,are written in,Swift
+Native iOS applications,using,the Cocoa Touch frameworks
+Native iOS applications,using,the Cocoa Touch frameworks
+the Cocoa Touch frameworks,share,many classes
+the Cocoa Touch frameworks,share,features
+the Cocoa Touch frameworks,are distinct from,Cocoa
+Cocoa,is used exclusively for,macOS development
+The iPhone,has,several hardware features
+The iPhone,has,sensors
+The iPhone,use,the Cocoa Touch frameworks
+iPod touch applications,use,the Cocoa Touch frameworks
+The iPhone,are developed using,the Xcode IDE
+The iPhone,use,the Cocoa Touch frameworks
+Ruby,was initially conceived on,Yukihiro Matsumoto
+AJAX,uses,asynchronous data exchange
+Each HTML request,would provide,additional information
+Each HTML request,would provide,additional information
+Each HTML request,would provide,data
+Each HTML request,would provide,data
+ajax,is supported by,all modern browsers
+X,stands for,xml
+json,has replaced,xml
+json,has replaced,the data interchange format
+JavaScript,parses,text
+XML,must be parsed by,cumbersome set
+the common Unix tools,carry,many basic operating system tasks
+XML,is defined in,the XML 1.0 Specification
+XML,allows creating,custom tags
+XML,is also used in,some protocols
+Schemas,are usually defined with,an external namespace
+XML,define,tags
+XML,is forward compatible with,the Unicode standard
+JavaScript,be run outside of,the browser
+JavaScript,runs on,every operating system
+The Mozilla Developer Network,contains,quality documentation
+JavaScript,Cascading,Cascading Style Sheets
+The Mozilla Developer Network,is also used in,environments
+The Mozilla Developer Network,was developed under,the name Mocha
+modern browsers,implement,JavaScript
+scripts,run in,a sandbox
+The Java language,derives much of,C
+The Java language,derives much of,C++
+Java applications,are typically compiled to,bytecode
+The JVM,compiles,code
+The JVM,optimize,performance
+The JVM,manages,memory
+Java,supports,Native Interface
+Java,is designed to have,few implementation dependencies
+Java,was originally developed by,James Gosling
+Java,was originally developed by,Sun Microsystems
+Sun Microsystems,merged with,Oracle Corporation
+Java,was released in,a core component
+Java,was started as,a project
+computing systems,have installed,running Java programs
+Java,is compiled into,bytecode
+bytecode,is then compiled by,native machine code
+bytecode,is then compiled by,the JVM
+Java SE,will be released,every six months
+java code,need,a java installer package supplier
+Java,comes in,LTS
+Java,comes in,non-LTS versions
+Java programs,increase,readability
+Java source code,is compiled to,an intermediate form
+an intermediate form,can be executed with,the java command
+Python,incorporates,dynamic data types
+Python,incorporates,modules
+Python,incorporates,classes
+Python,incorporates,exceptions
+Python,incorporates,dynamic typing
+Python,combines,remarkable power
+Python,combines,clear syntax
+Python,has interfaces to,many system calls
+Python,has interfaces to,libraries
+Python,has interfaces to,various window systems
+Python,has interfaces to,many system calls
+Python,has interfaces to,libraries
+Python,has interfaces to,various window systems
+Python,is extensible in,c
+Python,is extensible in,c++
+Python,is also usable as,an extension language
+Python,runs on,many Unix variants
+Python,was originally created by,Guido van Rossum
+Python,supports,multiple programming paradigms
+Python,features,dynamic type system
+Python,features,automatic memory management
+Python,is often used as,other dynamic languages
+Python,is often used as,a scripting language
+Python interpreters,are available for,many operating systems
+Python,comes with,a basic IDE called IDLE
+easy_install,installing,installing dependencies
+easy_install,was notable at,the time
+A simple Python library,uses,C APIs
+Scrapy,can be used for,testing
+Scrapy,can be used for,data mining
+Beautiful Soup,is available for,Python
+Beautiful Soup,is available for,Python
+Flask,provides,monolithic structure
+Flask,does not enforce,dependencies
+Tornado,can scale to,open connections
+web framework,build,web applications
+the emerging WSGI standard,allows,extensive re-use
+TurboGears,was created in,Kevin Dangoor
+Falcon,encourages,architectural style
+Kivy,supports,multiple platforms
+Kivy,comes with over,20 widgets
+PyQT,is available for,Sharp Zaurus
+PyQT,is available for,Linux
+PyQT,is available for,Windows
+PyQT,is available for,Mac OS X
+Tkinter,is commonly bundled with,Python
+Tkinter,is popular for,graphical user interface
+SciPy,includes,algorithms
+SciPy,includes,tools
+SciPy,is closely related to,NumPy
+SciPy,depends on,many NumPy functions
+matplotlib,provides,API
+matplotlib,provides,applications
+Pandas,integrates,matplotlib's plotting capabilities
+Pandas,integrates,many other libraries' features
+Pandas,integrates,NumPy's matrix operations
+Theano,features,automatic differentiation
+Theano,supports,training
+Theano,supports,testing
+Cython,makes,writing C extensions
+The original PHP project,invented by,Rasmus Lerdorf
+3v4l,act like,jsfiddle
+PHP Sandbox,act like,jsfiddle
+codepad,act like,jsfiddle
+The PEAR repository,contains,classes
+The PEAR repository,is also possible to download,the documentation
+PHP,is often paired with,relational database
+PHP,includes,great database support
+PECL extensions,offer,NoSQL
+Packagist,contain many of,popular PHP libraries
+Android,is designed primarily for,mobile devices
+Google,has further developed,Android TV
+Google,has further developed,televisions
+butterknife otto picassogreendao Android Developers,Contains,the SDK downloads
+butterknife otto picassogreendao Android Developers,Contains,documentation
+butterknife otto picassogreendao Android Developers,Contains,class reference
+butterknife otto picassogreendao Android Developers,Contains,tutorials
+Android Open Source Project,Contains,all necessary information
+Google developer conference,Contains,videos
+Google developer conference,Contains,slides
+Google developer conference,Contains,videos
+Google developer conference,Contains,slides
+Android,be found on,the Android Developer site
+HTML,was invented by,Lee
+HTML Tags,were first publicly mentioned by,Lee
+HTML Tags,borrowed,documentation standard
+HTML elements,form,the building blocks
+HTML,allows,images
+HTML,allows,objects
+HTML,can be used to create,interactive forms
+HTML,create,structured documents
+HTML,can embed,scripts
+HTML standards,are maintained by,Wide Web Consortium
+HTML markups,are designed,CSS
+jQuery,simplifies,HTML document traversal
+jQuery,simplifies,manipulation
+jQuery,simplifies,event handling
+jQuery,simplifies,animation
+jQuery,simplifies,AJAX
+jQuery,supports,Internet Explorer version
+jQuery,supports,mobile browser
+C++,was developed in,the early 1980s
+C++,was developed in,Bjarne Stroustrup
+C++ improved type,improved,safety
+C++ Compiler,optimized,numerical computations
+the C++ Committee,published,the first international standard
+adding coroutines GCC C++20 language support,add,command line parameter
+Clang C++20 language support,add,command line parameter
+The visual presentation,was originally defined by,HTML attributes
+Complex selectors,can be created by joining,multiple simple ones
+OS,is one of,IBM's operating systems
+OS,is one of,IBM's operating systems
+OS X,is based on,OS foundation
+Each iOS application,own,secure sandbox
+an iOS application,can have,extensions
+iOS,is optimized for,graphics
+iOS,is optimized for,processor
+iOS,is optimized for,memory constraints
+Interface control elements,consist of,sliders
+Interface control elements,consist of,switches
+Interface control elements,consist of,buttons
+Interaction,includes,gestures
+Internal accelerometers,can be used by,applications
+gyroscopes,can be used by,applications
+Internal accelerometers,rotating,three dimensions
+CocoaPods,includes,ten thousand libraries
+CocoaPods,help,programmers scale projects
+CocoaPods,does not store,a central list
+MySQL source code,is available under,the GNU
+MySQL,offers,standard database driver connectivity
+standard SQL,is based on,relational algebra
+DDL,is used to create,tables
+DDL,is used to create,constraints
+DML,is used to modify,data
+vendors,have implemented,dialects
+vendors,provide,functionality
+Oracle,use,standard SQL
+PostgreSQL,use,standard SQL
+Microsoft SQL Server,uses,SQL
+R,was created by,Ross Ihaka
+R,was created by,Robert Gentleman
+R,is now developed by,the R Development Core Team
+The R environment,is easily extended through,the Comprehensive R Archive Network
+The R environment,is easily extended through,a packaging system
+O runtime,uses,Google's V8 JavaScript engine
+O runtime,uses,libuv library
+Node.js,is often used for developing,developing applications
+Node.js,supports,the CommonJS standard
+ASP.NET,is built on,the Common Language Runtime
+ASP.NET,uses,a WebForms style
+ASP.NET,includes,own controls library
+HTML helper methods,blend,HTML markup
+C,is distinct from,C++
+The C programming language,was based on,CPL.
+The C programming language,was based on,programming languages B
+The C programming language,was based on,BCPL
+The C language,are standardized as,IEC
+C,was designed for implementing,implementing system software
+A draft version N2176,is also widely used for developing,portable application software
+C,has greatly influenced,many other popular programming languages
+assembly language,was designed to encourage,level capabilities
+assembly language,was designed to encourage,cross-platform programming
+C program,can be compiled for,wide variety
+assembly language,has become available on,microcontrollers
+Ruby,follows,the popular MVC framework model
+Ruby,is known for,Rails
+the MVC Architectural Design Pattern,separates,web applications
+Ruby,is based on,the MVC Architectural Design Pattern
+JSON,using,a JSON validator
+JSON,uses,conventions
+JSON,is defined by,RFC
+Microsoft SQL Server,originated from,Microsoft SQL Server 4.x codebase
+Standard components,include,schedulers
+Standard components,include,database language
+Standard components,include,replication
+Standard components,include,storage server
+Standard components,include,developer tools
+Standard components,include,ETL tools
+SQL Server Express,has reduced,engine performance
+SQL Server Express,has reduced,capacity
+SQL Server Express,is focused on,runs
+SQL Server Express,is focused on,an NT service
+SQL Server Express,is focused on,small deployments
+SQL Server Compact Edition,focused on,small installations
+SQL Server Compact Edition,focused on,desktop applications
+Microsoft,offers,a comparison table
+React,has since been made,open source
+a virtual DOM diff implementation,render on,the server using node.js
+reactive data flow using props,reduce,boilerplate
+Swift,distributed as,open source
+Swift,promises to modernize,the developer experience
+Swift applications,compile into,standard binaries
+Swift applications,can be run on,OS X
+Swift,was introduced by,Apple
+Swift,was introduced by,WWDC
+Swift,was introduced by,Apple
+Swift,was introduced by,WWDC
+Swift,will come to,non-Apple platforms
+Swift,was introduced by,Apple
+Swift,was introduced by,WWDC
+Swift,was introduced by,Apple
+Swift,was introduced by,WWDC
+Swift,was introduced with,Xcode
+Swift,was introduced with,Xcode
+Swift,was introduced with,Xcode
+Swift,was introduced with,Xcode
+C,was created primarily by,the early 1980s
+C,was created primarily by,company Stepstone
+C,was created primarily by,Brad Cox
+C,was created primarily by,Tom Love
+C,inherits,primitive types
+C,adds,defining classes
+C,adds,object literals
+C,derives,C object syntax
+C,derives,Smalltalk
+Python,features,simplifications
+Python,features,improvements
+Python,is strongly recommended for,any new development
+Django,is designed to reduce,the effort
+Django,is designed to reduce,redundancy
+Django,follows,architectural pattern
+AngularJS,is used internally by,Google
+AngularJS,is used internally by,applications
+Pipes,are used for transforming,transforming values
+Pipes,are used for transforming,one form
+Angular versioning,follows,Semantic Versioning principles
+General help regarding MS Excel,is available at,Super User
+MS Excel,features,Visual Basic
+Regular expressions,provide,a declarative language
+Regular expressions,are commonly used for,string validation
+Regular expressions,are commonly used for,transformation
+the canonical post,contains,links
+Regular expressions,are available in,programming languages
+Regular expressions,are available in,dialects
+Regular expressions,are available in,processing tools
+BRE,will need,backslashes
+Regular expressions,are useful in,a wide variety
+Google,offers,re2
+Google,does not backtrack,linear runtime growth
+Native iOS applications,are written in,C
+Native iOS applications,are written in,Swift
+Native iOS applications,are written in,C
+Native iOS applications,are written in,Swift
+Native iOS applications,using,the Cocoa Touch frameworks
+Native iOS applications,using,the Cocoa Touch frameworks
+the Cocoa Touch frameworks,share,many classes
+the Cocoa Touch frameworks,share,features
+the Cocoa Touch frameworks,are distinct from,Cocoa
+Cocoa,is used exclusively for,macOS development
+The iPhone,has,several hardware features
+The iPhone,has,sensors
+The iPhone,use,the Cocoa Touch frameworks
+iPod touch applications,use,the Cocoa Touch frameworks
+The iPhone,are developed using,the Xcode IDE
+The iPhone,use,the Cocoa Touch frameworks
+Ruby,was initially conceived on,Yukihiro Matsumoto
+AJAX,uses,asynchronous data exchange
+Each HTML request,would provide,additional information
+Each HTML request,would provide,additional information
+Each HTML request,would provide,data
+Each HTML request,would provide,data
+ajax,is supported by,all modern browsers
+X,stands for,xml
+json,has replaced,xml
+json,has replaced,the data interchange format
+JavaScript,parses,text
+XML,must be parsed by,cumbersome set
+the common Unix tools,carry,many basic operating system tasks
+XML,is defined in,the XML 1.0 Specification
+XML,allows creating,custom tags
+XML,is also used in,some protocols
+Schemas,are usually defined with,an external namespace
+XML,define,tags
+XML,is forward compatible with,the Unicode standard
+Pandas,is implemented primarily using,using NumPy
+Pandas,is implemented primarily using,Cython
+The ASP.NET MVC Framework,provides,creating Web applications
+The ASP.NET MVC Framework,provides,the ASP.NET WebForms Framework
+The ASP.NET MVC Framework,has become,WebForms
+Microsoft,has shipped,the ASP.NET MVC 4 release
+Microsoft,has shipped,the Nuget package management system
+Microsoft,has shipped,the ASP.NET MVC 4 release
+Microsoft,has shipped,the Nuget package management system
+MVC3,applies to,MVC4
+MVC3,applies to,MVC5.x
+VBA,is not equivalent to,VB.NET
+VBA,is not equivalent to,VBS
+Visual Basic,was introduced to,Office
+Visual Basic,was introduced to,Access
+Visual Basic,was introduced to,PowerPoint
+Visual Basic,was introduced to,Word
+VBA,derives from,the classic Visual Basic programming language
+VBA,create,independent executables
+VBA,create,DLLs
+VBA,create,classic VB
+VBA,includes,a myriad
+VBA,address,bit version
+Applications using VBA,must address,compatibility
+Applications using VBA,must address,safe issues
+VBA,was removed from,Office
+VBA,was removed from,Mac
+VBA,is supported only in,the desktop application versions
+VBA,inherits much of,the BASIC programming language
+The Spring Framework,complements,the Java EE APIs
+The Spring Framework,reduces,boilerplate code
+Spring,provides,the application domain
+An atomic system,must guarantee,atomicity
+b2,used,PHP
+b2,used,MySQL
+Laravel,created by,Taylor Otwell
+Laravel,intended for,the development
+MVC framework,released under,The MIT License
+String representations,vary widely in,the features String representations
+WPF runtime libraries,are included in,Windows Server
+WPF,employs,XAML
+WPF applications,be deployed as,standalone desktop programs
+WPF,aims to unify,pre-rendered media
+WPF,aims to unify,typography
+WPF,aims to unify,common user interface elements
+WPF,aims to unify,vector graphics
+WPF,aims to unify,runtime animation
+Microsoft,has released,six major WPF versions
+WPF runtime libraries,will be provided by,Microsoft
+MongoDB,supports,a large number
+MongoDB,uses,the BSON format
+MongoDB,uses,storing data
+MongoDB,uses,the MongoDB Wire Protocol
+Community Supported Drivers,offer,alternative implementations
+MongoDB server releases,can be installed via,common packaging systems
+TypeScript,was developed by,Microsoft
+PostgreSQL,is developed by,the PostgreSQL Global Development Group
+Bash,offers,numerous additions
+C shell,offers,functional improvements
+the KornShell,offers,functional improvements
+sh scripts,can be run by,Bash
+Bash,was written by,Brian Fox
+Linux installations,should be using,the 4.x family
+NET,is one of,C#
+NET,is one of,F#
+NET,can be viewed as,an evolution
+NET,can be viewed as,an evolution
+NET,implemented on,Microsoft
+NET,continues from,VB6
+Git,was initially designed,Linus Torvalds
+Git,was initially designed,linux kernel development
+Linus Torvalds,is maintained by,Junio Hamano
+Every Git working directory,contains,fledged repository
+Every Git working directory,contains,fledged repository
+Oracle Database,supports,a large number
+threads,share,memory
+threads,share,variables
+a processor,can create,multiple threads
+Each thread,has,own stack
+Each thread,has,variables
+Each thread,has,ID
+Amdahl's law,governs,the diminishing amount
+Eclipse IDE,used for,Java development
+Eclipse IDE,is built on,an OSGI implementation
+Eclipse,be used as,a development environment
+the Eclipse CDT Project,provides,ins
+the Eclipse CDT Project,provides,C++ development
+the Eclipse CDT Project,create,C++ development environment
+the Eclipse CDT Project,supplies,ins
+the Eclipse CDT Project,supplies,Java web applications
+the Eclipse CDT Project,supplies,developing Open web standards
+the Eclipse CDT Project,provides,a plugin
+the Eclipse CDT Project,provides,PHP development
+the Eclipse CDT Project,create,a PHP development environment
+The popular commercial Zend Studio,is also based on,Eclipse IDE
+PyDev,provides,ins
+PyDev,provides,Python development
+the Eclipse CDT Project,provides,a plugin
+the Eclipse CDT Project,provides,Perl development
+the Eclipse CDT Project,create,a Perl development environment
+Google,has ceased developing,the Android Development Tools
+Eclipse,is synonymous with,the Java IDE
+Amazon Web Services,are also accessible through,SOAP APIs
+a good algorithm,may outperform,a poor algorithm
+a good algorithm,may outperform,large datasets
+a good algorithm,may outperform,several orders
+A key algorithm classification,is known as,Algorithm Complexity
+Swift,providing,providing user interface
+Swift,providing,level services
+macOS,consists of,kernel
+Apple,purchased in,NeXT Inc.
+macOS,is based upon,the NeXTSTEP
+macOS,is based upon,OpenStep operating systems
+A web form element,is characterized by,the action
+Images,are typically rendered as,a two dimensional matrix
+Scala,fuses,functional programming styles
+Scala,fuses,programming styles
+General server help,can be obtained at,Super User
+Microsoft,publishes,a comparison table
+Bootstrap,includes,base CSS
+Bootstrap,includes,HTML
+Less,was replaced with,Sass
+v3.1.0,was licensed under,the Apache 2 License
+Native React,runs,the JavaScript code
+Native React,runs,a React app
+Docker,been implemented on,MS Windows
+Docker,builds,level API
+docker,runs in,Windows
+docker,runs in,X
+docker,runs in,some variety
+Performance,is represented in,big O notation
+Latency,is often qualified with,a statistical measure
+latencies,don't follow,a normal distribution
+latencies,have,high upper limits
+A data frame,contains,data
+A data frame,contains,data
+R,used in,SQL
+R,used in,MATLAB
+Data frames,are one of,matrices
+indices,can be used for,alignment
+columns,are somewhat prioritized over,an implementation perspective
+DataFrames,can be constructed from,a wide array
+the Control class,has,docking support
+Active Accessibility support,helps,impaired users
+Active Accessibility support,use,Windows Forms
+own controls,are rendered using,using GDI
+scripting language,included with,Microsoft Windows
+scripting language,included with,Microsoft Windows Server 2008 R2
+scripting language,included with,Microsoft Windows Server
+scripting language,included with,Microsoft Windows
+scripting language,included with,Microsoft Windows Server
+PowerShell,has,pattern matching
+PowerShell,has,syntax
+PowerShell,has,string expansion
+PowerShell,has,support
+PowerShell,has,a language
+Windows PowerShell ISE,has,Unicode support
+Windows PowerShell ISE,is designed around,cmdlets
+Windows PowerShell ISE,is designed around,line shell
+Date,Process,objects representing running processes
+objects representing running processes,can be piped to,other commands
+keywords,have,short aliases
+managing system,offer,PowerShell integration
+PowerShell,takes,the Unix idea
+PowerShell,manipulating,manipulating text
+Windows components,have been extended to provide,a system management environment
+Microsoft products,have been extended to provide,a system management environment
+PowerShell,enhances,piping
+Windows components,have been extended to provide,native PowerShell
+Microsoft products,have been extended to provide,native PowerShell
+objects,carry,type information
+objects,carry,complex state
+parenthesis,separated,comma separated arguments
+comma separated arguments,separated,comma separated arguments
+PSReadLine,replaces,the command line editing experience
+Powertab,offers enhanced,tab expansion
+An API,may include,specifications
+the Python language,adds,matrixes
+the Python language,adds,a large library
+the Python language,adds,large multidimensional arrays
+NumPy,be used as,an efficient multi-dimensional container
+NumPy,be used as,obvious scientific uses
+NumPy,provides,efficient methods
+NumPy,integrates easily with,other methods
+NumPy,is released under,the BSD license
+SQL syntax,does not guarantee,the domain integrity
+SQLite,has,a simple implementation
+SQLite,is commonly used to store,Windows Phone apps
+SQLite,is commonly used to store,data
+the SQLite engine,has,no standalone processes
+the SQLite engine,has,server database management systems
+SQLite,stores,the entire database
+SQLite,stores,a single cross-platform file
+ORM,provides,Relational Mapping
+Entity Framework,supports,change tracking
+Entity Framework,supports,schema migrations
+Entity Framework,supports,major RDBM products including SQL Server
+new codebase,shares,many concepts
+new codebase,shares,the classic framework
+new codebase,differs considerably in mapping,mapping syntax
+new codebase,differs considerably in mapping,query translation
+core,having,new codebase
+core,came with,many breaking changes
+The Selenium IDE,provides,playback tool
+The Selenium IDE,provides,authoring tests
+Selenium,write,tests
+Test playback,is possible in,modern web browsers
+Selenium,deploys on,Windows
+Selenium,deploys on,Linux
+Selenium,deploys on,Macintosh platforms
+the browser API,is provided by,the browser manufacturer
+Selenium,was originally developed by,Jason Huggins
+Jason Huggins,was later joined by,testers
+Jason Huggins,was later joined by,ThoughtWorks
+Selenium,released under,the Apache 2.0 license
+Selenium,can be downloaded,charge
+Selenium IDE,allows,debugging tests
+Selenium IDE,is implemented as,a firefox extension
+Selenium IDE,was previously known as,Selenium Recorder
+Selenium IDE,was originally created by,Shinya Kasatani
+Selenium IDE,donated to,the Selenium project
+Selenium Recorder,allows,debugging tests
+Selenium Recorder,is implemented as,a firefox plugin
+Selenium Recorder,was initially created by,SauceLabs
+Selenium Recorder,was initially created by,the source code base
+Facebook Platform,has evolved from enabling,enabling development
+photos,can post to,wall
+Flutter,is used to develop,applications
+Flutter applications,are written in,the Dart programming language
+Flutter applications,can connect to,platform languages
+Flutter development,is currently supported on,Windows operating systems
+Flutter,is developed,Google
+Flutter,uses,WebView
+Flutter,uses,the OEM widgets
+Flutter,own,performance rendering engine
+Flutter,offers,engine performance
+Flutter,offers,fast development experience
+Flutter,offers,fast runtime
+Representational State Transfer,has increased in,the intrinsic de-coupling
+Representational State Transfer,has increased in,popularity
+SOAP,tries to model,the exchange
+RESTful api,is queried to find,information
+Tcsh,comes originally as,a design improvement
+terminal emulators,are used to access,graphical user mode
+terminal emulators,are used to access,the original C shell
+LINQ,supports,two notations
+A loop,can be categorized in,A loop
+Qt,is available with,open source licenses
+Qt,was created by,Trolltech
+Qt,was acquired by,Nokia
+Nokia,decided to sell,Qt
+Qt,is managed by,the Qt Company
+Qt,is available under,four different licenses
+Qt,aims at creating,creating Qt applications
+Qt,can be used to create,regular C++ applications
+Pluralsight,has,three courses
+Voidrealm,released,a full free series
+Voidrealm,released,beginners
+Apache Maven,can manage,a project's build
+Apache Maven,can manage,reporting
+Apache Maven,can manage,documentation
+Apache Maven,adheres to,the principle
+Apache Maven,attempts to deal,several areas
+a global Super POM,defined,common properties
+Each POM file,inherits from,a global Super POM
+the official Android development environment,is based on,IntelliJ IDEA
+Android Studio,provides integrated,Android developer tools
+Vue.js,requires,an intermediate level
+Vue.js,is mainly used for,end development
+Vue,embraces,the idea
+Vue,embraces,manual updates
+Vue,can be built upon,increasing Vue functionality
+Vue,includes,some notable changes
+Vue,includes,improvements
+Stack Snippets,run,single file components
+Newlines,can appear within,fields
+separator characters,can appear within,fields
+Unit tests,are created by,the development process
+Unit tests,are created by,programmers
+Unit tests,are created by,white box testers
+Unit tests,are created by,the development process
+Unit tests,are created by,programmers
+Unit tests,are created by,white box testers
+Test Doubles,can be used to isolate,dependencies
+Unit tests,are typically written,software developers
+Unit testing,is closely related to,Test Driven Development
+files,are organized in,a tree structure
+A class,have,runtime
+An Invoice,may have,methods
+Classes,allow,a clear correspondence
+Classes,provide,challenging complexity
+Classes,can accelerate,development
+GUI items,inherit,classes
+the dialog class,is unique to,The programmer operation
+URL redirection using mod_rewrite,provide,URLs
+URL redirection using mod_rewrite,is used by,many sites
+URL redirection using mod_rewrite,is used by,SEO purposes
+TensorFlow,provides,a python API
+TensorFlow,executing,executing data flow graphs
+TensorFlow,includes,TensorBoard
+TensorFlow,achieves,TensorFlow performance
+TensorFlow,achieves,parallelizing execution
+TensorFlow,discuss,mailing list
+TensorFlow End Users,was originally developed,Linux systems
+TensorFlow End Users,has been ported to,other operating systems including Microsoft Windows
+The TensorFlow community,tends to favor,Ubuntu Linux
+The TensorFlow community,tends to favor,support
+the AMD Radeon product line,is improving,improving NVIDIA support
+Ubuntu 64 bit Linux,be using,using 16.x
+Ubuntu 64 bit Linux,be using,using 16.x
+TensorFlow,is not known to,Python
+TensorFlow,is released under,an Apache 2.0 License
+Symfony,refers to,a PHP framework
+web,built on,a catalog
+Symfony,aims to speed,the creation
+Symfony,aims to speed,maintenance
+Symfony,replace,repetitive coding tasks
+Symfony,is aimed at,robust applications
+Symfony,help,developers test
+Symfony,help,debug
+Symfony,help,document projects
+Symfony,maintains,releases
+The Symfony team,is committed to provide,a direct upgrade path
+CodeIgniter goal,is to enable,developers
+CodeIgniter,is loosely based on,Controller development pattern
+Apache Spark,offers,a general execution model
+Apache Spark,promises,performance
+Apache Spark,is not tied to,stage mapreduce paradigm
+Spark,provides,primitives
+memory cluster computing,allows,user programs
+Spark,provides,memory cluster computing
+memory cluster computing,load,data
+Spark,can be used to tackle,stream processing problems
+Apache Spark,provides,concise APIs
+Apache Spark,provides,java
+Apache Spark,provides,python
+Apache Spark,provides,r
+Apache Spark,provides,scala
+A date,consists of,year
+A date,consists of,month
+A date,consists of,day
+an ambiguous interval,refers to,month
+an ambiguous interval,refers to,year
+an ambiguous interval,refers to,a day
+A date,does not refer to,a specific moment
+A date,does not refer to,time
+the Date type,represents,a date
+the Date type,represents,time
+the Date type,represents,some programming languages
+the Date type,represents,javascript
+a web browser,uses,the Blink rendering engine
+a free desktop browser,uses,V8 JavaScript engine
+a free desktop browser,uses,the Blink rendering engine
+devtools,is released as,DevTools
+devtools,is released as,Chromium
+Google Chrome,was first publicly released for,a beta version
+Google Chrome,is available in,53 languages
+Google Chrome,was first publicly released for,43 languages
+Google Chrome,was first publicly released for,Microsoft Windows
+Microsoft SQL Server,was based on,sybase ASE code
+Microsoft SQL Server,was based on,a partnership
+SQL,Transact Structured,standards
+regular expressions,are based on,the PCRE library
+Perl,runs on over,100 platforms
+Perl,runs on over,portables
+Perl,is suitable for,both rapid prototyping
+Perl,is suitable for,scale development projects
+Perl,refer to,a family
+regular expressions,do not use,tag perl
+regular expressions,do not use,style
+Google Maps,provided by,Google
+UITableView,uses,an efficient architecture
+an efficient architecture,reuses existing,performance
+OpenCV,provides,a rich API
+OpenCV,was officially launched by,Intel
+OpenCV,is now supported by,Itseez
+OpenCV,saw,a strong acceleration
+a data structure,maps,keys
+associative array,is commonly implemented as,a hash map
+symbol table,is commonly implemented as,a hash map
+associative array,may be implemented as,list
+associative container,contains,value pairs
+Validation,is used in checking,checking input data
+Hypertext Transfer Protocol,uses,response model
+the request,are made up of,a header
+the request,are made up of,an optional body
+response,are made up of,a header
+response,are made up of,an optional body
+a header,contains,a list
+an optional body,contains,a list
+a request,may have,headers
+The response,can be sent with,the body
+a request,needs,a body
+a request,is sending,additional data
+HTTP,is used by,browsers
+HTTP,be used for,data APIs
+HTTP,be used for,instance
+HTTP,be used for,a soap
+HTTP,be used for,rest
+HTTP,be used for,graphql service
+HTTP,retrieve,web content
+mobile development platform,create,mobile applications using JavaScript
+Apache Cordova,provides,a JavaScript library
+Apache Cordova,provides,wrapper
+Apache Cordova,provides,access
+Apache Cordova,was originally called,PhoneGap
+Nitobi,was acquired by,Adobe
+the PhoneGap code,was donated to,Apache
+Adobe,contributes to,the original PhoneGap site
+Adobe,contributes to,The project
+Adobe,contributes to,hosts
+mobile application,is written in,JavaScript
+mobile application,is written in,HTML
+The JavaScript,used by,Apache Cordova
+PhoneGap Build,supports,iOS
+PhoneGap Build,supports,Android
+PhoneGap Build,supports,Windows Phone
+Apache Cordova,has varying,varying degrees
+Apache Cordova,has,code
+A DateTime object,describes,a date
+A DateTime object,describes,a time
+A DateTime object,can express,an instant
+A DateTime object,can express,a position
+A DateTime object,can express,a calendar
+A DateTime object,can express,time
+A DateTime object,is used,the context
+A DateTime object,describes,a date
+A DateTime object,describes,a time
+A DateTime object,can express,an instant
+A DateTime object,can express,a position
+A DateTime object,can express,a calendar
+A DateTime object,can express,time
+A DateTime object,is used,the context
+datetime,carries,no time zone context
+datetime values,represent,a date
+datetime values,represent,time
+datetime values,represent,mysql
+TIMESTAMP values,represent,a moment
+TIMESTAMP values,represent,time
+TIMESTAMP values,are based on,UNIX time
+datetime,represents,an instant
+datetime,represents,a position
+an object,represents,a date
+an object,represents,time
+a Date instance,represents,a single moment
+a Date instance,represents,javascript
+a Date instance,represents,time
+Date objects,are based on,a time value
+POSIXct,represents,number
+POSIXct,represents,the beginning
+excel excel,uses,the 1900 date system
+excel excel,uses,excel
+a Date,can be used to manipulate,minutes values
+Time function,can be used to manipulate,minutes values
+The W3C,standardizes,WSDL
+Core apps,can be run on,Windows
+Python,may be used,alone GUIs
+Matplotlib,provides,API
+Matplotlib,provides,applications
+Matplotlib,using,toolkits
+output PNG,using,toolkits
+PDF,using,toolkits
+PS,using,toolkits
+EPS,using,toolkits
+TIFF,using,toolkits
+JPEG,using,toolkits
+PGF,using,toolkits
+SVG files,using,toolkits
+plot,using,toolkits
+Cloud services,include,cloud building
+A layout,defines,the visual structure
+A layout,defines,a user interface
+A layout,is made up of,View
+A layout,is made up of,ViewGroup
+Android,provides,a straightforward XML vocabulary
+a straightforward XML vocabulary,corresponds to,the View classes
+a straightforward XML vocabulary,corresponds to,subclasses
+common layout types,are built into,the Android platform
+an object,refers to,programming
+Objects,have,members
+Objects,have,methods
+Classes,can have,own members
+Classes,can have,methods
+own members,define,the properties
+own members,define,abilities
+methods,define,the properties
+methods,define,abilities
+a Bird class objects,might have,an age property
+a Bird class objects,might have,a fly ability
+a file,could be represented as,an object
+Ruby,follows,the principle
+Rails,brings,improvements
+Modern email,operates across,the Internet
+Modern email,operates across,other computer networks
+Today's email systems,are based on,forward model
+Email servers,accept,messages
+Kotlin,combines,OOP
+Kotlin,combines,functional features
+Kotlin,is focused on,tooling support
+Kotlin,is focused on,interoperability
+Kotlin,is focused on,safety
+Kotlin,is focused on,clarity
+Kotlin,targets,the JVM
+Kotlin,targets,JavaScript
+Kotlin,targets,native targets
+Kotlin,supports,JVM bytecode
+Kotlin,supports,JavaScript
+Kotlin,supports,Native code
+Methods,can access,attributes
+OOP,includes,features
+Spring MVC,stands for,Model View Controller
+The Spring Framework,comprises,several modules
+SQL Server,aims to make,tuning
+SQL Server,aims to make,self organizing
+text search functionality,has been integrated with,the database engine
+data type,represents,geospatial data
+GEOGRAPHY,uses,an ellipsoidal model
+the Earth,is defined as,a single continuous entity
+the Earth,is defined as,an ellipsoidal model
+SQL Server,includes,compression features
+compression features,helps in improving,improving scalability
+SQL Server,enhanced,the indexing algorithms
+SQL Server,includes,Resource Governor
+Resource Governor,allows reserving,reserving resources
+Resource Governor,allows reserving,workflows
+Resource Governor,allows reserving,certain users
+SQL Server,includes,capabilities
+SQL Server,supports,data definition
+SQL Server,supports,the ADO.NET Entity Framework
+SQL Server,supports,the reporting tools
+SQL Server,supports,replication
+SQL Server Reporting Services,will gain charting,charting capabilities
+Dundas Data Visualization,was acquired by,Microsoft
+SQL Server Reporting Services,includes,the Declarative Management Framework
+the Declarative Management Framework,allows configuring,configuring policies
+the Declarative Management Framework,allows configuring,constraints
+SQL Server Reporting Services,includes,the management side
+the Declarative Management Framework,allows configuring,the entire database
+the Declarative Management Framework,allows configuring,certain tables
+C++,been referred to as,C++0x
+C++,had earlier been referred,C++0x
+The ISO standard,is withdrawn from,the ISO website
+The core,contains,desktop environment
+The core,includes,other desktop environments
+The core,is managed by,side projects
+Ubuntu,includes,a small amount
+Ubuntu,offers,a large amount
+database development tool,combines,ACE Database Engine
+database development tool,combines,a graphical user interface
+database development tool,combines,development tools
+database development tool,uses,ACE database engine
+database development tool,uses,the Jet
+an open source project,enables,modular program construction
+Web application security,draws on,a high level
+Web application security,draws on,the principles
+statements,are also commonly also called,conditionals
+statements,are also commonly known as,conditionals
+JSP,supports,taglibs
+taglibs,are backed by,pieces
+JSP,supports,Expression Language
+the servlet container,will compile,the JSP file
+the servlet container,use,the JSP file
+JSP,is requested for,the first time
+the servlet container,use,the webapp's lifetime
+the servlet container,send,output
+the servlet container,send,the web server
+the servlet container,send,the client side
+JSP,runs in,producing HTML output
+JSP,runs in,the web server
+the HTML output,runs in,the browser
+JSP,don't run in,sync
+JavaScript,don't run in,sync
+JSP,has been succeeded by,Java EE
+JSP,has been succeeded by,Facelets
+JavaServer,Faces,the default view technology
+JavaServer,Faces,the Java EE MVC framework JSF
+JSP,is not treated in,the Java EE 6 tutorial
+JSP,is not treated in,detail
+The ListView control,is used extensively in,the Windows UI shell
+The ListView control,providing,the display surface
+The ListView control,is provided by,the Common Controls library
+The ListView control,can be used by,any application
+The ListView control,display,data
+A ListView controls,are sometimes also called,gridview
+GTK,are implemented as,columnar TreeView
+A pointer variable,contains,a memory address
+Pointers,have,performance benefits
+Windows Communication Foundation,is designed using,architecture principles
+Windows Communication Foundation,support distributed,computing
+Clients,can consume,multiple services
+Services,have,a WSDL interface
+Windows Communication Foundation,implements,many advanced Web services
+Framework,provides,Discovery
+Framework,provides,routing
+Framework,provides,RSS Syndication Services
+An endpoint,has,an address
+the endpoint,can be accessed,binding properties
+Authentication,is different than,Authorization
+Authentication,allow,access
+Authentication,happen together to verify,identity
+authorization,happen together to verify,identity
+Each authentication factor,covers,elements
+batch files,are still supported under,Windows
+logstash,are commonly known as,the Elastic Stack
+kibana,are commonly known as,the Elastic Stack
+open platform,is now known as,the Elastic Stack
+Elasticsearch,oriented,various APIs
+Elasticsearch,supports,schema
+Elasticsearch,supports,schema
+Elasticsearch,comes with,various text preprocessing algorithms
+Official clients,are available in,ruby
+Official clients,are available in,java
+Official clients,are available in,javascript
+Official clients,are available in,many other languages
+Official clients,are available in,c#
+Official clients,are available in,php
+Official clients,are available in,python
+Templates,allow for,generic programming
+Templates,allow for,programming
+The C++ Book Guide,contains,books treating templates
+Dart,compiles to,modern JavaScript
+Dart,provides,tools
+Using variables,can store,numbers
+Using variables,can store,text
+Using variables,can store,binary data
+a computer program,can store,numbers
+a computer program,can store,textual data
+Variables,are only accessible within,a certain function
+variables,are constrained by,languages
+variables,are constrained by,a specific data type
+Data types,share,many commonalities
+Data types,may vary across,languages
+Composite data types,consist of,other composite types
+Composite data types,consist of,the primitive types
+The specifics,vary,programming languages
+The specifics,vary,implementations
+The specifics,vary,programming languages
+The specifics,vary,implementations
+Delphi,originated in,Borland
+Delphi,is currently owned by,Embarcadero
+Delphi Prism,is mostly compatible with,Delphi syntax
+Syntax checkers,are also known as,linters
+Syntax checkers,are also known as,code validators
+Breakpoints,can display,a message containing program information
+Breakpoints,could be adding,up messages
+Breakpoints,can be created using,a debugging tool
+Breakpoints,can be created using,simple form
+Visual Studio,succeeding,succeeding Visual Studio
+Visual Studio,comes with,partial C++11 support
+Visual Studio,has integrated,support
+Visual Studio,offers,several tools
+Visual Studio 2010 got Visual Studio,got,build number SP1Rel 10.0.40219.1
+Nginx,hosts,12.18%
+Nginx,is known for,low resource consumption
+Nginx,is known for,high performance
+Nginx,is known for,stability
+Nginx,is known for,rich feature set
+Nginx,is known for,simple configuration
+Haskell,allows,rapid development
+Char8 module,can be used for,instance
+Char8 module,can be used for,an efficient representation
+SSL,is used as,a blanket term
+SSL,refers to,the SSL protocol
+SSL,refers to,the Transport Layer Security
+Netscape Communication Corp,pioneered,primitive security protocol
+Netscape Communication Corp,pioneered,SSL
+the HTTP protocol,running over,the HTTPS protocol
+the HTTP protocol,running over,TLS
+ISO,is important as,a reference
+ISO,is not exactly written for,PDF beginners
+Letters,can be encoded as,raster images
+Letters,can be encoded as,line art
+Letters,can be encoded as,vector graphics
+Letters,can be encoded as,font glyphs
+a PDF files,contain drawing,drawing instructions
+Machine learning,revolves around developing,learning computer algorithms
+learning computer algorithms,function by,data
+Machine learning,explores,the construction
+Machine learning,explores,study
+Mac,write,cross-platform native Apps
+Xamarin Test Cloud,write,cross-platform native Apps
+Xamarin,is headquartered in,an engineering office
+Xamarin,is headquartered in,San Francisco
+Xamarin,was acquired by,Microsoft
+Microsoft,announced,a new licensing scheme
+Microsoft,announced,including Xamarin
+Microsoft,announced,Microsoft's Build 2016 developer conference
+the Xamarin Platform,includes,in
+the Xamarin Platform,includes,Visual Studio
+Xamarin,created,the Xamarin Platform
+in,can be used to develop,Android platforms
+The Xamarin Platform,includes,Xamarin.iOS
+Xamarin,introduced,build host
+build host,provides,the connection
+build host,enhances,access
+JPA,is now considered,the standard industry approach
+JPA,includes,several improvements
+purpose OS,was developed by,the late 1960s
+purpose OS,was developed by,Bell Labs
+Unix,can be used for,problems
+Unix,was developed as,house operating system
+Unix,became,the 1980s
+the free Unix clone Linux,would rise in,popularity
+the free Unix clone Linux,would rise in,the 1990s
+the Unix,lacks,the trademark
+Unix,is commonly found on,server platforms
+Mac OS X.,support,the standardized X Window System
+The various Unix implementation,are unified in,a standard
+Flask,has,exceptional documentation
+Flask,has,a large number
+Flask,has,a friendly community
+Jobs,can be scheduled using,like scheduling
+Jobs,can be run across,multiple machines
+Jobs,can be run across,cross-platform software
+Jenkins,set,a new build slave
+Jenkins,set,accessible machine
+Jenkins,supports,a long list
+Jenkins,support,different source control systems
+Asynchronous programming models,can aid in,software composition
+Fragments,represent,reusable behaviors
+Fragments,represent,portions
+Fragments,represent,an Android app
+A Fragment,represents,a behavior
+A Fragment,represents,a portion
+Fragments,were first introduced in,Android
+The ApiDemos sample application present,provides,runnable fragment examples
+The ApiDemos sample application present,provides,source code
+GitHub,offers all of,revision control
+GitHub,offers all of,source code management
+GitHub,provides,graphical interface
+GitHub,provides,desktop
+GitHub,provides,access control
+GitHub,provides,several features
+GitHub,provides,collaboration
+GitHub,offers,plans
+free accounts,are usually used to host,source software projects
+GitHub,reports having,100 million repositories
+GitHub,reports having,40 million users
+depth detail,is provided by,Microsoft
+generics,are typically limited to,c++ templates
+generics,are not well suited for,programming
+Selenium WebDriver,provides,the WebDriver API
+Selenium WebDriver,provides,controlling browsers
+Selenium WebDriver,focuses mostly on,user interaction
+Selenium WebDriver,does allow,direct JavaScript interaction
+Selenium WebDriver,has gained,popularity
+Selenium WebDriver,has gained,Selenium WebDriver availability
+Selenium WebDriver,has gained,Selenium WebDriver support
+The core,consists of,file system
+The core,consists of,a resource manager
+Hadoop,refers to,the software
+Hadoop,refers to,file system
+one Name Node,will accept,the requests
+one Name Node,use,some Data Nodes
+lots,will share,the processing work
+lots,will share,some Data Nodes
+one Name Node,do,some processing
+one Name Node,use,some Data Nodes
+Hadoop,works with,other filesystems
+Hadoop,disposes of,a standalone resource manager
+A session,refers to,the communication

@@ -106,3 +106,1254 @@ entity_103,different data storage technologies
 entity_104,different programming languages
 entity_105,DevExpress
 entity_106,presentation controls
+entity_107,the tab key
+entity_108,convention
+entity_109,JavaScript
+entity_110,the browser
+entity_111,every operating system
+entity_112,The Mozilla Developer Network
+entity_113,quality documentation
+entity_114,Cascading Style Sheets
+entity_115,environments
+entity_116,the name Mocha
+entity_117,modern browsers
+entity_118,scripts
+entity_119,a sandbox
+entity_120,The Java language
+entity_121,C
+entity_122,Java applications
+entity_123,bytecode
+entity_124,The JVM
+entity_125,performance
+entity_126,memory
+entity_127,Java
+entity_128,Native Interface
+entity_129,few implementation dependencies
+entity_130,James Gosling
+entity_131,Sun Microsystems
+entity_132,Oracle Corporation
+entity_133,a core component
+entity_134,a project
+entity_135,computing systems
+entity_136,running Java programs
+entity_137,native machine code
+entity_138,the JVM
+entity_139,Java SE
+entity_140,every six months
+entity_141,java code
+entity_142,a java installer package supplier
+entity_143,LTS
+entity_144,non-LTS versions
+entity_145,Java programs
+entity_146,readability
+entity_147,Java source code
+entity_148,an intermediate form
+entity_149,the java command
+entity_150,Python
+entity_151,dynamic data types
+entity_152,modules
+entity_153,classes
+entity_154,exceptions
+entity_155,dynamic typing
+entity_156,remarkable power
+entity_157,clear syntax
+entity_158,many system calls
+entity_159,libraries
+entity_160,various window systems
+entity_161,c
+entity_162,c++
+entity_163,an extension language
+entity_164,many Unix variants
+entity_165,Guido van Rossum
+entity_166,multiple programming paradigms
+entity_167,dynamic type system
+entity_168,automatic memory management
+entity_169,other dynamic languages
+entity_170,a scripting language
+entity_171,Python interpreters
+entity_172,many operating systems
+entity_173,a basic IDE called IDLE
+entity_174,easy_install
+entity_175,installing dependencies
+entity_176,the time
+entity_177,A simple Python library
+entity_178,C APIs
+entity_179,Scrapy
+entity_180,testing
+entity_181,data mining
+entity_182,Beautiful Soup
+entity_183,Flask
+entity_184,monolithic structure
+entity_185,dependencies
+entity_186,Tornado
+entity_187,open connections
+entity_188,web framework
+entity_189,web applications
+entity_190,the emerging WSGI standard
+entity_191,extensive re-use
+entity_192,TurboGears
+entity_193,Kevin Dangoor
+entity_194,Falcon
+entity_195,architectural style
+entity_196,Kivy
+entity_197,multiple platforms
+entity_198,20 widgets
+entity_199,PyQT
+entity_200,Sharp Zaurus
+entity_201,Linux
+entity_202,Windows
+entity_203,Mac OS X
+entity_204,Tkinter
+entity_205,graphical user interface
+entity_206,SciPy
+entity_207,algorithms
+entity_208,tools
+entity_209,NumPy
+entity_210,many NumPy functions
+entity_211,matplotlib
+entity_212,API
+entity_213,Pandas
+entity_214,matplotlib's plotting capabilities
+entity_215,many other libraries' features
+entity_216,NumPy's matrix operations
+entity_217,Theano
+entity_218,automatic differentiation
+entity_219,training
+entity_220,Cython
+entity_221,writing C extensions
+entity_222,The original PHP project
+entity_223,Rasmus Lerdorf
+entity_224,3v4l
+entity_225,jsfiddle
+entity_226,PHP Sandbox
+entity_227,codepad
+entity_228,The PEAR repository
+entity_229,the documentation
+entity_230,PHP
+entity_231,relational database
+entity_232,great database support
+entity_233,PECL extensions
+entity_234,NoSQL
+entity_235,Packagist
+entity_236,popular PHP libraries
+entity_237,Android
+entity_238,mobile devices
+entity_239,Google
+entity_240,Android TV
+entity_241,televisions
+entity_242,butterknife otto picassogreendao Android Developers
+entity_243,the SDK downloads
+entity_244,documentation
+entity_245,class reference
+entity_246,tutorials
+entity_247,Android Open Source Project
+entity_248,all necessary information
+entity_249,Google developer conference
+entity_250,videos
+entity_251,slides
+entity_252,the Android Developer site
+entity_253,Lee
+entity_254,HTML Tags
+entity_255,documentation standard
+entity_256,HTML elements
+entity_257,the building blocks
+entity_258,images
+entity_259,objects
+entity_260,interactive forms
+entity_261,structured documents
+entity_262,HTML standards
+entity_263,Wide Web Consortium
+entity_264,HTML markups
+entity_265,CSS
+entity_266,jQuery
+entity_267,HTML document traversal
+entity_268,manipulation
+entity_269,event handling
+entity_270,animation
+entity_271,AJAX
+entity_272,Internet Explorer version
+entity_273,mobile browser
+entity_274,the early 1980s
+entity_275,Bjarne Stroustrup
+entity_276,C++ improved type
+entity_277,safety
+entity_278,C++ Compiler
+entity_279,numerical computations
+entity_280,the C++ Committee
+entity_281,the first international standard
+entity_282,adding coroutines GCC C++20 language support
+entity_283,command line parameter
+entity_284,Clang C++20 language support
+entity_285,The visual presentation
+entity_286,HTML attributes
+entity_287,Complex selectors
+entity_288,multiple simple ones
+entity_289,OS
+entity_290,IBM's operating systems
+entity_291,OS X
+entity_292,OS foundation
+entity_293,Each iOS application
+entity_294,secure sandbox
+entity_295,an iOS application
+entity_296,extensions
+entity_297,iOS
+entity_298,graphics
+entity_299,processor
+entity_300,memory constraints
+entity_301,Interface control elements
+entity_302,sliders
+entity_303,switches
+entity_304,buttons
+entity_305,Interaction
+entity_306,gestures
+entity_307,Internal accelerometers
+entity_308,gyroscopes
+entity_309,three dimensions
+entity_310,CocoaPods
+entity_311,ten thousand libraries
+entity_312,programmers scale projects
+entity_313,a central list
+entity_314,MySQL source code
+entity_315,the GNU
+entity_316,MySQL
+entity_317,standard database driver connectivity
+entity_318,standard SQL
+entity_319,relational algebra
+entity_320,DDL
+entity_321,tables
+entity_322,constraints
+entity_323,DML
+entity_324,data
+entity_325,vendors
+entity_326,dialects
+entity_327,functionality
+entity_328,Oracle
+entity_329,PostgreSQL
+entity_330,Microsoft SQL Server
+entity_331,SQL
+entity_332,R
+entity_333,Ross Ihaka
+entity_334,Robert Gentleman
+entity_335,the R Development Core Team
+entity_336,The R environment
+entity_337,the Comprehensive R Archive Network
+entity_338,a packaging system
+entity_339,O runtime
+entity_340,Google's V8 JavaScript engine
+entity_341,libuv library
+entity_342,Node.js
+entity_343,developing applications
+entity_344,the CommonJS standard
+entity_345,ASP.NET
+entity_346,the Common Language Runtime
+entity_347,a WebForms style
+entity_348,own controls library
+entity_349,HTML helper methods
+entity_350,HTML markup
+entity_351,The C programming language
+entity_352,CPL.
+entity_353,programming languages B
+entity_354,BCPL
+entity_355,The C language
+entity_356,IEC
+entity_357,implementing system software
+entity_358,A draft version N2176
+entity_359,portable application software
+entity_360,many other popular programming languages
+entity_361,assembly language
+entity_362,level capabilities
+entity_363,cross-platform programming
+entity_364,C program
+entity_365,wide variety
+entity_366,microcontrollers
+entity_367,Ruby
+entity_368,the popular MVC framework model
+entity_369,Rails
+entity_370,the MVC Architectural Design Pattern
+entity_371,JSON
+entity_372,a JSON validator
+entity_373,conventions
+entity_374,RFC
+entity_375,Microsoft SQL Server 4.x codebase
+entity_376,Standard components
+entity_377,schedulers
+entity_378,database language
+entity_379,replication
+entity_380,storage server
+entity_381,developer tools
+entity_382,ETL tools
+entity_383,SQL Server Express
+entity_384,engine performance
+entity_385,capacity
+entity_386,runs
+entity_387,an NT service
+entity_388,small deployments
+entity_389,SQL Server Compact Edition
+entity_390,small installations
+entity_391,desktop applications
+entity_392,Microsoft
+entity_393,a comparison table
+entity_394,React
+entity_395,open source
+entity_396,a virtual DOM diff implementation
+entity_397,the server using node.js
+entity_398,reactive data flow using props
+entity_399,boilerplate
+entity_400,Swift
+entity_401,the developer experience
+entity_402,Swift applications
+entity_403,standard binaries
+entity_404,Apple
+entity_405,WWDC
+entity_406,non-Apple platforms
+entity_407,Xcode
+entity_408,company Stepstone
+entity_409,Brad Cox
+entity_410,Tom Love
+entity_411,primitive types
+entity_412,defining classes
+entity_413,object literals
+entity_414,C object syntax
+entity_415,Smalltalk
+entity_416,simplifications
+entity_417,improvements
+entity_418,any new development
+entity_419,Django
+entity_420,the effort
+entity_421,redundancy
+entity_422,architectural pattern
+entity_423,AngularJS
+entity_424,Pipes
+entity_425,transforming values
+entity_426,one form
+entity_427,Angular versioning
+entity_428,Semantic Versioning principles
+entity_429,General help regarding MS Excel
+entity_430,Super User
+entity_431,MS Excel
+entity_432,Visual Basic
+entity_433,Regular expressions
+entity_434,a declarative language
+entity_435,string validation
+entity_436,transformation
+entity_437,the canonical post
+entity_438,links
+entity_439,programming languages
+entity_440,processing tools
+entity_441,BRE
+entity_442,backslashes
+entity_443,a wide variety
+entity_444,re2
+entity_445,linear runtime growth
+entity_446,Native iOS applications
+entity_447,the Cocoa Touch frameworks
+entity_448,many classes
+entity_449,Cocoa
+entity_450,macOS development
+entity_451,The iPhone
+entity_452,several hardware features
+entity_453,sensors
+entity_454,iPod touch applications
+entity_455,the Xcode IDE
+entity_456,Yukihiro Matsumoto
+entity_457,asynchronous data exchange
+entity_458,Each HTML request
+entity_459,additional information
+entity_460,ajax
+entity_461,all modern browsers
+entity_462,X
+entity_463,xml
+entity_464,json
+entity_465,the data interchange format
+entity_466,text
+entity_467,XML
+entity_468,cumbersome set
+entity_469,the common Unix tools
+entity_470,many basic operating system tasks
+entity_471,the XML 1.0 Specification
+entity_472,custom tags
+entity_473,some protocols
+entity_474,Schemas
+entity_475,an external namespace
+entity_476,tags
+entity_477,the Unicode standard
+entity_478,using NumPy
+entity_479,The ASP.NET MVC Framework
+entity_480,creating Web applications
+entity_481,the ASP.NET WebForms Framework
+entity_482,WebForms
+entity_483,the ASP.NET MVC 4 release
+entity_484,the Nuget package management system
+entity_485,MVC3
+entity_486,MVC4
+entity_487,MVC5.x
+entity_488,VBA
+entity_489,VB.NET
+entity_490,VBS
+entity_491,Office
+entity_492,Access
+entity_493,PowerPoint
+entity_494,Word
+entity_495,the classic Visual Basic programming language
+entity_496,independent executables
+entity_497,DLLs
+entity_498,classic VB
+entity_499,a myriad
+entity_500,bit version
+entity_501,Applications using VBA
+entity_502,compatibility
+entity_503,safe issues
+entity_504,Mac
+entity_505,the desktop application versions
+entity_506,the BASIC programming language
+entity_507,The Spring Framework
+entity_508,the Java EE APIs
+entity_509,boilerplate code
+entity_510,Spring
+entity_511,the application domain
+entity_512,An atomic system
+entity_513,atomicity
+entity_514,b2
+entity_515,Laravel
+entity_516,Taylor Otwell
+entity_517,the development
+entity_518,MVC framework
+entity_519,The MIT License
+entity_520,String representations
+entity_521,the features String representations
+entity_522,WPF runtime libraries
+entity_523,Windows Server
+entity_524,WPF
+entity_525,XAML
+entity_526,WPF applications
+entity_527,standalone desktop programs
+entity_528,pre-rendered media
+entity_529,typography
+entity_530,common user interface elements
+entity_531,vector graphics
+entity_532,runtime animation
+entity_533,six major WPF versions
+entity_534,MongoDB
+entity_535,a large number
+entity_536,the BSON format
+entity_537,storing data
+entity_538,the MongoDB Wire Protocol
+entity_539,Community Supported Drivers
+entity_540,alternative implementations
+entity_541,MongoDB server releases
+entity_542,common packaging systems
+entity_543,TypeScript
+entity_544,the PostgreSQL Global Development Group
+entity_545,Bash
+entity_546,numerous additions
+entity_547,C shell
+entity_548,functional improvements
+entity_549,the KornShell
+entity_550,sh scripts
+entity_551,Brian Fox
+entity_552,Linux installations
+entity_553,the 4.x family
+entity_554,NET
+entity_555,C#
+entity_556,F#
+entity_557,an evolution
+entity_558,VB6
+entity_559,Git
+entity_560,Linus Torvalds
+entity_561,linux kernel development
+entity_562,Junio Hamano
+entity_563,Every Git working directory
+entity_564,fledged repository
+entity_565,Oracle Database
+entity_566,threads
+entity_567,variables
+entity_568,a processor
+entity_569,multiple threads
+entity_570,Each thread
+entity_571,own stack
+entity_572,ID
+entity_573,Amdahl's law
+entity_574,the diminishing amount
+entity_575,Eclipse IDE
+entity_576,Java development
+entity_577,an OSGI implementation
+entity_578,Eclipse
+entity_579,a development environment
+entity_580,the Eclipse CDT Project
+entity_581,ins
+entity_582,C++ development
+entity_583,C++ development environment
+entity_584,Java web applications
+entity_585,developing Open web standards
+entity_586,a plugin
+entity_587,PHP development
+entity_588,a PHP development environment
+entity_589,The popular commercial Zend Studio
+entity_590,PyDev
+entity_591,Python development
+entity_592,Perl development
+entity_593,a Perl development environment
+entity_594,the Android Development Tools
+entity_595,the Java IDE
+entity_596,Amazon Web Services
+entity_597,SOAP APIs
+entity_598,a good algorithm
+entity_599,a poor algorithm
+entity_600,large datasets
+entity_601,several orders
+entity_602,A key algorithm classification
+entity_603,Algorithm Complexity
+entity_604,providing user interface
+entity_605,level services
+entity_606,macOS
+entity_607,kernel
+entity_608,NeXT Inc.
+entity_609,the NeXTSTEP
+entity_610,OpenStep operating systems
+entity_611,A web form element
+entity_612,the action
+entity_613,Images
+entity_614,a two dimensional matrix
+entity_615,Scala
+entity_616,functional programming styles
+entity_617,programming styles
+entity_618,General server help
+entity_619,base CSS
+entity_620,Less
+entity_621,Sass
+entity_622,v3.1.0
+entity_623,the Apache 2 License
+entity_624,Native React
+entity_625,the JavaScript code
+entity_626,a React app
+entity_627,Docker
+entity_628,MS Windows
+entity_629,level API
+entity_630,docker
+entity_631,some variety
+entity_632,Performance
+entity_633,big O notation
+entity_634,Latency
+entity_635,a statistical measure
+entity_636,latencies
+entity_637,a normal distribution
+entity_638,high upper limits
+entity_639,A data frame
+entity_640,MATLAB
+entity_641,Data frames
+entity_642,matrices
+entity_643,indices
+entity_644,alignment
+entity_645,columns
+entity_646,an implementation perspective
+entity_647,DataFrames
+entity_648,a wide array
+entity_649,the Control class
+entity_650,docking support
+entity_651,Active Accessibility support
+entity_652,impaired users
+entity_653,Windows Forms
+entity_654,own controls
+entity_655,using GDI
+entity_656,scripting language
+entity_657,Microsoft Windows
+entity_658,Microsoft Windows Server 2008 R2
+entity_659,Microsoft Windows Server
+entity_660,PowerShell
+entity_661,pattern matching
+entity_662,syntax
+entity_663,string expansion
+entity_664,a language
+entity_665,Windows PowerShell ISE
+entity_666,Unicode support
+entity_667,cmdlets
+entity_668,line shell
+entity_669,Date
+entity_670,objects representing running processes
+entity_671,other commands
+entity_672,keywords
+entity_673,short aliases
+entity_674,managing system
+entity_675,PowerShell integration
+entity_676,the Unix idea
+entity_677,manipulating text
+entity_678,Windows components
+entity_679,a system management environment
+entity_680,Microsoft products
+entity_681,piping
+entity_682,native PowerShell
+entity_683,type information
+entity_684,complex state
+entity_685,parenthesis
+entity_686,comma separated arguments
+entity_687,PSReadLine
+entity_688,the command line editing experience
+entity_689,Powertab
+entity_690,tab expansion
+entity_691,An API
+entity_692,specifications
+entity_693,the Python language
+entity_694,matrixes
+entity_695,a large library
+entity_696,large multidimensional arrays
+entity_697,an efficient multi-dimensional container
+entity_698,obvious scientific uses
+entity_699,efficient methods
+entity_700,other methods
+entity_701,the BSD license
+entity_702,SQL syntax
+entity_703,the domain integrity
+entity_704,SQLite
+entity_705,a simple implementation
+entity_706,Windows Phone apps
+entity_707,the SQLite engine
+entity_708,no standalone processes
+entity_709,server database management systems
+entity_710,the entire database
+entity_711,a single cross-platform file
+entity_712,ORM
+entity_713,Relational Mapping
+entity_714,Entity Framework
+entity_715,change tracking
+entity_716,schema migrations
+entity_717,major RDBM products including SQL Server
+entity_718,new codebase
+entity_719,many concepts
+entity_720,the classic framework
+entity_721,mapping syntax
+entity_722,query translation
+entity_723,core
+entity_724,many breaking changes
+entity_725,The Selenium IDE
+entity_726,playback tool
+entity_727,authoring tests
+entity_728,Selenium
+entity_729,tests
+entity_730,Test playback
+entity_731,modern web browsers
+entity_732,Macintosh platforms
+entity_733,the browser API
+entity_734,the browser manufacturer
+entity_735,Jason Huggins
+entity_736,testers
+entity_737,ThoughtWorks
+entity_738,the Apache 2.0 license
+entity_739,charge
+entity_740,Selenium IDE
+entity_741,debugging tests
+entity_742,a firefox extension
+entity_743,Selenium Recorder
+entity_744,Shinya Kasatani
+entity_745,the Selenium project
+entity_746,a firefox plugin
+entity_747,SauceLabs
+entity_748,the source code base
+entity_749,Facebook Platform
+entity_750,enabling development
+entity_751,photos
+entity_752,wall
+entity_753,Flutter
+entity_754,Flutter applications
+entity_755,the Dart programming language
+entity_756,platform languages
+entity_757,Flutter development
+entity_758,Windows operating systems
+entity_759,WebView
+entity_760,the OEM widgets
+entity_761,performance rendering engine
+entity_762,fast development experience
+entity_763,fast runtime
+entity_764,Representational State Transfer
+entity_765,the intrinsic de-coupling
+entity_766,popularity
+entity_767,SOAP
+entity_768,the exchange
+entity_769,RESTful api
+entity_770,information
+entity_771,Tcsh
+entity_772,a design improvement
+entity_773,terminal emulators
+entity_774,graphical user mode
+entity_775,the original C shell
+entity_776,LINQ
+entity_777,two notations
+entity_778,A loop
+entity_779,Qt
+entity_780,open source licenses
+entity_781,Trolltech
+entity_782,Nokia
+entity_783,the Qt Company
+entity_784,four different licenses
+entity_785,creating Qt applications
+entity_786,regular C++ applications
+entity_787,Pluralsight
+entity_788,three courses
+entity_789,Voidrealm
+entity_790,a full free series
+entity_791,beginners
+entity_792,Apache Maven
+entity_793,a project's build
+entity_794,reporting
+entity_795,the principle
+entity_796,several areas
+entity_797,a global Super POM
+entity_798,common properties
+entity_799,Each POM file
+entity_800,the official Android development environment
+entity_801,IntelliJ IDEA
+entity_802,Android Studio
+entity_803,Android developer tools
+entity_804,Vue.js
+entity_805,an intermediate level
+entity_806,end development
+entity_807,Vue
+entity_808,the idea
+entity_809,manual updates
+entity_810,increasing Vue functionality
+entity_811,some notable changes
+entity_812,Stack Snippets
+entity_813,single file components
+entity_814,Newlines
+entity_815,fields
+entity_816,separator characters
+entity_817,Unit tests
+entity_818,the development process
+entity_819,programmers
+entity_820,white box testers
+entity_821,Test Doubles
+entity_822,software developers
+entity_823,Unit testing
+entity_824,Test Driven Development
+entity_825,files
+entity_826,a tree structure
+entity_827,A class
+entity_828,runtime
+entity_829,An Invoice
+entity_830,methods
+entity_831,Classes
+entity_832,a clear correspondence
+entity_833,challenging complexity
+entity_834,development
+entity_835,GUI items
+entity_836,the dialog class
+entity_837,The programmer operation
+entity_838,URL redirection using mod_rewrite
+entity_839,URLs
+entity_840,many sites
+entity_841,SEO purposes
+entity_842,TensorFlow
+entity_843,a python API
+entity_844,executing data flow graphs
+entity_845,TensorBoard
+entity_846,TensorFlow performance
+entity_847,parallelizing execution
+entity_848,mailing list
+entity_849,TensorFlow End Users
+entity_850,Linux systems
+entity_851,other operating systems including Microsoft Windows
+entity_852,The TensorFlow community
+entity_853,Ubuntu Linux
+entity_854,the AMD Radeon product line
+entity_855,improving NVIDIA support
+entity_856,Ubuntu 64 bit Linux
+entity_857,using 16.x
+entity_858,an Apache 2.0 License
+entity_859,Symfony
+entity_860,a PHP framework
+entity_861,web
+entity_862,a catalog
+entity_863,the creation
+entity_864,maintenance
+entity_865,repetitive coding tasks
+entity_866,robust applications
+entity_867,developers test
+entity_868,debug
+entity_869,document projects
+entity_870,releases
+entity_871,The Symfony team
+entity_872,a direct upgrade path
+entity_873,CodeIgniter goal
+entity_874,developers
+entity_875,CodeIgniter
+entity_876,Controller development pattern
+entity_877,Apache Spark
+entity_878,a general execution model
+entity_879,stage mapreduce paradigm
+entity_880,Spark
+entity_881,primitives
+entity_882,memory cluster computing
+entity_883,user programs
+entity_884,stream processing problems
+entity_885,concise APIs
+entity_886,java
+entity_887,python
+entity_888,r
+entity_889,scala
+entity_890,A date
+entity_891,year
+entity_892,month
+entity_893,day
+entity_894,an ambiguous interval
+entity_895,a day
+entity_896,a specific moment
+entity_897,time
+entity_898,the Date type
+entity_899,a date
+entity_900,some programming languages
+entity_901,javascript
+entity_902,a web browser
+entity_903,the Blink rendering engine
+entity_904,a free desktop browser
+entity_905,V8 JavaScript engine
+entity_906,devtools
+entity_907,DevTools
+entity_908,Chromium
+entity_909,Google Chrome
+entity_910,a beta version
+entity_911,53 languages
+entity_912,43 languages
+entity_913,sybase ASE code
+entity_914,a partnership
+entity_915,standards
+entity_916,regular expressions
+entity_917,the PCRE library
+entity_918,Perl
+entity_919,100 platforms
+entity_920,portables
+entity_921,both rapid prototyping
+entity_922,scale development projects
+entity_923,a family
+entity_924,tag perl
+entity_925,style
+entity_926,Google Maps
+entity_927,UITableView
+entity_928,an efficient architecture
+entity_929,OpenCV
+entity_930,a rich API
+entity_931,Intel
+entity_932,Itseez
+entity_933,a strong acceleration
+entity_934,a data structure
+entity_935,keys
+entity_936,associative array
+entity_937,a hash map
+entity_938,symbol table
+entity_939,list
+entity_940,associative container
+entity_941,value pairs
+entity_942,Validation
+entity_943,checking input data
+entity_944,Hypertext Transfer Protocol
+entity_945,response model
+entity_946,the request
+entity_947,a header
+entity_948,an optional body
+entity_949,response
+entity_950,a list
+entity_951,a request
+entity_952,headers
+entity_953,The response
+entity_954,the body
+entity_955,a body
+entity_956,additional data
+entity_957,HTTP
+entity_958,browsers
+entity_959,data APIs
+entity_960,instance
+entity_961,a soap
+entity_962,rest
+entity_963,graphql service
+entity_964,web content
+entity_965,mobile development platform
+entity_966,mobile applications using JavaScript
+entity_967,Apache Cordova
+entity_968,a JavaScript library
+entity_969,wrapper
+entity_970,access
+entity_971,PhoneGap
+entity_972,Nitobi
+entity_973,Adobe
+entity_974,the PhoneGap code
+entity_975,Apache
+entity_976,the original PhoneGap site
+entity_977,The project
+entity_978,hosts
+entity_979,mobile application
+entity_980,The JavaScript
+entity_981,PhoneGap Build
+entity_982,Windows Phone
+entity_983,varying degrees
+entity_984,A DateTime object
+entity_985,a time
+entity_986,an instant
+entity_987,a position
+entity_988,a calendar
+entity_989,the context
+entity_990,datetime
+entity_991,no time zone context
+entity_992,datetime values
+entity_993,mysql
+entity_994,TIMESTAMP values
+entity_995,a moment
+entity_996,UNIX time
+entity_997,an object
+entity_998,a Date instance
+entity_999,a single moment
+entity_1000,Date objects
+entity_1001,a time value
+entity_1002,POSIXct
+entity_1003,number
+entity_1004,the beginning
+entity_1005,excel excel
+entity_1006,the 1900 date system
+entity_1007,a Date
+entity_1008,minutes values
+entity_1009,Time function
+entity_1010,The W3C
+entity_1011,WSDL
+entity_1012,Core apps
+entity_1013,alone GUIs
+entity_1014,Matplotlib
+entity_1015,toolkits
+entity_1016,output PNG
+entity_1017,PDF
+entity_1018,PS
+entity_1019,EPS
+entity_1020,TIFF
+entity_1021,JPEG
+entity_1022,PGF
+entity_1023,SVG files
+entity_1024,plot
+entity_1025,Cloud services
+entity_1026,cloud building
+entity_1027,A layout
+entity_1028,the visual structure
+entity_1029,a user interface
+entity_1030,View
+entity_1031,ViewGroup
+entity_1032,a straightforward XML vocabulary
+entity_1033,the View classes
+entity_1034,subclasses
+entity_1035,common layout types
+entity_1036,the Android platform
+entity_1037,programming
+entity_1038,Objects
+entity_1039,members
+entity_1040,own members
+entity_1041,the properties
+entity_1042,abilities
+entity_1043,a Bird class objects
+entity_1044,an age property
+entity_1045,a fly ability
+entity_1046,a file
+entity_1047,Modern email
+entity_1048,the Internet
+entity_1049,other computer networks
+entity_1050,Today's email systems
+entity_1051,forward model
+entity_1052,Email servers
+entity_1053,messages
+entity_1054,Kotlin
+entity_1055,OOP
+entity_1056,functional features
+entity_1057,tooling support
+entity_1058,interoperability
+entity_1059,clarity
+entity_1060,native targets
+entity_1061,JVM bytecode
+entity_1062,Native code
+entity_1063,Methods
+entity_1064,attributes
+entity_1065,Spring MVC
+entity_1066,Model View Controller
+entity_1067,several modules
+entity_1068,SQL Server
+entity_1069,tuning
+entity_1070,self organizing
+entity_1071,text search functionality
+entity_1072,the database engine
+entity_1073,data type
+entity_1074,geospatial data
+entity_1075,GEOGRAPHY
+entity_1076,an ellipsoidal model
+entity_1077,the Earth
+entity_1078,a single continuous entity
+entity_1079,compression features
+entity_1080,improving scalability
+entity_1081,the indexing algorithms
+entity_1082,Resource Governor
+entity_1083,reserving resources
+entity_1084,workflows
+entity_1085,certain users
+entity_1086,capabilities
+entity_1087,data definition
+entity_1088,the ADO.NET Entity Framework
+entity_1089,the reporting tools
+entity_1090,SQL Server Reporting Services
+entity_1091,charting capabilities
+entity_1092,Dundas Data Visualization
+entity_1093,the Declarative Management Framework
+entity_1094,configuring policies
+entity_1095,the management side
+entity_1096,certain tables
+entity_1097,C++0x
+entity_1098,The ISO standard
+entity_1099,the ISO website
+entity_1100,The core
+entity_1101,desktop environment
+entity_1102,other desktop environments
+entity_1103,side projects
+entity_1104,Ubuntu
+entity_1105,a small amount
+entity_1106,a large amount
+entity_1107,database development tool
+entity_1108,ACE Database Engine
+entity_1109,a graphical user interface
+entity_1110,development tools
+entity_1111,ACE database engine
+entity_1112,the Jet
+entity_1113,an open source project
+entity_1114,modular program construction
+entity_1115,Web application security
+entity_1116,a high level
+entity_1117,the principles
+entity_1118,statements
+entity_1119,conditionals
+entity_1120,JSP
+entity_1121,taglibs
+entity_1122,pieces
+entity_1123,Expression Language
+entity_1124,the servlet container
+entity_1125,the JSP file
+entity_1126,the first time
+entity_1127,the webapp's lifetime
+entity_1128,output
+entity_1129,the web server
+entity_1130,the client side
+entity_1131,producing HTML output
+entity_1132,the HTML output
+entity_1133,sync
+entity_1134,Java EE
+entity_1135,Facelets
+entity_1136,JavaServer
+entity_1137,the default view technology
+entity_1138,the Java EE MVC framework JSF
+entity_1139,the Java EE 6 tutorial
+entity_1140,detail
+entity_1141,The ListView control
+entity_1142,the Windows UI shell
+entity_1143,the display surface
+entity_1144,the Common Controls library
+entity_1145,any application
+entity_1146,A ListView controls
+entity_1147,gridview
+entity_1148,GTK
+entity_1149,columnar TreeView
+entity_1150,A pointer variable
+entity_1151,a memory address
+entity_1152,Pointers
+entity_1153,performance benefits
+entity_1154,Windows Communication Foundation
+entity_1155,architecture principles
+entity_1156,computing
+entity_1157,Clients
+entity_1158,multiple services
+entity_1159,Services
+entity_1160,a WSDL interface
+entity_1161,many advanced Web services
+entity_1162,Framework
+entity_1163,Discovery
+entity_1164,routing
+entity_1165,RSS Syndication Services
+entity_1166,An endpoint
+entity_1167,an address
+entity_1168,the endpoint
+entity_1169,binding properties
+entity_1170,Authentication
+entity_1171,Authorization
+entity_1172,identity
+entity_1173,authorization
+entity_1174,Each authentication factor
+entity_1175,elements
+entity_1176,batch files
+entity_1177,logstash
+entity_1178,the Elastic Stack
+entity_1179,kibana
+entity_1180,open platform
+entity_1181,Elasticsearch
+entity_1182,various APIs
+entity_1183,schema
+entity_1184,various text preprocessing algorithms
+entity_1185,Official clients
+entity_1186,ruby
+entity_1187,many other languages
+entity_1188,c#
+entity_1189,php
+entity_1190,Templates
+entity_1191,generic programming
+entity_1192,The C++ Book Guide
+entity_1193,books treating templates
+entity_1194,Dart
+entity_1195,modern JavaScript
+entity_1196,Using variables
+entity_1197,numbers
+entity_1198,binary data
+entity_1199,a computer program
+entity_1200,textual data
+entity_1201,Variables
+entity_1202,a certain function
+entity_1203,languages
+entity_1204,a specific data type
+entity_1205,Data types
+entity_1206,many commonalities
+entity_1207,Composite data types
+entity_1208,other composite types
+entity_1209,the primitive types
+entity_1210,The specifics
+entity_1211,implementations
+entity_1212,Delphi
+entity_1213,Borland
+entity_1214,Embarcadero
+entity_1215,Delphi Prism
+entity_1216,Delphi syntax
+entity_1217,Syntax checkers
+entity_1218,linters
+entity_1219,code validators
+entity_1220,Breakpoints
+entity_1221,a message containing program information
+entity_1222,up messages
+entity_1223,a debugging tool
+entity_1224,simple form
+entity_1225,Visual Studio
+entity_1226,succeeding Visual Studio
+entity_1227,partial C++11 support
+entity_1228,several tools
+entity_1229,Visual Studio 2010 got Visual Studio
+entity_1230,build number SP1Rel 10.0.40219.1
+entity_1231,Nginx
+entity_1232,12.18%
+entity_1233,low resource consumption
+entity_1234,high performance
+entity_1235,stability
+entity_1236,rich feature set
+entity_1237,simple configuration
+entity_1238,Haskell
+entity_1239,rapid development
+entity_1240,Char8 module
+entity_1241,an efficient representation
+entity_1242,SSL
+entity_1243,a blanket term
+entity_1244,the SSL protocol
+entity_1245,the Transport Layer Security
+entity_1246,Netscape Communication Corp
+entity_1247,primitive security protocol
+entity_1248,the HTTP protocol
+entity_1249,the HTTPS protocol
+entity_1250,TLS
+entity_1251,ISO
+entity_1252,a reference
+entity_1253,PDF beginners
+entity_1254,Letters
+entity_1255,raster images
+entity_1256,line art
+entity_1257,font glyphs
+entity_1258,a PDF files
+entity_1259,drawing instructions
+entity_1260,Machine learning
+entity_1261,learning computer algorithms
+entity_1262,the construction
+entity_1263,study
+entity_1264,cross-platform native Apps
+entity_1265,Xamarin Test Cloud
+entity_1266,Xamarin
+entity_1267,an engineering office
+entity_1268,San Francisco
+entity_1269,a new licensing scheme
+entity_1270,including Xamarin
+entity_1271,Microsoft's Build 2016 developer conference
+entity_1272,the Xamarin Platform
+entity_1273,in
+entity_1274,Android platforms
+entity_1275,The Xamarin Platform
+entity_1276,Xamarin.iOS
+entity_1277,build host
+entity_1278,the connection
+entity_1279,JPA
+entity_1280,the standard industry approach
+entity_1281,several improvements
+entity_1282,purpose OS
+entity_1283,the late 1960s
+entity_1284,Bell Labs
+entity_1285,Unix
+entity_1286,problems
+entity_1287,house operating system
+entity_1288,the 1980s
+entity_1289,the free Unix clone Linux
+entity_1290,the 1990s
+entity_1291,the Unix
+entity_1292,the trademark
+entity_1293,server platforms
+entity_1294,Mac OS X.
+entity_1295,the standardized X Window System
+entity_1296,The various Unix implementation
+entity_1297,a standard
+entity_1298,exceptional documentation
+entity_1299,a friendly community
+entity_1300,Jobs
+entity_1301,like scheduling
+entity_1302,multiple machines
+entity_1303,cross-platform software
+entity_1304,Jenkins
+entity_1305,a new build slave
+entity_1306,accessible machine
+entity_1307,a long list
+entity_1308,different source control systems
+entity_1309,Asynchronous programming models
+entity_1310,software composition
+entity_1311,Fragments
+entity_1312,reusable behaviors
+entity_1313,portions
+entity_1314,an Android app
+entity_1315,A Fragment
+entity_1316,a behavior
+entity_1317,a portion
+entity_1318,The ApiDemos sample application present
+entity_1319,runnable fragment examples
+entity_1320,source code
+entity_1321,GitHub
+entity_1322,revision control
+entity_1323,source code management
+entity_1324,graphical interface
+entity_1325,desktop
+entity_1326,access control
+entity_1327,several features
+entity_1328,collaboration
+entity_1329,plans
+entity_1330,free accounts
+entity_1331,source software projects
+entity_1332,100 million repositories
+entity_1333,40 million users
+entity_1334,depth detail
+entity_1335,generics
+entity_1336,c++ templates
+entity_1337,Selenium WebDriver
+entity_1338,the WebDriver API
+entity_1339,controlling browsers
+entity_1340,user interaction
+entity_1341,direct JavaScript interaction
+entity_1342,Selenium WebDriver availability
+entity_1343,Selenium WebDriver support
+entity_1344,file system
+entity_1345,a resource manager
+entity_1346,Hadoop
+entity_1347,the software
+entity_1348,one Name Node
+entity_1349,the requests
+entity_1350,some Data Nodes
+entity_1351,lots
+entity_1352,the processing work
+entity_1353,some processing
+entity_1354,other filesystems
+entity_1355,a standalone resource manager
+entity_1356,A session
+entity_1357,the communication

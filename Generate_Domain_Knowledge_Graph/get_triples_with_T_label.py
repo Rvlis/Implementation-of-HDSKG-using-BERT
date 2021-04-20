@@ -13,7 +13,7 @@ from scripts import myutils
 
 def get_triples_with_T_label(labeled_csv_path):
     T_labeled_triples = myutils.open_csv("T_labeled_triples")
-    with open(labeled_csv_path, newline='') as src_csv_path:
+    with open(labeled_csv_path, newline='', encoding="gb18030") as src_csv_path:
         src_csv = csv.reader(src_csv_path)
         for line in tqdm(src_csv):
             # print(line)
@@ -21,5 +21,5 @@ def get_triples_with_T_label(labeled_csv_path):
                 T_labeled_triples.writerow([line[0], line[1], line[2]])
 
 
-get_triples_with_T_label("../csvs/labeled_relation_triples.csv")
+
 

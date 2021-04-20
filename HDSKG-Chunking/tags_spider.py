@@ -15,7 +15,7 @@ def tags_spider():
     with open("../txts/tags.txt", "w") as wf:
          
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'}
-        for num in tqdm(range(30,31)):
+        for num in tqdm(range(1,6)):
 
             url = "https://stackoverflow.com/tags?page=" + str(num) + "&tab=popular"
             req = requests.get(url, headers=headers)

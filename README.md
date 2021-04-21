@@ -25,15 +25,22 @@
    ```
 
 ## Usage
-__TODO__
+1. [HDSKG-Chunking](./HDSKG-Chunking/)
+2. [HDSKG-Domain-Relevance-Estimation](./HDSKG-Domain-Relevance-Estimation/)
+3. [Generate-Domain-Knowledge-Graph](./Generate-Domain-Knowledge-Graph/)
+
 
 ## Test Bert Model
-Compared with previous __0.76__, accuracy is improved to __0.82__. 
-The checkpoint file will be uploaded soon.
+Compared with previous __0.76__, accuracy is improved to __0.82__ now.
+The `checkpoint` file will be uploaded soon.
 __TODO__
 
 ## Knowledge Graph
 ![KG](res/img/KG-neo4j.jpg)
+
+## TODO
+package all parts
+
 
 
 

@@ -19,7 +19,7 @@ tar_csv.writerow(["entity1", "relation", "entity2", "merged_sentence", "label"])
 
 src_csv = csv.reader(src_csv_path)
 
-print("..........process manual labelled train set..........")
+print("----------process manual labelled train set----------")
 for line in tqdm(src_csv):
     merged_sentence = line[0].lower().strip() + " " + line[1].lower().strip() + " " + line[2].lower().strip()
     label = line[3]
@@ -34,7 +34,7 @@ tar_csv.writerow(["entity1", "relation", "entity2", "merged_sentence", "label"])
 
 src_csv = csv.reader(src_csv_path)
 
-print("..........process manual labelled test set..........")
+print("----------process manual labelled test set----------")
 for line in tqdm(src_csv):
     merged_sentence = line[0].lower().strip() + " " + line[1].lower().strip() + " " + line[2].lower().strip()
     label = line[3]

@@ -1,5 +1,5 @@
 # The implementation of HDSKG using BERT model
-## [Paper link]("https://ieeexplore.ieee.org/abstract/document/7884609")
+[Paper link]("https://ieeexplore.ieee.org/abstract/document/7884609")
 ## The architecture of HDSKG is as follows:
 <!-- ![HDSKG-Framework](res/img/HDSKG-Framework.jpg) -->
 <div align="center">

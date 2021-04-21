@@ -7,7 +7,22 @@
 </div>
 
 ## Installation
-`pip install -r requirements.txt`
+1. `pip install -r requirements.txt`
+2. I use [stanza](https://github.com/stanfordnlp/stanza) to access __Stanford CoreNLP__, I suggest installing it from source of its git repository
+   ```bash
+   git clone https://github.com/stanfordnlp/stanza.git
+   cd stanza
+   pip install -e .
+   ```
+3. Manually download [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) or use __stanza.install_corenlp()__
+4. Setting the `CORENLP_HOME` environment variable
+5. I use __Spacy__ and __[neuralcoref](https://github.com/huggingface/neuralcoref)__ to resolve coreference, install neuralcoref from source as well
+   ```bash
+   git clone https://github.com/huggingface/neuralcoref.git
+   cd neuralcoref
+   pip install -r requirements.txt
+   pip install -e .
+   ```
 
 ## Usage
 __TODO__

@@ -23,7 +23,7 @@
    pip install -r requirements.txt
    pip install -e .
    ```
-6. Don't forget loading spacy's model, which is dependened on your spacy's version. Here `2.3.*` is ok.
+6. Don't forget loading spacy's model, which is dependent on your spacy's version. Here `2.3.*` is ok.
 
 ## Usage
 1. [HDSKG-Chunking](./HDSKG-Chunking/)

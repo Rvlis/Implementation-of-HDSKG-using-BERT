@@ -1,4 +1,6 @@
 spacy==2.3.2
+bs4==0.0.1
+lxml==4.6.3
 urllib3==1.25.11
 bert-tensorflow==1.0.1
 tensorflow==1.15.0

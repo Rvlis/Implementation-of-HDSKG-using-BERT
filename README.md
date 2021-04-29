@@ -41,6 +41,8 @@ __TODO__
 
 ## TODO
 package all parts
+__Limited to my ability, there are many work to do.__
+__I would appreciate it if you could give me a hand on this work: guidance and suggestions, etc.__
 
 
 

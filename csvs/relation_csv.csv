@@ -1,1098 +1,1457 @@
 :START_ID,:END_ID,:TYPE
-entity_0,entity_1,comes with
-entity_0,entity_2,comes with
-entity_3,entity_4,provides
-entity_3,entity_5,prerender
-entity_6,entity_7,can be converted to
-entity_6,entity_8,create
-entity_6,entity_9,is often used to format
-entity_10,entity_11,converts
-entity_10,entity_12,replaces
-entity_10,entity_13,replaces
-entity_6,entity_14,been re-implemented by
-entity_6,entity_15,been re-implemented by
-entity_6,entity_15,has since been re-implemented
-entity_6,entity_16,is distributed under
-entity_17,entity_18,automates
-entity_19,entity_20,was invented by
-entity_21,entity_22,features
-entity_21,entity_23,is based on
-entity_24,entity_25,refers to
-entity_24,entity_26,refers to
-entity_27,entity_28,involves
-entity_29,entity_30,are built on
-entity_29,entity_31,are available on
-entity_32,entity_30,are built on
-entity_32,entity_31,are available through
-entity_33,entity_34,specifies
-entity_35,entity_36,specifies
-entity_37,entity_38,are well known
-entity_39,entity_38,are well known
-entity_40,entity_38,are well known
-entity_41,entity_42,use
-entity_43,entity_44,exhibit
-entity_45,entity_46,allows
-entity_45,entity_47,create
-entity_45,entity_48,is implemented as
-entity_49,entity_50,is written in
-entity_51,entity_52,implements
-entity_51,entity_53,provides
-entity_54,entity_55,are configured to
-entity_54,entity_56,are configured to
-entity_57,entity_58,provides
-entity_59,entity_60,block
-entity_57,entity_61,provides
-entity_58,entity_61,can be used to replace
-entity_62,entity_63,can be manually triggered
-entity_64,entity_65,includes
-entity_66,entity_67,is based on
-entity_68,entity_69,are easily edited by
-entity_68,entity_70,are easily edited by
-entity_71,entity_72,using
-entity_71,entity_73,using
-entity_71,entity_74,can be created entirely from
-entity_75,entity_76,denotes
-entity_77,entity_78,provides
-entity_77,entity_79,support
-entity_77,entity_80,enables
-entity_77,entity_81,enables
-entity_77,entity_82,supports
-entity_83,entity_84,can take
-entity_85,entity_86,have
-entity_85,entity_87,are processed differently from
-entity_88,entity_89,provides
-entity_90,entity_91,provided by
-entity_88,entity_92,provides
-entity_88,entity_89,providing
-entity_88,entity_93,is developed as
-entity_88,entity_94,runs on
-entity_95,entity_96,is developed by
-entity_97,entity_98,drives
-entity_97,entity_99,provided
-entity_100,entity_101,have reached
-entity_102,entity_103,use
-entity_102,entity_104,may be written in
-entity_105,entity_106,sells
-entity_107,entity_108,is used to move
-entity_109,entity_110,be run outside of
-entity_109,entity_111,runs on
-entity_112,entity_113,contains
-entity_109,entity_114,Cascading
-entity_112,entity_115,is also used in
-entity_112,entity_116,was developed under
-entity_117,entity_109,implement
-entity_118,entity_119,run in
-entity_120,entity_121,derives much of
-entity_120,entity_50,derives much of
-entity_122,entity_123,are typically compiled to
-entity_124,entity_74,compiles
-entity_124,entity_125,optimize
-entity_124,entity_126,manages
-entity_127,entity_128,supports
-entity_127,entity_129,is designed to have
-entity_127,entity_130,was originally developed by
-entity_127,entity_131,was originally developed by
-entity_131,entity_132,merged with
-entity_127,entity_133,was released in
-entity_127,entity_134,was started as
-entity_135,entity_136,have installed
-entity_127,entity_123,is compiled into
-entity_123,entity_137,is then compiled by
-entity_123,entity_138,is then compiled by
-entity_139,entity_140,will be released
-entity_141,entity_142,need
-entity_127,entity_143,comes in
-entity_127,entity_144,comes in
-entity_145,entity_146,increase
-entity_147,entity_148,is compiled to
-entity_148,entity_149,can be executed with
-entity_150,entity_151,incorporates
-entity_150,entity_152,incorporates
-entity_150,entity_153,incorporates
-entity_150,entity_154,incorporates
-entity_150,entity_155,incorporates
-entity_150,entity_156,combines
-entity_150,entity_157,combines
-entity_150,entity_158,has interfaces to
-entity_150,entity_159,has interfaces to
-entity_150,entity_160,has interfaces to
-entity_150,entity_161,is extensible in
-entity_150,entity_162,is extensible in
-entity_150,entity_163,is also usable as
-entity_150,entity_164,runs on
-entity_150,entity_165,was originally created by
-entity_150,entity_166,supports
-entity_150,entity_167,features
-entity_150,entity_168,features
-entity_150,entity_169,is often used as
-entity_150,entity_170,is often used as
-entity_171,entity_172,are available for
-entity_150,entity_173,comes with
-entity_174,entity_175,installing
-entity_174,entity_176,was notable at
-entity_177,entity_178,uses
-entity_179,entity_180,can be used for
-entity_179,entity_181,can be used for
-entity_182,entity_150,is available for
-entity_183,entity_184,provides
-entity_183,entity_185,does not enforce
-entity_186,entity_187,can scale to
-entity_188,entity_189,build
-entity_190,entity_191,allows
-entity_192,entity_193,was created in
-entity_194,entity_195,encourages
-entity_196,entity_197,supports
-entity_196,entity_198,comes with over
-entity_199,entity_200,is available for
-entity_199,entity_201,is available for
-entity_199,entity_202,is available for
-entity_199,entity_203,is available for
-entity_204,entity_150,is commonly bundled with
-entity_204,entity_205,is popular for
-entity_206,entity_207,includes
-entity_206,entity_208,includes
-entity_206,entity_209,is closely related to
-entity_206,entity_210,depends on
-entity_211,entity_212,provides
-entity_211,entity_81,provides
-entity_213,entity_214,integrates
-entity_213,entity_215,integrates
-entity_213,entity_216,integrates
-entity_217,entity_218,features
-entity_217,entity_219,supports
-entity_217,entity_180,supports
-entity_220,entity_221,makes
-entity_222,entity_223,invented by
-entity_224,entity_225,act like
-entity_226,entity_225,act like
-entity_227,entity_225,act like
-entity_228,entity_153,contains
-entity_228,entity_229,is also possible to download
-entity_230,entity_231,is often paired with
-entity_230,entity_232,includes
-entity_233,entity_234,offer
-entity_235,entity_236,contain many of
-entity_237,entity_238,is designed primarily for
-entity_239,entity_240,has further developed
-entity_239,entity_241,has further developed
-entity_242,entity_243,Contains
-entity_242,entity_244,Contains
-entity_242,entity_245,Contains
-entity_242,entity_246,Contains
-entity_247,entity_248,Contains
-entity_249,entity_250,Contains
-entity_249,entity_251,Contains
-entity_237,entity_252,be found on
-entity_7,entity_253,was invented by
-entity_254,entity_253,were first publicly mentioned by
-entity_254,entity_255,borrowed
-entity_256,entity_257,form
-entity_7,entity_258,allows
-entity_7,entity_259,allows
-entity_7,entity_260,can be used to create
-entity_7,entity_261,create
-entity_7,entity_118,can embed
-entity_262,entity_263,are maintained by
-entity_264,entity_265,are designed
-entity_266,entity_267,simplifies
-entity_266,entity_268,simplifies
-entity_266,entity_269,simplifies
-entity_266,entity_270,simplifies
-entity_266,entity_271,simplifies
-entity_266,entity_272,supports
-entity_266,entity_273,supports
-entity_50,entity_274,was developed in
-entity_50,entity_275,was developed in
-entity_276,entity_277,improved
-entity_278,entity_279,optimized
-entity_280,entity_281,published
-entity_282,entity_283,add
-entity_284,entity_283,add
-entity_285,entity_286,was originally defined by
-entity_287,entity_288,can be created by joining
-entity_289,entity_290,is one of
-entity_291,entity_292,is based on
-entity_293,entity_294,own
-entity_295,entity_296,can have
-entity_297,entity_298,is optimized for
-entity_297,entity_299,is optimized for
-entity_297,entity_300,is optimized for
-entity_301,entity_302,consist of
-entity_301,entity_303,consist of
-entity_301,entity_304,consist of
-entity_305,entity_306,includes
-entity_307,entity_81,can be used by
-entity_308,entity_81,can be used by
-entity_307,entity_309,rotating
-entity_310,entity_311,includes
-entity_310,entity_312,help
-entity_310,entity_313,does not store
-entity_314,entity_315,is available under
-entity_316,entity_317,offers
-entity_318,entity_319,is based on
-entity_320,entity_321,is used to create
-entity_320,entity_322,is used to create
-entity_323,entity_324,is used to modify
-entity_325,entity_326,have implemented
-entity_325,entity_327,provide
-entity_328,entity_318,use
-entity_329,entity_318,use
-entity_330,entity_331,uses
-entity_332,entity_333,was created by
-entity_332,entity_334,was created by
-entity_332,entity_335,is now developed by
-entity_336,entity_337,is easily extended through
-entity_336,entity_338,is easily extended through
-entity_339,entity_340,uses
-entity_339,entity_341,uses
-entity_342,entity_343,is often used for developing
-entity_342,entity_344,supports
-entity_345,entity_346,is built on
-entity_345,entity_347,uses
-entity_345,entity_348,includes
-entity_349,entity_350,blend
-entity_121,entity_50,is distinct from
-entity_351,entity_352,was based on
-entity_351,entity_353,was based on
-entity_351,entity_354,was based on
-entity_355,entity_356,are standardized as
-entity_121,entity_357,was designed for implementing
-entity_358,entity_359,is also widely used for developing
-entity_121,entity_360,has greatly influenced
-entity_361,entity_362,was designed to encourage
-entity_361,entity_363,was designed to encourage
-entity_364,entity_365,can be compiled for
-entity_361,entity_366,has become available on
-entity_367,entity_368,follows
-entity_367,entity_369,is known for
-entity_370,entity_189,separates
-entity_367,entity_370,is based on
-entity_371,entity_372,using
-entity_371,entity_373,uses
-entity_371,entity_374,is defined by
-entity_330,entity_375,originated from
-entity_376,entity_377,include
-entity_376,entity_378,include
-entity_376,entity_379,include
-entity_376,entity_380,include
-entity_376,entity_381,include
-entity_376,entity_382,include
-entity_383,entity_384,has reduced
-entity_383,entity_385,has reduced
-entity_383,entity_386,is focused on
-entity_383,entity_387,is focused on
-entity_383,entity_388,is focused on
-entity_389,entity_390,focused on
-entity_389,entity_391,focused on
-entity_392,entity_393,offers
-entity_394,entity_395,has since been made
-entity_396,entity_397,render on
-entity_398,entity_399,reduce
-entity_400,entity_395,distributed as
-entity_400,entity_401,promises to modernize
-entity_402,entity_403,compile into
-entity_402,entity_291,can be run on
-entity_400,entity_404,was introduced by
-entity_400,entity_405,was introduced by
-entity_400,entity_406,will come to
-entity_400,entity_407,was introduced with
-entity_121,entity_274,was created primarily by
-entity_121,entity_408,was created primarily by
-entity_121,entity_409,was created primarily by
-entity_121,entity_410,was created primarily by
-entity_121,entity_411,inherits
-entity_121,entity_412,adds
-entity_121,entity_413,adds
-entity_121,entity_414,derives
-entity_121,entity_415,derives
-entity_150,entity_416,features
-entity_150,entity_417,features
-entity_150,entity_418,is strongly recommended for
-entity_419,entity_420,is designed to reduce
-entity_419,entity_421,is designed to reduce
-entity_419,entity_422,follows
-entity_423,entity_239,is used internally by
-entity_423,entity_81,is used internally by
-entity_424,entity_425,are used for transforming
-entity_424,entity_426,are used for transforming
-entity_427,entity_428,follows
-entity_429,entity_430,is available at
-entity_431,entity_432,features
-entity_433,entity_434,provide
-entity_433,entity_435,are commonly used for
-entity_433,entity_436,are commonly used for
-entity_437,entity_438,contains
-entity_433,entity_439,are available in
-entity_433,entity_326,are available in
-entity_433,entity_440,are available in
-entity_441,entity_442,will need
-entity_433,entity_443,are useful in
-entity_239,entity_444,offers
-entity_239,entity_445,does not backtrack
-entity_446,entity_121,are written in
-entity_446,entity_400,are written in
-entity_446,entity_447,using
-entity_447,entity_448,share
-entity_447,entity_2,share
-entity_447,entity_449,are distinct from
-entity_449,entity_450,is used exclusively for
-entity_451,entity_452,has
-entity_451,entity_453,has
-entity_451,entity_447,use
-entity_454,entity_447,use
-entity_451,entity_455,are developed using
-entity_367,entity_456,was initially conceived on
-entity_271,entity_457,uses
-entity_458,entity_459,would provide
-entity_458,entity_324,would provide
-entity_460,entity_461,is supported by
-entity_462,entity_463,stands for
-entity_464,entity_463,has replaced
-entity_464,entity_465,has replaced
-entity_109,entity_466,parses
-entity_467,entity_468,must be parsed by
-entity_469,entity_470,carry
-entity_467,entity_471,is defined in
-entity_467,entity_472,allows creating
-entity_467,entity_473,is also used in
-entity_474,entity_475,are usually defined with
-entity_467,entity_476,define
-entity_467,entity_477,is forward compatible with
-entity_213,entity_478,is implemented primarily using
-entity_213,entity_220,is implemented primarily using
-entity_479,entity_480,provides
-entity_479,entity_481,provides
-entity_479,entity_482,has become
-entity_392,entity_483,has shipped
-entity_392,entity_484,has shipped
-entity_485,entity_486,applies to
-entity_485,entity_487,applies to
-entity_488,entity_489,is not equivalent to
-entity_488,entity_490,is not equivalent to
-entity_432,entity_491,was introduced to
-entity_432,entity_492,was introduced to
-entity_432,entity_493,was introduced to
-entity_432,entity_494,was introduced to
-entity_488,entity_495,derives from
-entity_488,entity_496,create
-entity_488,entity_497,create
-entity_488,entity_498,create
-entity_488,entity_499,includes
-entity_488,entity_500,address
-entity_501,entity_502,must address
-entity_501,entity_503,must address
-entity_488,entity_491,was removed from
-entity_488,entity_504,was removed from
-entity_488,entity_505,is supported only in
-entity_488,entity_506,inherits much of
-entity_507,entity_508,complements
-entity_507,entity_509,reduces
-entity_510,entity_511,provides
-entity_512,entity_513,must guarantee
-entity_514,entity_230,used
-entity_514,entity_316,used
-entity_515,entity_516,created by
-entity_515,entity_517,intended for
-entity_518,entity_519,released under
-entity_520,entity_521,vary widely in
-entity_522,entity_523,are included in
-entity_524,entity_525,employs
-entity_526,entity_527,be deployed as
-entity_524,entity_528,aims to unify
-entity_524,entity_529,aims to unify
-entity_524,entity_530,aims to unify
-entity_524,entity_531,aims to unify
-entity_524,entity_532,aims to unify
-entity_392,entity_533,has released
-entity_522,entity_392,will be provided by
-entity_534,entity_535,supports
-entity_534,entity_536,uses
-entity_534,entity_537,uses
-entity_534,entity_538,uses
-entity_539,entity_540,offer
-entity_541,entity_542,can be installed via
-entity_543,entity_392,was developed by
-entity_329,entity_544,is developed by
-entity_545,entity_546,offers
-entity_547,entity_548,offers
-entity_549,entity_548,offers
-entity_550,entity_545,can be run by
-entity_545,entity_551,was written by
-entity_552,entity_553,should be using
-entity_554,entity_555,is one of
-entity_554,entity_556,is one of
-entity_554,entity_557,can be viewed as
-entity_554,entity_392,implemented on
-entity_554,entity_558,continues from
-entity_559,entity_560,was initially designed
-entity_559,entity_561,was initially designed
-entity_560,entity_562,is maintained by
-entity_563,entity_564,contains
-entity_565,entity_535,supports
-entity_566,entity_126,share
-entity_566,entity_567,share
-entity_568,entity_569,can create
-entity_570,entity_571,has
-entity_570,entity_567,has
-entity_570,entity_572,has
-entity_573,entity_574,governs
-entity_575,entity_576,used for
-entity_575,entity_577,is built on
-entity_578,entity_579,be used as
-entity_580,entity_581,provides
-entity_580,entity_582,provides
-entity_580,entity_583,create
-entity_580,entity_581,supplies
-entity_580,entity_584,supplies
-entity_580,entity_585,supplies
-entity_580,entity_586,provides
-entity_580,entity_587,provides
-entity_580,entity_588,create
-entity_589,entity_575,is also based on
-entity_590,entity_581,provides
-entity_590,entity_591,provides
-entity_580,entity_592,provides
-entity_580,entity_593,create
-entity_239,entity_594,has ceased developing
-entity_578,entity_595,is synonymous with
-entity_596,entity_597,are also accessible through
-entity_598,entity_599,may outperform
-entity_598,entity_600,may outperform
-entity_598,entity_601,may outperform
-entity_602,entity_603,is known as
-entity_400,entity_604,providing
-entity_400,entity_605,providing
-entity_606,entity_607,consists of
-entity_404,entity_608,purchased in
-entity_606,entity_609,is based upon
-entity_606,entity_610,is based upon
-entity_611,entity_612,is characterized by
-entity_613,entity_614,are typically rendered as
-entity_615,entity_616,fuses
-entity_615,entity_617,fuses
-entity_618,entity_430,can be obtained at
-entity_392,entity_393,publishes
-entity_57,entity_619,includes
-entity_57,entity_7,includes
-entity_620,entity_621,was replaced with
-entity_622,entity_623,was licensed under
-entity_624,entity_625,runs
-entity_624,entity_626,runs
-entity_627,entity_628,been implemented on
-entity_627,entity_629,builds
-entity_630,entity_202,runs in
-entity_630,entity_462,runs in
-entity_630,entity_631,runs in
-entity_632,entity_633,is represented in
-entity_634,entity_635,is often qualified with
-entity_636,entity_637,don't follow
-entity_636,entity_638,have
-entity_639,entity_324,contains
-entity_332,entity_331,used in
-entity_332,entity_640,used in
-entity_641,entity_642,are one of
-entity_643,entity_644,can be used for
-entity_645,entity_646,are somewhat prioritized over
-entity_647,entity_648,can be constructed from
-entity_649,entity_650,has
-entity_651,entity_652,helps
-entity_651,entity_653,use
-entity_654,entity_655,are rendered using
-entity_656,entity_657,included with
-entity_656,entity_658,included with
-entity_656,entity_659,included with
-entity_660,entity_661,has
-entity_660,entity_662,has
-entity_660,entity_663,has
-entity_660,entity_53,has
-entity_660,entity_664,has
-entity_665,entity_666,has
-entity_665,entity_667,is designed around
-entity_665,entity_668,is designed around
-entity_669,entity_670,Process
-entity_670,entity_671,can be piped to
-entity_672,entity_673,have
-entity_674,entity_675,offer
-entity_660,entity_676,takes
-entity_660,entity_677,manipulating
-entity_678,entity_679,have been extended to provide
-entity_680,entity_679,have been extended to provide
-entity_660,entity_681,enhances
-entity_678,entity_682,have been extended to provide
-entity_680,entity_682,have been extended to provide
-entity_259,entity_683,carry
-entity_259,entity_684,carry
-entity_685,entity_686,separated
-entity_686,entity_686,separated
-entity_687,entity_688,replaces
-entity_689,entity_690,offers enhanced
-entity_691,entity_692,may include
-entity_693,entity_694,adds
-entity_693,entity_695,adds
-entity_693,entity_696,adds
-entity_209,entity_697,be used as
-entity_209,entity_698,be used as
-entity_209,entity_699,provides
-entity_209,entity_700,integrates easily with
-entity_209,entity_701,is released under
-entity_702,entity_703,does not guarantee
-entity_704,entity_705,has
-entity_704,entity_706,is commonly used to store
-entity_704,entity_324,is commonly used to store
-entity_707,entity_708,has
-entity_707,entity_709,has
-entity_704,entity_710,stores
-entity_704,entity_711,stores
-entity_712,entity_713,provides
-entity_714,entity_715,supports
-entity_714,entity_716,supports
-entity_714,entity_717,supports
-entity_718,entity_719,shares
-entity_718,entity_720,shares
-entity_718,entity_721,differs considerably in mapping
-entity_718,entity_722,differs considerably in mapping
-entity_723,entity_718,having
-entity_723,entity_724,came with
-entity_725,entity_726,provides
-entity_725,entity_727,provides
-entity_728,entity_729,write
-entity_730,entity_731,is possible in
-entity_728,entity_202,deploys on
-entity_728,entity_201,deploys on
-entity_728,entity_732,deploys on
-entity_733,entity_734,is provided by
-entity_728,entity_735,was originally developed by
-entity_735,entity_736,was later joined by
-entity_735,entity_737,was later joined by
-entity_728,entity_738,released under
-entity_728,entity_739,can be downloaded
-entity_740,entity_741,allows
-entity_740,entity_742,is implemented as
-entity_740,entity_743,was previously known as
-entity_740,entity_744,was originally created by
-entity_740,entity_745,donated to
-entity_743,entity_741,allows
-entity_743,entity_746,is implemented as
-entity_743,entity_747,was initially created by
-entity_743,entity_748,was initially created by
-entity_749,entity_750,has evolved from enabling
-entity_751,entity_752,can post to
-entity_753,entity_81,is used to develop
-entity_754,entity_755,are written in
-entity_754,entity_756,can connect to
-entity_757,entity_758,is currently supported on
-entity_753,entity_239,is developed
-entity_753,entity_759,uses
-entity_753,entity_760,uses
-entity_753,entity_761,own
-entity_753,entity_384,offers
-entity_753,entity_762,offers
-entity_753,entity_763,offers
-entity_764,entity_765,has increased in
-entity_764,entity_766,has increased in
-entity_767,entity_768,tries to model
-entity_769,entity_770,is queried to find
-entity_771,entity_772,comes originally as
-entity_773,entity_774,are used to access
-entity_773,entity_775,are used to access
-entity_776,entity_777,supports
-entity_778,entity_778,can be categorized in
-entity_779,entity_780,is available with
-entity_779,entity_781,was created by
-entity_779,entity_782,was acquired by
-entity_782,entity_779,decided to sell
-entity_779,entity_783,is managed by
-entity_779,entity_784,is available under
-entity_779,entity_785,aims at creating
-entity_779,entity_786,can be used to create
-entity_787,entity_788,has
-entity_789,entity_790,released
-entity_789,entity_791,released
-entity_792,entity_793,can manage
-entity_792,entity_794,can manage
-entity_792,entity_244,can manage
-entity_792,entity_795,adheres to
-entity_792,entity_796,attempts to deal
-entity_797,entity_798,defined
-entity_799,entity_797,inherits from
-entity_800,entity_801,is based on
-entity_802,entity_803,provides integrated
-entity_804,entity_805,requires
-entity_804,entity_806,is mainly used for
-entity_807,entity_808,embraces
-entity_807,entity_809,embraces
-entity_807,entity_810,can be built upon
-entity_807,entity_811,includes
-entity_807,entity_417,includes
-entity_812,entity_813,run
-entity_814,entity_815,can appear within
-entity_816,entity_815,can appear within
-entity_817,entity_818,are created by
-entity_817,entity_819,are created by
-entity_817,entity_820,are created by
-entity_821,entity_185,can be used to isolate
-entity_817,entity_822,are typically written
-entity_823,entity_824,is closely related to
-entity_825,entity_826,are organized in
-entity_827,entity_828,have
-entity_829,entity_830,may have
-entity_831,entity_832,allow
-entity_831,entity_833,provide
-entity_831,entity_834,can accelerate
-entity_835,entity_153,inherit
-entity_836,entity_837,is unique to
-entity_838,entity_839,provide
-entity_838,entity_840,is used by
-entity_838,entity_841,is used by
-entity_842,entity_843,provides
-entity_842,entity_844,executing
-entity_842,entity_845,includes
-entity_842,entity_846,achieves
-entity_842,entity_847,achieves
-entity_842,entity_848,discuss
-entity_849,entity_850,was originally developed
-entity_849,entity_851,has been ported to
-entity_852,entity_853,tends to favor
-entity_852,entity_53,tends to favor
-entity_854,entity_855,is improving
-entity_856,entity_857,be using
-entity_842,entity_150,is not known to
-entity_842,entity_858,is released under
-entity_859,entity_860,refers to
-entity_861,entity_862,built on
-entity_859,entity_863,aims to speed
-entity_859,entity_864,aims to speed
-entity_859,entity_865,replace
-entity_859,entity_866,is aimed at
-entity_859,entity_867,help
-entity_859,entity_868,help
-entity_859,entity_869,help
-entity_859,entity_870,maintains
-entity_871,entity_872,is committed to provide
-entity_873,entity_874,is to enable
-entity_875,entity_876,is loosely based on
-entity_877,entity_878,offers
-entity_877,entity_125,promises
-entity_877,entity_879,is not tied to
-entity_880,entity_881,provides
-entity_882,entity_883,allows
-entity_880,entity_882,provides
-entity_882,entity_324,load
-entity_880,entity_884,can be used to tackle
-entity_877,entity_885,provides
-entity_877,entity_886,provides
-entity_877,entity_887,provides
-entity_877,entity_888,provides
-entity_877,entity_889,provides
-entity_890,entity_891,consists of
-entity_890,entity_892,consists of
-entity_890,entity_893,consists of
-entity_894,entity_892,refers to
-entity_894,entity_891,refers to
-entity_894,entity_895,refers to
-entity_890,entity_896,does not refer to
-entity_890,entity_897,does not refer to
-entity_898,entity_899,represents
-entity_898,entity_897,represents
-entity_898,entity_900,represents
-entity_898,entity_901,represents
-entity_902,entity_903,uses
-entity_904,entity_905,uses
-entity_904,entity_903,uses
-entity_906,entity_907,is released as
-entity_906,entity_908,is released as
-entity_909,entity_910,was first publicly released for
-entity_909,entity_911,is available in
-entity_909,entity_912,was first publicly released for
-entity_909,entity_657,was first publicly released for
-entity_330,entity_913,was based on
-entity_330,entity_914,was based on
-entity_331,entity_915,Transact Structured
-entity_916,entity_917,are based on
-entity_918,entity_919,runs on over
-entity_918,entity_920,runs on over
-entity_918,entity_921,is suitable for
-entity_918,entity_922,is suitable for
-entity_918,entity_923,refer to
-entity_916,entity_924,do not use
-entity_916,entity_925,do not use
-entity_926,entity_239,provided by
-entity_927,entity_928,uses
-entity_928,entity_125,reuses existing
-entity_929,entity_930,provides
-entity_929,entity_931,was officially launched by
-entity_929,entity_932,is now supported by
-entity_929,entity_933,saw
-entity_934,entity_935,maps
-entity_936,entity_937,is commonly implemented as
-entity_938,entity_937,is commonly implemented as
-entity_936,entity_939,may be implemented as
-entity_940,entity_941,contains
-entity_942,entity_943,is used in checking
-entity_944,entity_945,uses
-entity_946,entity_947,are made up of
-entity_946,entity_948,are made up of
-entity_949,entity_947,are made up of
-entity_949,entity_948,are made up of
-entity_947,entity_950,contains
-entity_948,entity_950,contains
-entity_951,entity_952,may have
-entity_953,entity_954,can be sent with
-entity_951,entity_955,needs
-entity_951,entity_956,is sending
-entity_957,entity_958,is used by
-entity_957,entity_959,be used for
-entity_957,entity_960,be used for
-entity_957,entity_961,be used for
-entity_957,entity_962,be used for
-entity_957,entity_963,be used for
-entity_957,entity_964,retrieve
-entity_965,entity_966,create
-entity_967,entity_968,provides
-entity_967,entity_969,provides
-entity_967,entity_970,provides
-entity_967,entity_971,was originally called
-entity_972,entity_973,was acquired by
-entity_974,entity_975,was donated to
-entity_973,entity_976,contributes to
-entity_973,entity_977,contributes to
-entity_973,entity_978,contributes to
-entity_979,entity_109,is written in
-entity_979,entity_7,is written in
-entity_980,entity_967,used by
-entity_981,entity_297,supports
-entity_981,entity_237,supports
-entity_981,entity_982,supports
-entity_967,entity_983,has varying
-entity_967,entity_74,has
-entity_984,entity_899,describes
-entity_984,entity_985,describes
-entity_984,entity_986,can express
-entity_984,entity_987,can express
-entity_984,entity_988,can express
-entity_984,entity_897,can express
-entity_984,entity_989,is used
-entity_990,entity_991,carries
-entity_992,entity_899,represent
-entity_992,entity_897,represent
-entity_992,entity_993,represent
-entity_994,entity_995,represent
-entity_994,entity_897,represent
-entity_994,entity_996,are based on
-entity_990,entity_986,represents
-entity_990,entity_987,represents
-entity_997,entity_899,represents
-entity_997,entity_897,represents
-entity_998,entity_999,represents
-entity_998,entity_901,represents
-entity_998,entity_897,represents
-entity_1000,entity_1001,are based on
-entity_1002,entity_1003,represents
-entity_1002,entity_1004,represents
-entity_1005,entity_1006,uses
-entity_1005,entity_37,uses
-entity_1007,entity_1008,can be used to manipulate
-entity_1009,entity_1008,can be used to manipulate
-entity_1010,entity_1011,standardizes
-entity_1012,entity_202,can be run on
-entity_150,entity_1013,may be used
-entity_1014,entity_212,provides
-entity_1014,entity_81,provides
-entity_1014,entity_1015,using
-entity_1016,entity_1015,using
-entity_1017,entity_1015,using
-entity_1018,entity_1015,using
-entity_1019,entity_1015,using
-entity_1020,entity_1015,using
-entity_1021,entity_1015,using
-entity_1022,entity_1015,using
-entity_1023,entity_1015,using
-entity_1024,entity_1015,using
-entity_1025,entity_1026,include
-entity_1027,entity_1028,defines
-entity_1027,entity_1029,defines
-entity_1027,entity_1030,is made up of
-entity_1027,entity_1031,is made up of
-entity_237,entity_1032,provides
-entity_1032,entity_1033,corresponds to
-entity_1032,entity_1034,corresponds to
-entity_1035,entity_1036,are built into
-entity_997,entity_1037,refers to
-entity_1038,entity_1039,have
-entity_1038,entity_830,have
-entity_831,entity_1040,can have
-entity_831,entity_830,can have
-entity_1040,entity_1041,define
-entity_1040,entity_1042,define
-entity_830,entity_1041,define
-entity_830,entity_1042,define
-entity_1043,entity_1044,might have
-entity_1043,entity_1045,might have
-entity_1046,entity_997,could be represented as
-entity_367,entity_795,follows
-entity_369,entity_417,brings
-entity_1047,entity_1048,operates across
-entity_1047,entity_1049,operates across
-entity_1050,entity_1051,are based on
-entity_1052,entity_1053,accept
-entity_1054,entity_1055,combines
-entity_1054,entity_1056,combines
-entity_1054,entity_1057,is focused on
-entity_1054,entity_1058,is focused on
-entity_1054,entity_277,is focused on
-entity_1054,entity_1059,is focused on
-entity_1054,entity_138,targets
-entity_1054,entity_109,targets
-entity_1054,entity_1060,targets
-entity_1054,entity_1061,supports
-entity_1054,entity_109,supports
-entity_1054,entity_1062,supports
-entity_1063,entity_1064,can access
-entity_1055,entity_2,includes
-entity_1065,entity_1066,stands for
-entity_507,entity_1067,comprises
-entity_1068,entity_1069,aims to make
-entity_1068,entity_1070,aims to make
-entity_1071,entity_1072,has been integrated with
-entity_1073,entity_1074,represents
-entity_1075,entity_1076,uses
-entity_1077,entity_1078,is defined as
-entity_1077,entity_1076,is defined as
-entity_1068,entity_1079,includes
-entity_1079,entity_1080,helps in improving
-entity_1068,entity_1081,enhanced
-entity_1068,entity_1082,includes
-entity_1082,entity_1083,allows reserving
-entity_1082,entity_1084,allows reserving
-entity_1082,entity_1085,allows reserving
-entity_1068,entity_1086,includes
-entity_1068,entity_1087,supports
-entity_1068,entity_1088,supports
-entity_1068,entity_1089,supports
-entity_1068,entity_379,supports
-entity_1090,entity_1091,will gain charting
-entity_1092,entity_392,was acquired by
-entity_1090,entity_1093,includes
-entity_1093,entity_1094,allows configuring
-entity_1093,entity_322,allows configuring
-entity_1090,entity_1095,includes
-entity_1093,entity_710,allows configuring
-entity_1093,entity_1096,allows configuring
-entity_50,entity_1097,been referred to as
-entity_50,entity_1097,had earlier been referred
-entity_1098,entity_1099,is withdrawn from
-entity_1100,entity_1101,contains
-entity_1100,entity_1102,includes
-entity_1100,entity_1103,is managed by
-entity_1104,entity_1105,includes
-entity_1104,entity_1106,offers
-entity_1107,entity_1108,combines
-entity_1107,entity_1109,combines
-entity_1107,entity_1110,combines
-entity_1107,entity_1111,uses
-entity_1107,entity_1112,uses
-entity_1113,entity_1114,enables
-entity_1115,entity_1116,draws on
-entity_1115,entity_1117,draws on
-entity_1118,entity_1119,are also commonly also called
-entity_1118,entity_1119,are also commonly known as
-entity_1120,entity_1121,supports
-entity_1121,entity_1122,are backed by
-entity_1120,entity_1123,supports
-entity_1124,entity_1125,will compile
-entity_1124,entity_1125,use
-entity_1120,entity_1126,is requested for
-entity_1124,entity_1127,use
-entity_1124,entity_1128,send
-entity_1124,entity_1129,send
-entity_1124,entity_1130,send
-entity_1120,entity_1131,runs in
-entity_1120,entity_1129,runs in
-entity_1132,entity_110,runs in
-entity_1120,entity_1133,don't run in
-entity_109,entity_1133,don't run in
-entity_1120,entity_1134,has been succeeded by
-entity_1120,entity_1135,has been succeeded by
-entity_1136,entity_1137,Faces
-entity_1136,entity_1138,Faces
-entity_1120,entity_1139,is not treated in
-entity_1120,entity_1140,is not treated in
-entity_1141,entity_1142,is used extensively in
-entity_1141,entity_1143,providing
-entity_1141,entity_1144,is provided by
-entity_1141,entity_1145,can be used by
-entity_1141,entity_324,display
-entity_1146,entity_1147,are sometimes also called
-entity_1148,entity_1149,are implemented as
-entity_1150,entity_1151,contains
-entity_1152,entity_1153,have
-entity_1154,entity_1155,is designed using
-entity_1154,entity_1156,support distributed
-entity_1157,entity_1158,can consume
-entity_1159,entity_1160,have
-entity_1154,entity_1161,implements
-entity_1162,entity_1163,provides
-entity_1162,entity_1164,provides
-entity_1162,entity_1165,provides
-entity_1166,entity_1167,has
-entity_1168,entity_1169,can be accessed
-entity_1170,entity_1171,is different than
-entity_1170,entity_970,allow
-entity_1170,entity_1172,happen together to verify
-entity_1173,entity_1172,happen together to verify
-entity_1174,entity_1175,covers
-entity_1176,entity_202,are still supported under
-entity_1177,entity_1178,are commonly known as
-entity_1179,entity_1178,are commonly known as
-entity_1180,entity_1178,is now known as
-entity_1181,entity_1182,oriented
-entity_1181,entity_1183,supports
-entity_1181,entity_1184,comes with
-entity_1185,entity_1186,are available in
-entity_1185,entity_886,are available in
-entity_1185,entity_901,are available in
-entity_1185,entity_1187,are available in
-entity_1185,entity_1188,are available in
-entity_1185,entity_1189,are available in
-entity_1185,entity_887,are available in
-entity_1190,entity_1191,allow for
-entity_1190,entity_1037,allow for
-entity_1192,entity_1193,contains
-entity_1194,entity_1195,compiles to
-entity_1194,entity_208,provides
-entity_1196,entity_1197,can store
-entity_1196,entity_466,can store
-entity_1196,entity_1198,can store
-entity_1199,entity_1197,can store
-entity_1199,entity_1200,can store
-entity_1201,entity_1202,are only accessible within
-entity_567,entity_1203,are constrained by
-entity_567,entity_1204,are constrained by
-entity_1205,entity_1206,share
-entity_1205,entity_1203,may vary across
-entity_1207,entity_1208,consist of
-entity_1207,entity_1209,consist of
-entity_1210,entity_439,vary
-entity_1210,entity_1211,vary
-entity_1212,entity_1213,originated in
-entity_1212,entity_1214,is currently owned by
-entity_1215,entity_1216,is mostly compatible with
-entity_1217,entity_1218,are also known as
-entity_1217,entity_1219,are also known as
-entity_1220,entity_1221,can display
-entity_1220,entity_1222,could be adding
-entity_1220,entity_1223,can be created using
-entity_1220,entity_1224,can be created using
-entity_1225,entity_1226,succeeding
-entity_1225,entity_1227,comes with
-entity_1225,entity_53,has integrated
-entity_1225,entity_1228,offers
-entity_1229,entity_1230,got
-entity_1231,entity_1232,hosts
-entity_1231,entity_1233,is known for
-entity_1231,entity_1234,is known for
-entity_1231,entity_1235,is known for
-entity_1231,entity_1236,is known for
-entity_1231,entity_1237,is known for
-entity_1238,entity_1239,allows
-entity_1240,entity_960,can be used for
-entity_1240,entity_1241,can be used for
-entity_1242,entity_1243,is used as
-entity_1242,entity_1244,refers to
-entity_1242,entity_1245,refers to
-entity_1246,entity_1247,pioneered
-entity_1246,entity_1242,pioneered
-entity_1248,entity_1249,running over
-entity_1248,entity_1250,running over
-entity_1251,entity_1252,is important as
-entity_1251,entity_1253,is not exactly written for
-entity_1254,entity_1255,can be encoded as
-entity_1254,entity_1256,can be encoded as
-entity_1254,entity_531,can be encoded as
-entity_1254,entity_1257,can be encoded as
-entity_1258,entity_1259,contain drawing
-entity_1260,entity_1261,revolves around developing
-entity_1261,entity_324,function by
-entity_1260,entity_1262,explores
-entity_1260,entity_1263,explores
-entity_504,entity_1264,write
-entity_1265,entity_1264,write
-entity_1266,entity_1267,is headquartered in
-entity_1266,entity_1268,is headquartered in
-entity_1266,entity_392,was acquired by
-entity_392,entity_1269,announced
-entity_392,entity_1270,announced
-entity_392,entity_1271,announced
-entity_1272,entity_1273,includes
-entity_1272,entity_1225,includes
-entity_1266,entity_1272,created
-entity_1273,entity_1274,can be used to develop
-entity_1275,entity_1276,includes
-entity_1266,entity_1277,introduced
-entity_1277,entity_1278,provides
-entity_1277,entity_970,enhances
-entity_1279,entity_1280,is now considered
-entity_1279,entity_1281,includes
-entity_1282,entity_1283,was developed by
-entity_1282,entity_1284,was developed by
-entity_1285,entity_1286,can be used for
-entity_1285,entity_1287,was developed as
-entity_1285,entity_1288,became
-entity_1289,entity_766,would rise in
-entity_1289,entity_1290,would rise in
-entity_1291,entity_1292,lacks
-entity_1285,entity_1293,is commonly found on
-entity_1294,entity_1295,support
-entity_1296,entity_1297,are unified in
-entity_183,entity_1298,has
-entity_183,entity_535,has
-entity_183,entity_1299,has
-entity_1300,entity_1301,can be scheduled using
-entity_1300,entity_1302,can be run across
-entity_1300,entity_1303,can be run across
-entity_1304,entity_1305,set
-entity_1304,entity_1306,set
-entity_1304,entity_1307,supports
-entity_1304,entity_1308,support
-entity_1309,entity_1310,can aid in
-entity_1311,entity_1312,represent
-entity_1311,entity_1313,represent
-entity_1311,entity_1314,represent
-entity_1315,entity_1316,represents
-entity_1315,entity_1317,represents
-entity_1311,entity_237,were first introduced in
-entity_1318,entity_1319,provides
-entity_1318,entity_1320,provides
-entity_1321,entity_1322,offers all of
-entity_1321,entity_1323,offers all of
-entity_1321,entity_1324,provides
-entity_1321,entity_1325,provides
-entity_1321,entity_1326,provides
-entity_1321,entity_1327,provides
-entity_1321,entity_1328,provides
-entity_1321,entity_1329,offers
-entity_1330,entity_1331,are usually used to host
-entity_1321,entity_1332,reports having
-entity_1321,entity_1333,reports having
-entity_1334,entity_392,is provided by
-entity_1335,entity_1336,are typically limited to
-entity_1335,entity_1037,are not well suited for
-entity_1337,entity_1338,provides
-entity_1337,entity_1339,provides
-entity_1337,entity_1340,focuses mostly on
-entity_1337,entity_1341,does allow
-entity_1337,entity_766,has gained
-entity_1337,entity_1342,has gained
-entity_1337,entity_1343,has gained
-entity_1100,entity_1344,consists of
-entity_1100,entity_1345,consists of
-entity_1346,entity_1347,refers to
-entity_1346,entity_1344,refers to
-entity_1348,entity_1349,will accept
-entity_1348,entity_1350,use
-entity_1351,entity_1352,will share
-entity_1351,entity_1350,will share
-entity_1348,entity_1353,do
-entity_1346,entity_1354,works with
-entity_1346,entity_1355,disposes of
-entity_1356,entity_1357,refers to
+entity_0,entity_1,relation_type_3
+entity_0,entity_2,relation_type_3
+entity_3,entity_4,relation_type_5
+entity_3,entity_5,relation_type_5
+entity_6,entity_7,relation_type_0
+entity_6,entity_8,relation_type_5
+entity_6,entity_9,relation_type_4
+entity_10,entity_11,relation_type_0
+entity_10,entity_12,relation_type_0
+entity_10,entity_13,relation_type_0
+entity_6,entity_14,relation_type_0
+entity_6,entity_15,relation_type_0
+entity_6,entity_15,relation_type_3
+entity_6,entity_16,relation_type_5
+entity_17,entity_18,relation_type_5
+entity_19,entity_20,relation_type_3
+entity_19,entity_20,relation_type_3
+entity_21,entity_22,relation_type_5
+entity_21,entity_23,relation_type_1
+entity_24,entity_25,relation_type_0
+entity_24,entity_26,relation_type_0
+entity_27,entity_28,relation_type_3
+entity_29,entity_30,relation_type_1
+entity_29,entity_31,relation_type_2
+entity_32,entity_30,relation_type_1
+entity_32,entity_31,relation_type_3
+entity_33,entity_34,relation_type_0
+entity_35,entity_36,relation_type_0
+entity_37,entity_38,relation_type_0
+entity_39,entity_38,relation_type_0
+entity_40,entity_38,relation_type_0
+entity_41,entity_42,relation_type_0
+entity_43,entity_44,relation_type_0
+entity_45,entity_46,relation_type_0
+entity_45,entity_47,relation_type_5
+entity_45,entity_48,relation_type_2
+entity_49,entity_50,relation_type_1
+entity_51,entity_52,relation_type_2
+entity_51,entity_53,relation_type_5
+entity_51,entity_52,relation_type_2
+entity_51,entity_53,relation_type_5
+entity_54,entity_55,relation_type_0
+entity_54,entity_56,relation_type_0
+entity_57,entity_58,relation_type_5
+entity_59,entity_60,relation_type_0
+entity_57,entity_61,relation_type_5
+entity_58,entity_61,relation_type_2
+entity_57,entity_58,relation_type_5
+entity_59,entity_60,relation_type_0
+entity_57,entity_61,relation_type_5
+entity_58,entity_61,relation_type_2
+entity_62,entity_63,relation_type_2
+entity_64,entity_65,relation_type_0
+entity_66,entity_67,relation_type_1
+entity_68,entity_69,relation_type_5
+entity_68,entity_69,relation_type_5
+entity_68,entity_70,relation_type_5
+entity_71,entity_72,relation_type_0
+entity_71,entity_73,relation_type_0
+entity_71,entity_74,relation_type_0
+entity_75,entity_76,relation_type_3
+entity_77,entity_78,relation_type_5
+entity_77,entity_79,relation_type_0
+entity_77,entity_80,relation_type_0
+entity_77,entity_81,relation_type_0
+entity_77,entity_82,relation_type_3
+entity_83,entity_84,relation_type_0
+entity_85,entity_86,relation_type_1
+entity_85,entity_87,relation_type_5
+entity_88,entity_89,relation_type_5
+entity_90,entity_91,relation_type_0
+entity_88,entity_92,relation_type_5
+entity_88,entity_89,relation_type_5
+entity_88,entity_93,relation_type_4
+entity_88,entity_94,relation_type_3
+entity_95,entity_96,relation_type_5
+entity_97,entity_98,relation_type_2
+entity_97,entity_99,relation_type_3
+entity_100,entity_101,relation_type_2
+entity_102,entity_103,relation_type_0
+entity_102,entity_104,relation_type_1
+entity_105,entity_106,relation_type_0
+entity_107,entity_108,relation_type_0
+entity_109,entity_110,relation_type_0
+entity_109,entity_111,relation_type_3
+entity_112,entity_113,relation_type_2
+entity_109,entity_114,relation_type_5
+entity_112,entity_115,relation_type_1
+entity_112,entity_116,relation_type_3
+entity_117,entity_109,relation_type_5
+entity_118,entity_119,relation_type_1
+entity_120,entity_121,relation_type_0
+entity_120,entity_50,relation_type_0
+entity_122,entity_123,relation_type_0
+entity_124,entity_74,relation_type_2
+entity_124,entity_125,relation_type_0
+entity_124,entity_126,relation_type_2
+entity_127,entity_128,relation_type_3
+entity_127,entity_129,relation_type_4
+entity_127,entity_130,relation_type_1
+entity_127,entity_131,relation_type_1
+entity_131,entity_132,relation_type_5
+entity_127,entity_133,relation_type_1
+entity_127,entity_134,relation_type_5
+entity_135,entity_136,relation_type_0
+entity_127,entity_123,relation_type_3
+entity_123,entity_137,relation_type_2
+entity_123,entity_138,relation_type_2
+entity_139,entity_140,relation_type_3
+entity_141,entity_142,relation_type_2
+entity_127,entity_143,relation_type_0
+entity_127,entity_144,relation_type_0
+entity_145,entity_146,relation_type_5
+entity_147,entity_148,relation_type_0
+entity_148,entity_149,relation_type_5
+entity_150,entity_151,relation_type_5
+entity_150,entity_152,relation_type_5
+entity_150,entity_153,relation_type_5
+entity_150,entity_154,relation_type_5
+entity_150,entity_155,relation_type_5
+entity_150,entity_156,relation_type_2
+entity_150,entity_157,relation_type_2
+entity_150,entity_158,relation_type_2
+entity_150,entity_159,relation_type_2
+entity_150,entity_160,relation_type_2
+entity_150,entity_158,relation_type_2
+entity_150,entity_159,relation_type_2
+entity_150,entity_160,relation_type_2
+entity_150,entity_161,relation_type_2
+entity_150,entity_162,relation_type_2
+entity_150,entity_163,relation_type_2
+entity_150,entity_164,relation_type_3
+entity_150,entity_165,relation_type_3
+entity_150,entity_166,relation_type_3
+entity_150,entity_167,relation_type_5
+entity_150,entity_168,relation_type_5
+entity_150,entity_169,relation_type_1
+entity_150,entity_170,relation_type_1
+entity_171,entity_172,relation_type_1
+entity_150,entity_173,relation_type_3
+entity_174,entity_175,relation_type_5
+entity_174,entity_176,relation_type_0
+entity_177,entity_178,relation_type_3
+entity_179,entity_180,relation_type_1
+entity_179,entity_181,relation_type_1
+entity_182,entity_150,relation_type_0
+entity_182,entity_150,relation_type_0
+entity_183,entity_184,relation_type_5
+entity_183,entity_185,relation_type_0
+entity_186,entity_187,relation_type_0
+entity_188,entity_189,relation_type_2
+entity_190,entity_191,relation_type_0
+entity_192,entity_193,relation_type_3
+entity_194,entity_195,relation_type_3
+entity_196,entity_197,relation_type_3
+entity_196,entity_198,relation_type_3
+entity_199,entity_200,relation_type_0
+entity_199,entity_201,relation_type_0
+entity_199,entity_202,relation_type_0
+entity_199,entity_203,relation_type_0
+entity_204,entity_150,relation_type_3
+entity_204,entity_205,relation_type_5
+entity_206,entity_207,relation_type_0
+entity_206,entity_208,relation_type_0
+entity_206,entity_209,relation_type_2
+entity_206,entity_210,relation_type_5
+entity_211,entity_212,relation_type_5
+entity_211,entity_81,relation_type_5
+entity_213,entity_214,relation_type_2
+entity_213,entity_215,relation_type_2
+entity_213,entity_216,relation_type_2
+entity_217,entity_218,relation_type_5
+entity_217,entity_219,relation_type_3
+entity_217,entity_180,relation_type_3
+entity_220,entity_221,relation_type_0
+entity_222,entity_223,relation_type_0
+entity_224,entity_225,relation_type_5
+entity_226,entity_225,relation_type_5
+entity_227,entity_225,relation_type_5
+entity_228,entity_153,relation_type_2
+entity_228,entity_229,relation_type_5
+entity_230,entity_231,relation_type_5
+entity_230,entity_232,relation_type_0
+entity_233,entity_234,relation_type_0
+entity_235,entity_236,relation_type_0
+entity_237,entity_238,relation_type_0
+entity_239,entity_240,relation_type_3
+entity_239,entity_241,relation_type_3
+entity_242,entity_243,relation_type_5
+entity_242,entity_244,relation_type_5
+entity_242,entity_245,relation_type_5
+entity_242,entity_246,relation_type_5
+entity_247,entity_248,relation_type_5
+entity_249,entity_250,relation_type_5
+entity_249,entity_251,relation_type_5
+entity_249,entity_250,relation_type_5
+entity_249,entity_251,relation_type_5
+entity_237,entity_252,relation_type_0
+entity_7,entity_253,relation_type_3
+entity_254,entity_253,relation_type_5
+entity_254,entity_255,relation_type_0
+entity_256,entity_257,relation_type_0
+entity_7,entity_258,relation_type_0
+entity_7,entity_259,relation_type_0
+entity_7,entity_260,relation_type_3
+entity_7,entity_261,relation_type_5
+entity_7,entity_118,relation_type_5
+entity_262,entity_263,relation_type_0
+entity_264,entity_265,relation_type_1
+entity_266,entity_267,relation_type_5
+entity_266,entity_268,relation_type_5
+entity_266,entity_269,relation_type_5
+entity_266,entity_270,relation_type_5
+entity_266,entity_271,relation_type_5
+entity_266,entity_272,relation_type_3
+entity_266,entity_273,relation_type_3
+entity_50,entity_274,relation_type_3
+entity_50,entity_275,relation_type_3
+entity_276,entity_277,relation_type_0
+entity_278,entity_279,relation_type_0
+entity_280,entity_281,relation_type_5
+entity_282,entity_283,relation_type_5
+entity_284,entity_283,relation_type_5
+entity_285,entity_286,relation_type_5
+entity_287,entity_288,relation_type_1
+entity_289,entity_290,relation_type_3
+entity_289,entity_290,relation_type_3
+entity_291,entity_292,relation_type_1
+entity_293,entity_294,relation_type_0
+entity_295,entity_296,relation_type_0
+entity_297,entity_298,relation_type_5
+entity_297,entity_299,relation_type_5
+entity_297,entity_300,relation_type_5
+entity_301,entity_302,relation_type_0
+entity_301,entity_303,relation_type_0
+entity_301,entity_304,relation_type_0
+entity_305,entity_306,relation_type_0
+entity_307,entity_81,relation_type_4
+entity_308,entity_81,relation_type_4
+entity_307,entity_309,relation_type_5
+entity_310,entity_311,relation_type_0
+entity_310,entity_312,relation_type_5
+entity_310,entity_313,relation_type_3
+entity_314,entity_315,relation_type_3
+entity_316,entity_317,relation_type_0
+entity_318,entity_319,relation_type_1
+entity_320,entity_321,relation_type_3
+entity_320,entity_322,relation_type_3
+entity_323,entity_324,relation_type_0
+entity_325,entity_326,relation_type_0
+entity_325,entity_327,relation_type_1
+entity_328,entity_318,relation_type_0
+entity_329,entity_318,relation_type_0
+entity_330,entity_331,relation_type_3
+entity_332,entity_333,relation_type_1
+entity_332,entity_334,relation_type_1
+entity_332,entity_335,relation_type_3
+entity_336,entity_337,relation_type_0
+entity_336,entity_338,relation_type_0
+entity_339,entity_340,relation_type_3
+entity_339,entity_341,relation_type_3
+entity_342,entity_343,relation_type_0
+entity_342,entity_344,relation_type_3
+entity_345,entity_346,relation_type_0
+entity_345,entity_347,relation_type_3
+entity_345,entity_348,relation_type_0
+entity_349,entity_350,relation_type_5
+entity_121,entity_50,relation_type_3
+entity_351,entity_352,relation_type_3
+entity_351,entity_353,relation_type_3
+entity_351,entity_354,relation_type_3
+entity_355,entity_356,relation_type_0
+entity_121,entity_357,relation_type_2
+entity_358,entity_359,relation_type_1
+entity_121,entity_360,relation_type_3
+entity_361,entity_362,relation_type_5
+entity_361,entity_363,relation_type_5
+entity_364,entity_365,relation_type_3
+entity_361,entity_366,relation_type_1
+entity_367,entity_368,relation_type_0
+entity_367,entity_369,relation_type_1
+entity_370,entity_189,relation_type_0
+entity_367,entity_370,relation_type_1
+entity_371,entity_372,relation_type_0
+entity_371,entity_373,relation_type_3
+entity_371,entity_374,relation_type_0
+entity_330,entity_375,relation_type_5
+entity_376,entity_377,relation_type_5
+entity_376,entity_378,relation_type_5
+entity_376,entity_379,relation_type_5
+entity_376,entity_380,relation_type_5
+entity_376,entity_381,relation_type_5
+entity_376,entity_382,relation_type_5
+entity_383,entity_384,relation_type_0
+entity_383,entity_385,relation_type_0
+entity_383,entity_386,relation_type_5
+entity_383,entity_387,relation_type_5
+entity_383,entity_388,relation_type_5
+entity_389,entity_390,relation_type_0
+entity_389,entity_391,relation_type_0
+entity_392,entity_393,relation_type_0
+entity_394,entity_395,relation_type_1
+entity_396,entity_397,relation_type_0
+entity_398,entity_399,relation_type_0
+entity_400,entity_395,relation_type_3
+entity_400,entity_401,relation_type_2
+entity_402,entity_403,relation_type_5
+entity_402,entity_291,relation_type_5
+entity_400,entity_404,relation_type_2
+entity_400,entity_405,relation_type_2
+entity_400,entity_404,relation_type_2
+entity_400,entity_405,relation_type_2
+entity_400,entity_406,relation_type_2
+entity_400,entity_404,relation_type_2
+entity_400,entity_405,relation_type_2
+entity_400,entity_404,relation_type_2
+entity_400,entity_405,relation_type_2
+entity_400,entity_407,relation_type_1
+entity_400,entity_407,relation_type_1
+entity_400,entity_407,relation_type_1
+entity_400,entity_407,relation_type_1
+entity_121,entity_274,relation_type_1
+entity_121,entity_408,relation_type_1
+entity_121,entity_409,relation_type_1
+entity_121,entity_410,relation_type_1
+entity_121,entity_411,relation_type_3
+entity_121,entity_412,relation_type_5
+entity_121,entity_413,relation_type_5
+entity_121,entity_414,relation_type_2
+entity_121,entity_415,relation_type_2
+entity_150,entity_416,relation_type_5
+entity_150,entity_417,relation_type_5
+entity_150,entity_418,relation_type_2
+entity_419,entity_420,relation_type_0
+entity_419,entity_421,relation_type_0
+entity_419,entity_422,relation_type_0
+entity_423,entity_239,relation_type_0
+entity_423,entity_81,relation_type_0
+entity_424,entity_425,relation_type_2
+entity_424,entity_426,relation_type_2
+entity_427,entity_428,relation_type_0
+entity_429,entity_430,relation_type_3
+entity_431,entity_432,relation_type_5
+entity_433,entity_434,relation_type_1
+entity_433,entity_435,relation_type_4
+entity_433,entity_436,relation_type_4
+entity_437,entity_438,relation_type_2
+entity_433,entity_439,relation_type_3
+entity_433,entity_326,relation_type_3
+entity_433,entity_440,relation_type_3
+entity_441,entity_442,relation_type_0
+entity_433,entity_443,relation_type_2
+entity_239,entity_444,relation_type_0
+entity_239,entity_445,relation_type_5
+entity_446,entity_121,relation_type_3
+entity_446,entity_400,relation_type_3
+entity_446,entity_121,relation_type_3
+entity_446,entity_400,relation_type_3
+entity_446,entity_447,relation_type_0
+entity_446,entity_447,relation_type_0
+entity_447,entity_448,relation_type_5
+entity_447,entity_2,relation_type_5
+entity_447,entity_449,relation_type_0
+entity_449,entity_450,relation_type_5
+entity_451,entity_452,relation_type_1
+entity_451,entity_453,relation_type_1
+entity_451,entity_447,relation_type_0
+entity_454,entity_447,relation_type_0
+entity_451,entity_455,relation_type_0
+entity_451,entity_447,relation_type_0
+entity_367,entity_456,relation_type_2
+entity_271,entity_457,relation_type_3
+entity_458,entity_459,relation_type_0
+entity_458,entity_459,relation_type_0
+entity_458,entity_324,relation_type_0
+entity_458,entity_324,relation_type_0
+entity_460,entity_461,relation_type_0
+entity_462,entity_463,relation_type_2
+entity_464,entity_463,relation_type_5
+entity_464,entity_465,relation_type_5
+entity_109,entity_466,relation_type_0
+entity_467,entity_468,relation_type_0
+entity_469,entity_470,relation_type_0
+entity_467,entity_471,relation_type_3
+entity_467,entity_472,relation_type_0
+entity_467,entity_473,relation_type_1
+entity_474,entity_475,relation_type_0
+entity_467,entity_476,relation_type_5
+entity_467,entity_477,relation_type_5
+entity_109,entity_110,relation_type_0
+entity_109,entity_111,relation_type_3
+entity_112,entity_113,relation_type_2
+entity_109,entity_114,relation_type_5
+entity_112,entity_115,relation_type_1
+entity_112,entity_116,relation_type_3
+entity_117,entity_109,relation_type_5
+entity_118,entity_119,relation_type_1
+entity_120,entity_121,relation_type_0
+entity_120,entity_50,relation_type_0
+entity_122,entity_123,relation_type_0
+entity_124,entity_74,relation_type_2
+entity_124,entity_125,relation_type_0
+entity_124,entity_126,relation_type_2
+entity_127,entity_128,relation_type_3
+entity_127,entity_129,relation_type_4
+entity_127,entity_130,relation_type_1
+entity_127,entity_131,relation_type_1
+entity_131,entity_132,relation_type_5
+entity_127,entity_133,relation_type_1
+entity_127,entity_134,relation_type_5
+entity_135,entity_136,relation_type_0
+entity_127,entity_123,relation_type_3
+entity_123,entity_137,relation_type_2
+entity_123,entity_138,relation_type_2
+entity_139,entity_140,relation_type_3
+entity_141,entity_142,relation_type_2
+entity_127,entity_143,relation_type_0
+entity_127,entity_144,relation_type_0
+entity_145,entity_146,relation_type_5
+entity_147,entity_148,relation_type_0
+entity_148,entity_149,relation_type_5
+entity_150,entity_151,relation_type_5
+entity_150,entity_152,relation_type_5
+entity_150,entity_153,relation_type_5
+entity_150,entity_154,relation_type_5
+entity_150,entity_155,relation_type_5
+entity_150,entity_156,relation_type_2
+entity_150,entity_157,relation_type_2
+entity_150,entity_158,relation_type_2
+entity_150,entity_159,relation_type_2
+entity_150,entity_160,relation_type_2
+entity_150,entity_158,relation_type_2
+entity_150,entity_159,relation_type_2
+entity_150,entity_160,relation_type_2
+entity_150,entity_161,relation_type_2
+entity_150,entity_162,relation_type_2
+entity_150,entity_163,relation_type_2
+entity_150,entity_164,relation_type_3
+entity_150,entity_165,relation_type_3
+entity_150,entity_166,relation_type_3
+entity_150,entity_167,relation_type_5
+entity_150,entity_168,relation_type_5
+entity_150,entity_169,relation_type_1
+entity_150,entity_170,relation_type_1
+entity_171,entity_172,relation_type_1
+entity_150,entity_173,relation_type_3
+entity_174,entity_175,relation_type_5
+entity_174,entity_176,relation_type_0
+entity_177,entity_178,relation_type_3
+entity_179,entity_180,relation_type_1
+entity_179,entity_181,relation_type_1
+entity_182,entity_150,relation_type_0
+entity_182,entity_150,relation_type_0
+entity_183,entity_184,relation_type_5
+entity_183,entity_185,relation_type_0
+entity_186,entity_187,relation_type_0
+entity_188,entity_189,relation_type_2
+entity_190,entity_191,relation_type_0
+entity_192,entity_193,relation_type_3
+entity_194,entity_195,relation_type_3
+entity_196,entity_197,relation_type_3
+entity_196,entity_198,relation_type_3
+entity_199,entity_200,relation_type_0
+entity_199,entity_201,relation_type_0
+entity_199,entity_202,relation_type_0
+entity_199,entity_203,relation_type_0
+entity_204,entity_150,relation_type_3
+entity_204,entity_205,relation_type_5
+entity_206,entity_207,relation_type_0
+entity_206,entity_208,relation_type_0
+entity_206,entity_209,relation_type_2
+entity_206,entity_210,relation_type_5
+entity_211,entity_212,relation_type_5
+entity_211,entity_81,relation_type_5
+entity_213,entity_214,relation_type_2
+entity_213,entity_215,relation_type_2
+entity_213,entity_216,relation_type_2
+entity_217,entity_218,relation_type_5
+entity_217,entity_219,relation_type_3
+entity_217,entity_180,relation_type_3
+entity_220,entity_221,relation_type_0
+entity_222,entity_223,relation_type_0
+entity_224,entity_225,relation_type_5
+entity_226,entity_225,relation_type_5
+entity_227,entity_225,relation_type_5
+entity_228,entity_153,relation_type_2
+entity_228,entity_229,relation_type_5
+entity_230,entity_231,relation_type_5
+entity_230,entity_232,relation_type_0
+entity_233,entity_234,relation_type_0
+entity_235,entity_236,relation_type_0
+entity_237,entity_238,relation_type_0
+entity_239,entity_240,relation_type_3
+entity_239,entity_241,relation_type_3
+entity_242,entity_243,relation_type_5
+entity_242,entity_244,relation_type_5
+entity_242,entity_245,relation_type_5
+entity_242,entity_246,relation_type_5
+entity_247,entity_248,relation_type_5
+entity_249,entity_250,relation_type_5
+entity_249,entity_251,relation_type_5
+entity_249,entity_250,relation_type_5
+entity_249,entity_251,relation_type_5
+entity_237,entity_252,relation_type_0
+entity_7,entity_253,relation_type_3
+entity_254,entity_253,relation_type_5
+entity_254,entity_255,relation_type_0
+entity_256,entity_257,relation_type_0
+entity_7,entity_258,relation_type_0
+entity_7,entity_259,relation_type_0
+entity_7,entity_260,relation_type_3
+entity_7,entity_261,relation_type_5
+entity_7,entity_118,relation_type_5
+entity_262,entity_263,relation_type_0
+entity_264,entity_265,relation_type_1
+entity_266,entity_267,relation_type_5
+entity_266,entity_268,relation_type_5
+entity_266,entity_269,relation_type_5
+entity_266,entity_270,relation_type_5
+entity_266,entity_271,relation_type_5
+entity_266,entity_272,relation_type_3
+entity_266,entity_273,relation_type_3
+entity_50,entity_274,relation_type_3
+entity_50,entity_275,relation_type_3
+entity_276,entity_277,relation_type_0
+entity_278,entity_279,relation_type_0
+entity_280,entity_281,relation_type_5
+entity_282,entity_283,relation_type_5
+entity_284,entity_283,relation_type_5
+entity_285,entity_286,relation_type_5
+entity_287,entity_288,relation_type_1
+entity_289,entity_290,relation_type_3
+entity_289,entity_290,relation_type_3
+entity_291,entity_292,relation_type_1
+entity_293,entity_294,relation_type_0
+entity_295,entity_296,relation_type_0
+entity_297,entity_298,relation_type_5
+entity_297,entity_299,relation_type_5
+entity_297,entity_300,relation_type_5
+entity_301,entity_302,relation_type_0
+entity_301,entity_303,relation_type_0
+entity_301,entity_304,relation_type_0
+entity_305,entity_306,relation_type_0
+entity_307,entity_81,relation_type_4
+entity_308,entity_81,relation_type_4
+entity_307,entity_309,relation_type_5
+entity_310,entity_311,relation_type_0
+entity_310,entity_312,relation_type_5
+entity_310,entity_313,relation_type_3
+entity_314,entity_315,relation_type_3
+entity_316,entity_317,relation_type_0
+entity_318,entity_319,relation_type_1
+entity_320,entity_321,relation_type_3
+entity_320,entity_322,relation_type_3
+entity_323,entity_324,relation_type_0
+entity_325,entity_326,relation_type_0
+entity_325,entity_327,relation_type_1
+entity_328,entity_318,relation_type_0
+entity_329,entity_318,relation_type_0
+entity_330,entity_331,relation_type_3
+entity_332,entity_333,relation_type_1
+entity_332,entity_334,relation_type_1
+entity_332,entity_335,relation_type_3
+entity_336,entity_337,relation_type_0
+entity_336,entity_338,relation_type_0
+entity_339,entity_340,relation_type_3
+entity_339,entity_341,relation_type_3
+entity_342,entity_343,relation_type_0
+entity_342,entity_344,relation_type_3
+entity_345,entity_346,relation_type_0
+entity_345,entity_347,relation_type_3
+entity_345,entity_348,relation_type_0
+entity_349,entity_350,relation_type_5
+entity_121,entity_50,relation_type_3
+entity_351,entity_352,relation_type_3
+entity_351,entity_353,relation_type_3
+entity_351,entity_354,relation_type_3
+entity_355,entity_356,relation_type_0
+entity_121,entity_357,relation_type_2
+entity_358,entity_359,relation_type_1
+entity_121,entity_360,relation_type_3
+entity_361,entity_362,relation_type_5
+entity_361,entity_363,relation_type_5
+entity_364,entity_365,relation_type_3
+entity_361,entity_366,relation_type_1
+entity_367,entity_368,relation_type_0
+entity_367,entity_369,relation_type_1
+entity_370,entity_189,relation_type_0
+entity_367,entity_370,relation_type_1
+entity_371,entity_372,relation_type_0
+entity_371,entity_373,relation_type_3
+entity_371,entity_374,relation_type_0
+entity_330,entity_375,relation_type_5
+entity_376,entity_377,relation_type_5
+entity_376,entity_378,relation_type_5
+entity_376,entity_379,relation_type_5
+entity_376,entity_380,relation_type_5
+entity_376,entity_381,relation_type_5
+entity_376,entity_382,relation_type_5
+entity_383,entity_384,relation_type_0
+entity_383,entity_385,relation_type_0
+entity_383,entity_386,relation_type_5
+entity_383,entity_387,relation_type_5
+entity_383,entity_388,relation_type_5
+entity_389,entity_390,relation_type_0
+entity_389,entity_391,relation_type_0
+entity_392,entity_393,relation_type_0
+entity_394,entity_395,relation_type_1
+entity_396,entity_397,relation_type_0
+entity_398,entity_399,relation_type_0
+entity_400,entity_395,relation_type_3
+entity_400,entity_401,relation_type_2
+entity_402,entity_403,relation_type_5
+entity_402,entity_291,relation_type_5
+entity_400,entity_404,relation_type_2
+entity_400,entity_405,relation_type_2
+entity_400,entity_404,relation_type_2
+entity_400,entity_405,relation_type_2
+entity_400,entity_406,relation_type_2
+entity_400,entity_404,relation_type_2
+entity_400,entity_405,relation_type_2
+entity_400,entity_404,relation_type_2
+entity_400,entity_405,relation_type_2
+entity_400,entity_407,relation_type_1
+entity_400,entity_407,relation_type_1
+entity_400,entity_407,relation_type_1
+entity_400,entity_407,relation_type_1
+entity_121,entity_274,relation_type_1
+entity_121,entity_408,relation_type_1
+entity_121,entity_409,relation_type_1
+entity_121,entity_410,relation_type_1
+entity_121,entity_411,relation_type_3
+entity_121,entity_412,relation_type_5
+entity_121,entity_413,relation_type_5
+entity_121,entity_414,relation_type_2
+entity_121,entity_415,relation_type_2
+entity_150,entity_416,relation_type_5
+entity_150,entity_417,relation_type_5
+entity_150,entity_418,relation_type_2
+entity_419,entity_420,relation_type_0
+entity_419,entity_421,relation_type_0
+entity_419,entity_422,relation_type_0
+entity_423,entity_239,relation_type_0
+entity_423,entity_81,relation_type_0
+entity_424,entity_425,relation_type_2
+entity_424,entity_426,relation_type_2
+entity_427,entity_428,relation_type_0
+entity_429,entity_430,relation_type_3
+entity_431,entity_432,relation_type_5
+entity_433,entity_434,relation_type_1
+entity_433,entity_435,relation_type_4
+entity_433,entity_436,relation_type_4
+entity_437,entity_438,relation_type_2
+entity_433,entity_439,relation_type_3
+entity_433,entity_326,relation_type_3
+entity_433,entity_440,relation_type_3
+entity_441,entity_442,relation_type_0
+entity_433,entity_443,relation_type_2
+entity_239,entity_444,relation_type_0
+entity_239,entity_445,relation_type_5
+entity_446,entity_121,relation_type_3
+entity_446,entity_400,relation_type_3
+entity_446,entity_121,relation_type_3
+entity_446,entity_400,relation_type_3
+entity_446,entity_447,relation_type_0
+entity_446,entity_447,relation_type_0
+entity_447,entity_448,relation_type_5
+entity_447,entity_2,relation_type_5
+entity_447,entity_449,relation_type_0
+entity_449,entity_450,relation_type_5
+entity_451,entity_452,relation_type_1
+entity_451,entity_453,relation_type_1
+entity_451,entity_447,relation_type_0
+entity_454,entity_447,relation_type_0
+entity_451,entity_455,relation_type_0
+entity_451,entity_447,relation_type_0
+entity_367,entity_456,relation_type_2
+entity_271,entity_457,relation_type_3
+entity_458,entity_459,relation_type_0
+entity_458,entity_459,relation_type_0
+entity_458,entity_324,relation_type_0
+entity_458,entity_324,relation_type_0
+entity_460,entity_461,relation_type_0
+entity_462,entity_463,relation_type_2
+entity_464,entity_463,relation_type_5
+entity_464,entity_465,relation_type_5
+entity_109,entity_466,relation_type_0
+entity_467,entity_468,relation_type_0
+entity_469,entity_470,relation_type_0
+entity_467,entity_471,relation_type_3
+entity_467,entity_472,relation_type_0
+entity_467,entity_473,relation_type_1
+entity_474,entity_475,relation_type_0
+entity_467,entity_476,relation_type_5
+entity_467,entity_477,relation_type_5
+entity_213,entity_478,relation_type_3
+entity_213,entity_220,relation_type_3
+entity_479,entity_480,relation_type_5
+entity_479,entity_481,relation_type_5
+entity_479,entity_482,relation_type_5
+entity_392,entity_483,relation_type_5
+entity_392,entity_484,relation_type_5
+entity_392,entity_483,relation_type_5
+entity_392,entity_484,relation_type_5
+entity_485,entity_486,relation_type_0
+entity_485,entity_487,relation_type_0
+entity_488,entity_489,relation_type_5
+entity_488,entity_490,relation_type_5
+entity_432,entity_491,relation_type_1
+entity_432,entity_492,relation_type_1
+entity_432,entity_493,relation_type_1
+entity_432,entity_494,relation_type_1
+entity_488,entity_495,relation_type_3
+entity_488,entity_496,relation_type_5
+entity_488,entity_497,relation_type_5
+entity_488,entity_498,relation_type_5
+entity_488,entity_499,relation_type_0
+entity_488,entity_500,relation_type_0
+entity_501,entity_502,relation_type_0
+entity_501,entity_503,relation_type_0
+entity_488,entity_491,relation_type_0
+entity_488,entity_504,relation_type_0
+entity_488,entity_505,relation_type_0
+entity_488,entity_506,relation_type_0
+entity_507,entity_508,relation_type_0
+entity_507,entity_509,relation_type_0
+entity_510,entity_511,relation_type_5
+entity_512,entity_513,relation_type_0
+entity_514,entity_230,relation_type_1
+entity_514,entity_316,relation_type_1
+entity_515,entity_516,relation_type_1
+entity_515,entity_517,relation_type_2
+entity_518,entity_519,relation_type_0
+entity_520,entity_521,relation_type_5
+entity_522,entity_523,relation_type_5
+entity_524,entity_525,relation_type_5
+entity_526,entity_527,relation_type_1
+entity_524,entity_528,relation_type_5
+entity_524,entity_529,relation_type_5
+entity_524,entity_530,relation_type_5
+entity_524,entity_531,relation_type_5
+entity_524,entity_532,relation_type_5
+entity_392,entity_533,relation_type_3
+entity_522,entity_392,relation_type_0
+entity_534,entity_535,relation_type_3
+entity_534,entity_536,relation_type_3
+entity_534,entity_537,relation_type_3
+entity_534,entity_538,relation_type_3
+entity_539,entity_540,relation_type_0
+entity_541,entity_542,relation_type_2
+entity_543,entity_392,relation_type_1
+entity_329,entity_544,relation_type_5
+entity_545,entity_546,relation_type_0
+entity_547,entity_548,relation_type_0
+entity_549,entity_548,relation_type_0
+entity_550,entity_545,relation_type_3
+entity_545,entity_551,relation_type_1
+entity_552,entity_553,relation_type_5
+entity_554,entity_555,relation_type_3
+entity_554,entity_556,relation_type_3
+entity_554,entity_557,relation_type_0
+entity_554,entity_557,relation_type_0
+entity_554,entity_392,relation_type_3
+entity_554,entity_558,relation_type_0
+entity_559,entity_560,relation_type_5
+entity_559,entity_561,relation_type_5
+entity_560,entity_562,relation_type_2
+entity_563,entity_564,relation_type_2
+entity_563,entity_564,relation_type_2
+entity_565,entity_535,relation_type_3
+entity_566,entity_126,relation_type_5
+entity_566,entity_567,relation_type_5
+entity_568,entity_569,relation_type_1
+entity_570,entity_571,relation_type_1
+entity_570,entity_567,relation_type_1
+entity_570,entity_572,relation_type_1
+entity_573,entity_574,relation_type_5
+entity_575,entity_576,relation_type_1
+entity_575,entity_577,relation_type_0
+entity_578,entity_579,relation_type_4
+entity_580,entity_581,relation_type_5
+entity_580,entity_582,relation_type_5
+entity_580,entity_583,relation_type_5
+entity_580,entity_581,relation_type_2
+entity_580,entity_584,relation_type_2
+entity_580,entity_585,relation_type_2
+entity_580,entity_586,relation_type_5
+entity_580,entity_587,relation_type_5
+entity_580,entity_588,relation_type_5
+entity_589,entity_575,relation_type_3
+entity_590,entity_581,relation_type_5
+entity_590,entity_591,relation_type_5
+entity_580,entity_586,relation_type_5
+entity_580,entity_592,relation_type_5
+entity_580,entity_593,relation_type_5
+entity_239,entity_594,relation_type_0
+entity_578,entity_595,relation_type_0
+entity_596,entity_597,relation_type_3
+entity_598,entity_599,relation_type_5
+entity_598,entity_600,relation_type_5
+entity_598,entity_601,relation_type_5
+entity_602,entity_603,relation_type_0
+entity_400,entity_604,relation_type_5
+entity_400,entity_605,relation_type_5
+entity_606,entity_607,relation_type_0
+entity_404,entity_608,relation_type_5
+entity_606,entity_609,relation_type_0
+entity_606,entity_610,relation_type_0
+entity_611,entity_612,relation_type_0
+entity_613,entity_614,relation_type_3
+entity_615,entity_616,relation_type_0
+entity_615,entity_617,relation_type_0
+entity_618,entity_430,relation_type_5
+entity_392,entity_393,relation_type_5
+entity_57,entity_619,relation_type_0
+entity_57,entity_7,relation_type_0
+entity_620,entity_621,relation_type_5
+entity_622,entity_623,relation_type_5
+entity_624,entity_625,relation_type_1
+entity_624,entity_626,relation_type_1
+entity_627,entity_628,relation_type_3
+entity_627,entity_629,relation_type_3
+entity_630,entity_202,relation_type_3
+entity_630,entity_462,relation_type_3
+entity_630,entity_631,relation_type_3
+entity_632,entity_633,relation_type_0
+entity_634,entity_635,relation_type_0
+entity_636,entity_637,relation_type_5
+entity_636,entity_638,relation_type_1
+entity_639,entity_324,relation_type_2
+entity_639,entity_324,relation_type_2
+entity_332,entity_331,relation_type_3
+entity_332,entity_640,relation_type_3
+entity_641,entity_642,relation_type_0
+entity_643,entity_644,relation_type_1
+entity_645,entity_646,relation_type_5
+entity_647,entity_648,relation_type_1
+entity_649,entity_650,relation_type_1
+entity_651,entity_652,relation_type_0
+entity_651,entity_653,relation_type_0
+entity_654,entity_655,relation_type_0
+entity_656,entity_657,relation_type_0
+entity_656,entity_658,relation_type_0
+entity_656,entity_659,relation_type_0
+entity_656,entity_657,relation_type_0
+entity_656,entity_659,relation_type_0
+entity_660,entity_661,relation_type_1
+entity_660,entity_662,relation_type_1
+entity_660,entity_663,relation_type_1
+entity_660,entity_53,relation_type_1
+entity_660,entity_664,relation_type_1
+entity_665,entity_666,relation_type_1
+entity_665,entity_667,relation_type_1
+entity_665,entity_668,relation_type_1
+entity_669,entity_670,relation_type_0
+entity_670,entity_671,relation_type_5
+entity_672,entity_673,relation_type_1
+entity_674,entity_675,relation_type_0
+entity_660,entity_676,relation_type_2
+entity_660,entity_677,relation_type_5
+entity_678,entity_679,relation_type_3
+entity_680,entity_679,relation_type_3
+entity_660,entity_681,relation_type_2
+entity_678,entity_682,relation_type_3
+entity_680,entity_682,relation_type_3
+entity_259,entity_683,relation_type_0
+entity_259,entity_684,relation_type_0
+entity_685,entity_686,relation_type_5
+entity_686,entity_686,relation_type_5
+entity_687,entity_688,relation_type_0
+entity_689,entity_690,relation_type_5
+entity_691,entity_692,relation_type_5
+entity_693,entity_694,relation_type_5
+entity_693,entity_695,relation_type_5
+entity_693,entity_696,relation_type_5
+entity_209,entity_697,relation_type_4
+entity_209,entity_698,relation_type_4
+entity_209,entity_699,relation_type_5
+entity_209,entity_700,relation_type_0
+entity_209,entity_701,relation_type_4
+entity_702,entity_703,relation_type_0
+entity_704,entity_705,relation_type_1
+entity_704,entity_706,relation_type_1
+entity_704,entity_324,relation_type_1
+entity_707,entity_708,relation_type_1
+entity_707,entity_709,relation_type_1
+entity_704,entity_710,relation_type_2
+entity_704,entity_711,relation_type_2
+entity_712,entity_713,relation_type_5
+entity_714,entity_715,relation_type_3
+entity_714,entity_716,relation_type_3
+entity_714,entity_717,relation_type_3
+entity_718,entity_719,relation_type_5
+entity_718,entity_720,relation_type_5
+entity_718,entity_721,relation_type_5
+entity_718,entity_722,relation_type_5
+entity_723,entity_718,relation_type_5
+entity_723,entity_724,relation_type_2
+entity_725,entity_726,relation_type_5
+entity_725,entity_727,relation_type_5
+entity_728,entity_729,relation_type_5
+entity_730,entity_731,relation_type_2
+entity_728,entity_202,relation_type_2
+entity_728,entity_201,relation_type_2
+entity_728,entity_732,relation_type_2
+entity_733,entity_734,relation_type_0
+entity_728,entity_735,relation_type_1
+entity_735,entity_736,relation_type_2
+entity_735,entity_737,relation_type_2
+entity_728,entity_738,relation_type_0
+entity_728,entity_739,relation_type_5
+entity_740,entity_741,relation_type_0
+entity_740,entity_742,relation_type_2
+entity_740,entity_743,relation_type_2
+entity_740,entity_744,relation_type_3
+entity_740,entity_745,relation_type_0
+entity_743,entity_741,relation_type_0
+entity_743,entity_746,relation_type_2
+entity_743,entity_747,relation_type_0
+entity_743,entity_748,relation_type_0
+entity_749,entity_750,relation_type_3
+entity_751,entity_752,relation_type_5
+entity_753,entity_81,relation_type_5
+entity_754,entity_755,relation_type_3
+entity_754,entity_756,relation_type_2
+entity_757,entity_758,relation_type_0
+entity_753,entity_239,relation_type_3
+entity_753,entity_759,relation_type_3
+entity_753,entity_760,relation_type_3
+entity_753,entity_761,relation_type_0
+entity_753,entity_384,relation_type_0
+entity_753,entity_762,relation_type_0
+entity_753,entity_763,relation_type_0
+entity_764,entity_765,relation_type_0
+entity_764,entity_766,relation_type_0
+entity_767,entity_768,relation_type_2
+entity_769,entity_770,relation_type_2
+entity_771,entity_772,relation_type_3
+entity_773,entity_774,relation_type_3
+entity_773,entity_775,relation_type_3
+entity_776,entity_777,relation_type_3
+entity_778,entity_778,relation_type_0
+entity_779,entity_780,relation_type_1
+entity_779,entity_781,relation_type_1
+entity_779,entity_782,relation_type_0
+entity_782,entity_779,relation_type_3
+entity_779,entity_783,relation_type_2
+entity_779,entity_784,relation_type_3
+entity_779,entity_785,relation_type_3
+entity_779,entity_786,relation_type_3
+entity_787,entity_788,relation_type_1
+entity_789,entity_790,relation_type_5
+entity_789,entity_791,relation_type_5
+entity_792,entity_793,relation_type_5
+entity_792,entity_794,relation_type_5
+entity_792,entity_244,relation_type_5
+entity_792,entity_795,relation_type_2
+entity_792,entity_796,relation_type_2
+entity_797,entity_798,relation_type_0
+entity_799,entity_797,relation_type_5
+entity_800,entity_801,relation_type_1
+entity_802,entity_803,relation_type_5
+entity_804,entity_805,relation_type_2
+entity_804,entity_806,relation_type_0
+entity_807,entity_808,relation_type_2
+entity_807,entity_809,relation_type_2
+entity_807,entity_810,relation_type_0
+entity_807,entity_811,relation_type_0
+entity_807,entity_417,relation_type_0
+entity_812,entity_813,relation_type_1
+entity_814,entity_815,relation_type_0
+entity_816,entity_815,relation_type_0
+entity_817,entity_818,relation_type_4
+entity_817,entity_819,relation_type_4
+entity_817,entity_820,relation_type_4
+entity_817,entity_818,relation_type_4
+entity_817,entity_819,relation_type_4
+entity_817,entity_820,relation_type_4
+entity_821,entity_185,relation_type_0
+entity_817,entity_822,relation_type_0
+entity_823,entity_824,relation_type_2
+entity_825,entity_826,relation_type_5
+entity_827,entity_828,relation_type_1
+entity_829,entity_830,relation_type_3
+entity_831,entity_832,relation_type_5
+entity_831,entity_833,relation_type_1
+entity_831,entity_834,relation_type_5
+entity_835,entity_153,relation_type_5
+entity_836,entity_837,relation_type_0
+entity_838,entity_839,relation_type_1
+entity_838,entity_840,relation_type_4
+entity_838,entity_841,relation_type_4
+entity_842,entity_843,relation_type_5
+entity_842,entity_844,relation_type_0
+entity_842,entity_845,relation_type_0
+entity_842,entity_846,relation_type_0
+entity_842,entity_847,relation_type_0
+entity_842,entity_848,relation_type_0
+entity_849,entity_850,relation_type_3
+entity_849,entity_851,relation_type_0
+entity_852,entity_853,relation_type_2
+entity_852,entity_53,relation_type_2
+entity_854,entity_855,relation_type_3
+entity_856,entity_857,relation_type_3
+entity_856,entity_857,relation_type_3
+entity_842,entity_150,relation_type_4
+entity_842,entity_858,relation_type_4
+entity_859,entity_860,relation_type_0
+entity_861,entity_862,relation_type_0
+entity_859,entity_863,relation_type_1
+entity_859,entity_864,relation_type_1
+entity_859,entity_865,relation_type_3
+entity_859,entity_866,relation_type_0
+entity_859,entity_867,relation_type_5
+entity_859,entity_868,relation_type_5
+entity_859,entity_869,relation_type_5
+entity_859,entity_870,relation_type_5
+entity_871,entity_872,relation_type_5
+entity_873,entity_874,relation_type_5
+entity_875,entity_876,relation_type_3
+entity_877,entity_878,relation_type_0
+entity_877,entity_125,relation_type_5
+entity_877,entity_879,relation_type_5
+entity_880,entity_881,relation_type_5
+entity_882,entity_883,relation_type_0
+entity_880,entity_882,relation_type_5
+entity_882,entity_324,relation_type_3
+entity_880,entity_884,relation_type_5
+entity_877,entity_885,relation_type_5
+entity_877,entity_886,relation_type_5
+entity_877,entity_887,relation_type_5
+entity_877,entity_888,relation_type_5
+entity_877,entity_889,relation_type_5
+entity_890,entity_891,relation_type_0
+entity_890,entity_892,relation_type_0
+entity_890,entity_893,relation_type_0
+entity_894,entity_892,relation_type_0
+entity_894,entity_891,relation_type_0
+entity_894,entity_895,relation_type_0
+entity_890,entity_896,relation_type_0
+entity_890,entity_897,relation_type_0
+entity_898,entity_899,relation_type_0
+entity_898,entity_897,relation_type_0
+entity_898,entity_900,relation_type_0
+entity_898,entity_901,relation_type_0
+entity_902,entity_903,relation_type_3
+entity_904,entity_905,relation_type_3
+entity_904,entity_903,relation_type_3
+entity_906,entity_907,relation_type_1
+entity_906,entity_908,relation_type_1
+entity_909,entity_910,relation_type_1
+entity_909,entity_911,relation_type_3
+entity_909,entity_912,relation_type_1
+entity_909,entity_657,relation_type_1
+entity_330,entity_913,relation_type_3
+entity_330,entity_914,relation_type_3
+entity_331,entity_915,relation_type_5
+entity_916,entity_917,relation_type_2
+entity_918,entity_919,relation_type_1
+entity_918,entity_920,relation_type_1
+entity_918,entity_921,relation_type_5
+entity_918,entity_922,relation_type_5
+entity_918,entity_923,relation_type_0
+entity_916,entity_924,relation_type_2
+entity_916,entity_925,relation_type_2
+entity_926,entity_239,relation_type_0
+entity_927,entity_928,relation_type_3
+entity_928,entity_125,relation_type_5
+entity_929,entity_930,relation_type_5
+entity_929,entity_931,relation_type_2
+entity_929,entity_932,relation_type_0
+entity_929,entity_933,relation_type_2
+entity_934,entity_935,relation_type_5
+entity_936,entity_937,relation_type_4
+entity_938,entity_937,relation_type_4
+entity_936,entity_939,relation_type_1
+entity_940,entity_941,relation_type_2
+entity_942,entity_943,relation_type_5
+entity_944,entity_945,relation_type_3
+entity_946,entity_947,relation_type_0
+entity_946,entity_948,relation_type_0
+entity_949,entity_947,relation_type_0
+entity_949,entity_948,relation_type_0
+entity_947,entity_950,relation_type_2
+entity_948,entity_950,relation_type_2
+entity_951,entity_952,relation_type_3
+entity_953,entity_954,relation_type_5
+entity_951,entity_955,relation_type_0
+entity_951,entity_956,relation_type_2
+entity_957,entity_958,relation_type_4
+entity_957,entity_959,relation_type_1
+entity_957,entity_960,relation_type_1
+entity_957,entity_961,relation_type_1
+entity_957,entity_962,relation_type_1
+entity_957,entity_963,relation_type_1
+entity_957,entity_964,relation_type_5
+entity_965,entity_966,relation_type_5
+entity_967,entity_968,relation_type_5
+entity_967,entity_969,relation_type_5
+entity_967,entity_970,relation_type_5
+entity_967,entity_971,relation_type_0
+entity_972,entity_973,relation_type_0
+entity_974,entity_975,relation_type_5
+entity_973,entity_976,relation_type_0
+entity_973,entity_977,relation_type_0
+entity_973,entity_978,relation_type_0
+entity_979,entity_109,relation_type_1
+entity_979,entity_7,relation_type_1
+entity_980,entity_967,relation_type_1
+entity_981,entity_297,relation_type_3
+entity_981,entity_237,relation_type_3
+entity_981,entity_982,relation_type_3
+entity_967,entity_983,relation_type_0
+entity_967,entity_74,relation_type_1
+entity_984,entity_899,relation_type_5
+entity_984,entity_985,relation_type_5
+entity_984,entity_986,relation_type_5
+entity_984,entity_987,relation_type_5
+entity_984,entity_988,relation_type_5
+entity_984,entity_897,relation_type_5
+entity_984,entity_989,relation_type_1
+entity_984,entity_899,relation_type_5
+entity_984,entity_985,relation_type_5
+entity_984,entity_986,relation_type_5
+entity_984,entity_987,relation_type_5
+entity_984,entity_988,relation_type_5
+entity_984,entity_897,relation_type_5
+entity_984,entity_989,relation_type_1
+entity_990,entity_991,relation_type_2
+entity_992,entity_899,relation_type_5
+entity_992,entity_897,relation_type_5
+entity_992,entity_993,relation_type_5
+entity_994,entity_995,relation_type_5
+entity_994,entity_897,relation_type_5
+entity_994,entity_996,relation_type_2
+entity_990,entity_986,relation_type_0
+entity_990,entity_987,relation_type_0
+entity_997,entity_899,relation_type_0
+entity_997,entity_897,relation_type_0
+entity_998,entity_999,relation_type_0
+entity_998,entity_901,relation_type_0
+entity_998,entity_897,relation_type_0
+entity_1000,entity_1001,relation_type_2
+entity_1002,entity_1003,relation_type_0
+entity_1002,entity_1004,relation_type_0
+entity_1005,entity_1006,relation_type_3
+entity_1005,entity_37,relation_type_3
+entity_1007,entity_1008,relation_type_5
+entity_1009,entity_1008,relation_type_5
+entity_1010,entity_1011,relation_type_5
+entity_1012,entity_202,relation_type_5
+entity_150,entity_1013,relation_type_1
+entity_1014,entity_212,relation_type_5
+entity_1014,entity_81,relation_type_5
+entity_1014,entity_1015,relation_type_0
+entity_1016,entity_1015,relation_type_0
+entity_1017,entity_1015,relation_type_0
+entity_1018,entity_1015,relation_type_0
+entity_1019,entity_1015,relation_type_0
+entity_1020,entity_1015,relation_type_0
+entity_1021,entity_1015,relation_type_0
+entity_1022,entity_1015,relation_type_0
+entity_1023,entity_1015,relation_type_0
+entity_1024,entity_1015,relation_type_0
+entity_1025,entity_1026,relation_type_5
+entity_1027,entity_1028,relation_type_5
+entity_1027,entity_1029,relation_type_5
+entity_1027,entity_1030,relation_type_1
+entity_1027,entity_1031,relation_type_1
+entity_237,entity_1032,relation_type_5
+entity_1032,entity_1033,relation_type_5
+entity_1032,entity_1034,relation_type_5
+entity_1035,entity_1036,relation_type_0
+entity_997,entity_1037,relation_type_0
+entity_1038,entity_1039,relation_type_1
+entity_1038,entity_830,relation_type_1
+entity_831,entity_1040,relation_type_0
+entity_831,entity_830,relation_type_0
+entity_1040,entity_1041,relation_type_5
+entity_1040,entity_1042,relation_type_5
+entity_830,entity_1041,relation_type_5
+entity_830,entity_1042,relation_type_5
+entity_1043,entity_1044,relation_type_0
+entity_1043,entity_1045,relation_type_0
+entity_1046,entity_997,relation_type_2
+entity_367,entity_795,relation_type_0
+entity_369,entity_417,relation_type_5
+entity_1047,entity_1048,relation_type_5
+entity_1047,entity_1049,relation_type_5
+entity_1050,entity_1051,relation_type_2
+entity_1052,entity_1053,relation_type_0
+entity_1054,entity_1055,relation_type_2
+entity_1054,entity_1056,relation_type_2
+entity_1054,entity_1057,relation_type_5
+entity_1054,entity_1058,relation_type_5
+entity_1054,entity_277,relation_type_5
+entity_1054,entity_1059,relation_type_5
+entity_1054,entity_138,relation_type_5
+entity_1054,entity_109,relation_type_5
+entity_1054,entity_1060,relation_type_5
+entity_1054,entity_1061,relation_type_3
+entity_1054,entity_109,relation_type_3
+entity_1054,entity_1062,relation_type_3
+entity_1063,entity_1064,relation_type_5
+entity_1055,entity_2,relation_type_0
+entity_1065,entity_1066,relation_type_2
+entity_507,entity_1067,relation_type_0
+entity_1068,entity_1069,relation_type_5
+entity_1068,entity_1070,relation_type_5
+entity_1071,entity_1072,relation_type_4
+entity_1073,entity_1074,relation_type_0
+entity_1075,entity_1076,relation_type_3
+entity_1077,entity_1078,relation_type_0
+entity_1077,entity_1076,relation_type_0
+entity_1068,entity_1079,relation_type_0
+entity_1079,entity_1080,relation_type_0
+entity_1068,entity_1081,relation_type_2
+entity_1068,entity_1082,relation_type_0
+entity_1082,entity_1083,relation_type_0
+entity_1082,entity_1084,relation_type_0
+entity_1082,entity_1085,relation_type_0
+entity_1068,entity_1086,relation_type_0
+entity_1068,entity_1087,relation_type_3
+entity_1068,entity_1088,relation_type_3
+entity_1068,entity_1089,relation_type_3
+entity_1068,entity_379,relation_type_3
+entity_1090,entity_1091,relation_type_5
+entity_1092,entity_392,relation_type_0
+entity_1090,entity_1093,relation_type_0
+entity_1093,entity_1094,relation_type_0
+entity_1093,entity_322,relation_type_0
+entity_1090,entity_1095,relation_type_0
+entity_1093,entity_710,relation_type_0
+entity_1093,entity_1096,relation_type_0
+entity_50,entity_1097,relation_type_0
+entity_50,entity_1097,relation_type_5
+entity_1098,entity_1099,relation_type_2
+entity_1100,entity_1101,relation_type_2
+entity_1100,entity_1102,relation_type_0
+entity_1100,entity_1103,relation_type_2
+entity_1104,entity_1105,relation_type_0
+entity_1104,entity_1106,relation_type_0
+entity_1107,entity_1108,relation_type_2
+entity_1107,entity_1109,relation_type_2
+entity_1107,entity_1110,relation_type_2
+entity_1107,entity_1111,relation_type_3
+entity_1107,entity_1112,relation_type_3
+entity_1113,entity_1114,relation_type_0
+entity_1115,entity_1116,relation_type_0
+entity_1115,entity_1117,relation_type_0
+entity_1118,entity_1119,relation_type_1
+entity_1118,entity_1119,relation_type_1
+entity_1120,entity_1121,relation_type_3
+entity_1121,entity_1122,relation_type_0
+entity_1120,entity_1123,relation_type_3
+entity_1124,entity_1125,relation_type_3
+entity_1124,entity_1125,relation_type_0
+entity_1120,entity_1126,relation_type_0
+entity_1124,entity_1127,relation_type_0
+entity_1124,entity_1128,relation_type_5
+entity_1124,entity_1129,relation_type_5
+entity_1124,entity_1130,relation_type_5
+entity_1120,entity_1131,relation_type_3
+entity_1120,entity_1129,relation_type_3
+entity_1132,entity_110,relation_type_3
+entity_1120,entity_1133,relation_type_1
+entity_109,entity_1133,relation_type_1
+entity_1120,entity_1134,relation_type_2
+entity_1120,entity_1135,relation_type_2
+entity_1136,entity_1137,relation_type_5
+entity_1136,entity_1138,relation_type_5
+entity_1120,entity_1139,relation_type_3
+entity_1120,entity_1140,relation_type_3
+entity_1141,entity_1142,relation_type_5
+entity_1141,entity_1143,relation_type_5
+entity_1141,entity_1144,relation_type_0
+entity_1141,entity_1145,relation_type_4
+entity_1141,entity_324,relation_type_3
+entity_1146,entity_1147,relation_type_5
+entity_1148,entity_1149,relation_type_5
+entity_1150,entity_1151,relation_type_2
+entity_1152,entity_1153,relation_type_1
+entity_1154,entity_1155,relation_type_3
+entity_1154,entity_1156,relation_type_0
+entity_1157,entity_1158,relation_type_5
+entity_1159,entity_1160,relation_type_1
+entity_1154,entity_1161,relation_type_2
+entity_1162,entity_1163,relation_type_5
+entity_1162,entity_1164,relation_type_5
+entity_1162,entity_1165,relation_type_5
+entity_1166,entity_1167,relation_type_1
+entity_1168,entity_1169,relation_type_3
+entity_1170,entity_1171,relation_type_2
+entity_1170,entity_970,relation_type_5
+entity_1170,entity_1172,relation_type_5
+entity_1173,entity_1172,relation_type_5
+entity_1174,entity_1175,relation_type_5
+entity_1176,entity_202,relation_type_0
+entity_1177,entity_1178,relation_type_1
+entity_1179,entity_1178,relation_type_1
+entity_1180,entity_1178,relation_type_5
+entity_1181,entity_1182,relation_type_0
+entity_1181,entity_1183,relation_type_3
+entity_1181,entity_1183,relation_type_3
+entity_1181,entity_1184,relation_type_3
+entity_1185,entity_1186,relation_type_3
+entity_1185,entity_886,relation_type_3
+entity_1185,entity_901,relation_type_3
+entity_1185,entity_1187,relation_type_3
+entity_1185,entity_1188,relation_type_3
+entity_1185,entity_1189,relation_type_3
+entity_1185,entity_887,relation_type_3
+entity_1190,entity_1191,relation_type_2
+entity_1190,entity_1037,relation_type_2
+entity_1192,entity_1193,relation_type_2
+entity_1194,entity_1195,relation_type_0
+entity_1194,entity_208,relation_type_5
+entity_1196,entity_1197,relation_type_3
+entity_1196,entity_466,relation_type_3
+entity_1196,entity_1198,relation_type_3
+entity_1199,entity_1197,relation_type_3
+entity_1199,entity_1200,relation_type_3
+entity_1201,entity_1202,relation_type_0
+entity_567,entity_1203,relation_type_3
+entity_567,entity_1204,relation_type_3
+entity_1205,entity_1206,relation_type_5
+entity_1205,entity_1203,relation_type_0
+entity_1207,entity_1208,relation_type_0
+entity_1207,entity_1209,relation_type_0
+entity_1210,entity_439,relation_type_5
+entity_1210,entity_1211,relation_type_5
+entity_1210,entity_439,relation_type_5
+entity_1210,entity_1211,relation_type_5
+entity_1212,entity_1213,relation_type_0
+entity_1212,entity_1214,relation_type_3
+entity_1215,entity_1216,relation_type_0
+entity_1217,entity_1218,relation_type_3
+entity_1217,entity_1219,relation_type_3
+entity_1220,entity_1221,relation_type_3
+entity_1220,entity_1222,relation_type_2
+entity_1220,entity_1223,relation_type_3
+entity_1220,entity_1224,relation_type_3
+entity_1225,entity_1226,relation_type_0
+entity_1225,entity_1227,relation_type_3
+entity_1225,entity_53,relation_type_2
+entity_1225,entity_1228,relation_type_0
+entity_1229,entity_1230,relation_type_2
+entity_1231,entity_1232,relation_type_0
+entity_1231,entity_1233,relation_type_1
+entity_1231,entity_1234,relation_type_1
+entity_1231,entity_1235,relation_type_1
+entity_1231,entity_1236,relation_type_1
+entity_1231,entity_1237,relation_type_1
+entity_1238,entity_1239,relation_type_0
+entity_1240,entity_960,relation_type_1
+entity_1240,entity_1241,relation_type_1
+entity_1242,entity_1243,relation_type_0
+entity_1242,entity_1244,relation_type_0
+entity_1242,entity_1245,relation_type_0
+entity_1246,entity_1247,relation_type_0
+entity_1246,entity_1242,relation_type_0
+entity_1248,entity_1249,relation_type_5
+entity_1248,entity_1250,relation_type_5
+entity_1251,entity_1252,relation_type_2
+entity_1251,entity_1253,relation_type_0
+entity_1254,entity_1255,relation_type_0
+entity_1254,entity_1256,relation_type_0
+entity_1254,entity_531,relation_type_0
+entity_1254,entity_1257,relation_type_0
+entity_1258,entity_1259,relation_type_0
+entity_1260,entity_1261,relation_type_5
+entity_1261,entity_324,relation_type_5
+entity_1260,entity_1262,relation_type_2
+entity_1260,entity_1263,relation_type_2
+entity_504,entity_1264,relation_type_5
+entity_1265,entity_1264,relation_type_5
+entity_1266,entity_1267,relation_type_0
+entity_1266,entity_1268,relation_type_0
+entity_1266,entity_392,relation_type_0
+entity_392,entity_1269,relation_type_0
+entity_392,entity_1270,relation_type_0
+entity_392,entity_1271,relation_type_0
+entity_1272,entity_1273,relation_type_0
+entity_1272,entity_1225,relation_type_0
+entity_1266,entity_1272,relation_type_1
+entity_1273,entity_1274,relation_type_2
+entity_1275,entity_1276,relation_type_0
+entity_1266,entity_1277,relation_type_1
+entity_1277,entity_1278,relation_type_5
+entity_1277,entity_970,relation_type_2
+entity_1279,entity_1280,relation_type_5
+entity_1279,entity_1281,relation_type_0
+entity_1282,entity_1283,relation_type_1
+entity_1282,entity_1284,relation_type_1
+entity_1285,entity_1286,relation_type_1
+entity_1285,entity_1287,relation_type_4
+entity_1285,entity_1288,relation_type_0
+entity_1289,entity_766,relation_type_5
+entity_1289,entity_1290,relation_type_5
+entity_1291,entity_1292,relation_type_0
+entity_1285,entity_1293,relation_type_5
+entity_1294,entity_1295,relation_type_0
+entity_1296,entity_1297,relation_type_5
+entity_183,entity_1298,relation_type_1
+entity_183,entity_535,relation_type_1
+entity_183,entity_1299,relation_type_1
+entity_1300,entity_1301,relation_type_0
+entity_1300,entity_1302,relation_type_3
+entity_1300,entity_1303,relation_type_3
+entity_1304,entity_1305,relation_type_0
+entity_1304,entity_1306,relation_type_0
+entity_1304,entity_1307,relation_type_3
+entity_1304,entity_1308,relation_type_0
+entity_1309,entity_1310,relation_type_5
+entity_1311,entity_1312,relation_type_5
+entity_1311,entity_1313,relation_type_5
+entity_1311,entity_1314,relation_type_5
+entity_1315,entity_1316,relation_type_0
+entity_1315,entity_1317,relation_type_0
+entity_1311,entity_237,relation_type_1
+entity_1318,entity_1319,relation_type_5
+entity_1318,entity_1320,relation_type_5
+entity_1321,entity_1322,relation_type_2
+entity_1321,entity_1323,relation_type_2
+entity_1321,entity_1324,relation_type_5
+entity_1321,entity_1325,relation_type_5
+entity_1321,entity_1326,relation_type_5
+entity_1321,entity_1327,relation_type_5
+entity_1321,entity_1328,relation_type_5
+entity_1321,entity_1329,relation_type_0
+entity_1330,entity_1331,relation_type_2
+entity_1321,entity_1332,relation_type_5
+entity_1321,entity_1333,relation_type_5
+entity_1334,entity_392,relation_type_0
+entity_1335,entity_1336,relation_type_5
+entity_1335,entity_1037,relation_type_2
+entity_1337,entity_1338,relation_type_5
+entity_1337,entity_1339,relation_type_5
+entity_1337,entity_1340,relation_type_5
+entity_1337,entity_1341,relation_type_0
+entity_1337,entity_766,relation_type_5
+entity_1337,entity_1342,relation_type_5
+entity_1337,entity_1343,relation_type_5
+entity_1100,entity_1344,relation_type_0
+entity_1100,entity_1345,relation_type_0
+entity_1346,entity_1347,relation_type_0
+entity_1346,entity_1344,relation_type_0
+entity_1348,entity_1349,relation_type_0
+entity_1348,entity_1350,relation_type_0
+entity_1351,entity_1352,relation_type_5
+entity_1351,entity_1350,relation_type_5
+entity_1348,entity_1353,relation_type_2
+entity_1348,entity_1350,relation_type_0
+entity_1346,entity_1354,relation_type_5
+entity_1346,entity_1355,relation_type_5
+entity_1356,entity_1357,relation_type_0

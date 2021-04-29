@@ -1,6 +1,7 @@
 """
 """
 import sys
+import os
 sys.path.append("../")
 
 import csv
@@ -38,6 +39,15 @@ def get_entity_and_relation_csv(T_labeled_triples_path):
 
     get_triples_with_T_label("../csvs/labeled_relation_triples.csv")
 
+    # get all clusters: 6 type
+    relation_type = dict()
+    for i in range(6):
+        with open("../data/new-cluster-"+str(i)+".txt", "r") as rf:
+            VPs = rf.readlines()
+            for VP in VPs:
+                relation_type[VP.strip()] = i
+    print(relation_type)
+    os.system("pause")
     print("----------get entity and relation csv----------")
 
     entities = set()
@@ -78,8 +88,8 @@ def get_entity_and_relation_csv(T_labeled_triples_path):
 
             # generate relation_csv, [:START_ID, :END_ID, :TYPE] -> [head_entity_ID, tail_entity_ID, relation]
             if (head_entity_ID, tail_entity_ID, line[1]) not in triples_set:
-                relation_csv.writerow([head_entity_ID, tail_entity_ID, line[1]])
-                triples_set.add((head_entity_ID, tail_entity_ID, line[1]))
+                relation_csv.writerow([head_entity_ID, tail_entity_ID, "relation_type_"+str(relation_type[line[1].strip()])])
+                triples_set.add((head_entity_ID, tail_entity_ID, "relation_type_"+str(relation_type[line[1].strip()])))
 
 
 

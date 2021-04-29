@@ -3,9 +3,9 @@
 ## Paper link
 [Paper link](https://ieeexplore.ieee.org/abstract/document/7884609)
 
-## Preface
-- __Limited to my ability, there are still many work to do.__
-- __I would appreciate it if you could give me a hand on this work: guidance and suggestions, etc.__
+## Preface😄
+- __Limited to my ability, there is still much root for improvement.__
+- __I would appreciate it if you could give me some advice on this work :)__
 
 
 ## The architecture of HDSKG is as follows:

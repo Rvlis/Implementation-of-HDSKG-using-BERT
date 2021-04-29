@@ -1,5 +1,13 @@
 # The implementation of HDSKG using BERT model
+
+## Paper link
 [Paper link](https://ieeexplore.ieee.org/abstract/document/7884609)
+
+## Preface
+- __Limited to my ability, there are still many work to do.__
+- __I would appreciate it if you could give me a hand on this work: guidance and suggestions, etc.__
+
+
 ## The architecture of HDSKG is as follows:
 <!-- ![HDSKG-Framework](res/img/HDSKG-Framework.jpg) -->
 <div align="center">
@@ -34,15 +42,13 @@
 ## Test Bert Model
 Compared with previous __0.76__, accuracy is improved to __0.82__ now.
 The `checkpoint` file will be uploaded soon.
-__TODO__
 
 ## Knowledge Graph
 ![KG](res/img/KG-neo4j.jpg)
 
 ## TODO
 - package all parts
-- __Limited to my ability, there are many work to do.__
-- __I would appreciate it if you could give me a hand on this work: guidance and suggestions, etc.__
+- cluster all relations
 
 
 

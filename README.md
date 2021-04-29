@@ -4,7 +4,7 @@
 [Paper link](https://ieeexplore.ieee.org/abstract/document/7884609)
 
 ## Preface😘
-- __Limited to my ability, there is still much root for improvement. 😂__
+- __Limited to my ability, there is still much room for improvement. 😂__
 - __I would appreciate it if you could give me some advice on this work. 😄😀__
 
 

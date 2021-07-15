@@ -5,7 +5,7 @@
 
 ## Preface😘
 - __Limited to my ability, there is still much room for improvement. 😂__
-- __I would appreciate it if you could give me some advice on this work. 😄😀__
+- __I would appreciate it if you could give me some advice on this work. 😄__
 
 
 ## The architecture of HDSKG is as follows:
@@ -50,7 +50,7 @@ The `checkpoint` file will be uploaded soon.
 - package all parts
 - cluster all relations
 
-
+## Keep Going!🐱‍🏍
 
 
 
